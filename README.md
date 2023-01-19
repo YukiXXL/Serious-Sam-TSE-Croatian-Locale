@@ -1,2 +1,13 @@
-# Serious-Sam-TSE-Croatian-Locale
-Croatian Locale for TSE. Hrvatska Lokalizacija za TSE
+## Things to do
+- [X] Engine
+- [ ] Menu
+- [ ] Enemies
+- [ ] Weapons
+- [ ] Levels
+
+## Stvari za napravit
+- [X] Engine
+- [ ] Meni
+- [ ] Neprijatelji
+- [ ] Oružja
+- [ ] Leveli
