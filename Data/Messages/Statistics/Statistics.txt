@@ -1,0 +1,6 @@
+SUBJECT
+Statistika
+IMAGE
+Statistics
+TEXT
+$STAT

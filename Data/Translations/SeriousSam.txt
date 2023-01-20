@@ -1,0 +1,1651 @@
+384
+
+\0\<
+Command line error!\n
+
+\0\>
+$TODO$Command line error!\n
+
+\0\<
+Command line: '%s'\n
+
+\0\>
+$TODO$Command line: '%s'\n
+
+\0\<
+  Unknown option: '%s'\n
+
+\0\>
+$TODO$  Unknown option: '%s'\n
+
+\0\<
+speed
+\0\>
+$TODO$speed
+\0\<
+normal
+\0\>
+$TODO$normal
+\0\<
+quality
+\0\>
+$TODO$quality
+\0\<
+custom
+\0\>
+$TODO$custom
+\0\<
+unable to setup OpenGL settings list: %s
+\0\>
+$TODO$unable to setup OpenGL settings list: %s
+\0\<
+\n
+Automatic 3D-board preferences adjustment...\n
+
+\0\>
+$TODO$\n
+Automatic 3D-board preferences adjustment...\n
+
+\0\<
+Detected: %s - %s - %s\n
+
+\0\>
+$TODO$Detected: %s - %s - %s\n
+
+\0\<
+No matching preferences found! Automatic adjustment disabled!\n
+
+\0\>
+$TODO$No matching preferences found! Automatic adjustment disabled!\n
+
+\0\<
+Matching: %s (%s)\n
+
+\0\>
+$TODO$Matching: %s (%s)\n
+
+\0\<
+Similar to last, keeping same preferences.\n
+
+\0\>
+$TODO$Similar to last, keeping same preferences.\n
+
+\0\<
+Different than last, applying new preferences.\n
+
+\0\>
+$TODO$Different than last, applying new preferences.\n
+
+\0\<
+Applying new preferences.\n
+
+\0\>
+$TODO$Applying new preferences.\n
+
+\0\<
+Mode: %s\n
+
+\0\>
+$TODO$Mode: %s\n
+
+\0\<
+Done.\n
+\n
+
+\0\>
+$TODO$Done.\n
+\n
+
+\0\<
+<invalid level>
+\0\>
+$TODO$<invalid level>
+\0\<
+
+\0\>
+$TODO$
+\0\<
+Reading levels directory...\n
+
+\0\>
+$TODO$Reading levels directory...\n
+
+\0\<
+  file '%s' : 
+\0\>
+$TODO$  file '%s' : 
+\0\<
+'%s' spawn=0x%08x\n
+
+\0\>
+$TODO$'%s' spawn=0x%08x\n
+
+\0\<
+invalid level\n
+
+\0\>
+$TODO$invalid level\n
+
+\0\<
+Reading demos directory...\n
+
+\0\>
+$TODO$Reading demos directory...\n
+
+\0\<
+Cannot open main window!
+\0\>
+$TODO$Cannot open main window!
+\0\<
+Serious Sam (Window %dx%d)
+\0\>
+$TODO$Serious Sam (Window %dx%d)
+\0\<
+Serious Sam (FullScreen %dx%d)
+\0\>
+$TODO$Serious Sam (FullScreen %dx%d)
+\0\<
+No
+\0\>
+$TODO$No
+\0\<
+Yes
+\0\>
+$TODO$Yes
+\0\<
+Use
+\0\>
+$TODO$Use
+\0\<
+Double-click use
+\0\>
+$TODO$Double-click use
+\0\<
+Only if new
+\0\>
+$TODO$Only if new
+\0\<
+Never
+\0\>
+$TODO$Never
+\0\<
+Always
+\0\>
+$TODO$Always
+\0\<
+Only if stronger
+\0\>
+$TODO$Only if stronger
+\0\<
+2
+\0\>
+$TODO$2
+\0\<
+3
+\0\>
+$TODO$3
+\0\<
+4
+\0\>
+$TODO$4
+\0\<
+5
+\0\>
+$TODO$5
+\0\<
+6
+\0\>
+$TODO$6
+\0\<
+7
+\0\>
+$TODO$7
+\0\<
+8
+\0\>
+$TODO$8
+\0\<
+9
+\0\>
+$TODO$9
+\0\<
+10
+\0\>
+$TODO$10
+\0\<
+11
+\0\>
+$TODO$11
+\0\<
+12
+\0\>
+$TODO$12
+\0\<
+13
+\0\>
+$TODO$13
+\0\<
+14
+\0\>
+$TODO$14
+\0\<
+15
+\0\>
+$TODO$15
+\0\<
+16
+\0\>
+$TODO$16
+\0\<
+Tourist
+\0\>
+$TODO$Tourist
+\0\<
+Easy
+\0\>
+$TODO$Easy
+\0\<
+Normal
+\0\>
+$TODO$Normal
+\0\<
+Hard
+\0\>
+$TODO$Hard
+\0\<
+Serious
+\0\>
+$TODO$Serious
+\0\<
+Mental
+\0\>
+$TODO$Mental
+\0\<
+1
+\0\>
+$TODO$1
+\0\<
+2 - split screen
+\0\>
+$TODO$2 - split screen
+\0\<
+3 - split screen
+\0\>
+$TODO$3 - split screen
+\0\<
+4 - split screen
+\0\>
+$TODO$4 - split screen
+\0\<
+OpenGL
+\0\>
+$TODO$OpenGL
+\0\<
+Direct3D
+\0\>
+$TODO$Direct3D
+\0\<
+Speed
+\0\>
+$TODO$Speed
+\0\<
+Quality
+\0\>
+$TODO$Quality
+\0\<
+Custom
+\0\>
+$TODO$Custom
+\0\<
+Desktop
+\0\>
+$TODO$Desktop
+\0\<
+16 BPP
+\0\>
+$TODO$16 BPP
+\0\<
+32 BPP
+\0\>
+$TODO$32 BPP
+\0\<
+No sound
+\0\>
+$TODO$No sound
+\0\<
+11kHz
+\0\>
+$TODO$11kHz
+\0\<
+22kHz
+\0\>
+$TODO$22kHz
+\0\<
+44kHz
+\0\>
+$TODO$44kHz
+\0\<
+WaveOut
+\0\>
+$TODO$WaveOut
+\0\<
+DirectSound
+\0\>
+$TODO$DirectSound
+\0\<
+EAX
+\0\>
+$TODO$EAX
+\0\<
+%dx%d double
+\0\>
+$TODO$%dx%d double
+\0\<
+%dx%d wide
+\0\>
+$TODO$%dx%d wide
+\0\<
+ARE YOU SERIOUS?
+\0\>
+$TODO$ARE YOU SERIOUS?
+\0\<
+Server is running a different MOD (%s).\n
+You need to reload to connect.\n
+
+\0\>
+$TODO$Server is running a different MOD (%s).\n
+You need to reload to connect.\n
+
+\0\<
+CHANGE THE MOD?
+\0\>
+$TODO$CHANGE THE MOD?
+\0\<
+OVERWRITE?
+\0\>
+$TODO$OVERWRITE?
+\0\<
+LOAD THIS MOD?
+\0\>
+$TODO$LOAD THIS MOD?
+\0\<
+KEEP THIS SETTING?
+\0\>
+$TODO$KEEP THIS SETTING?
+\0\<
+PLEASE INSERT GAME CD?
+\0\>
+$TODO$PLEASE INSERT GAME CD?
+\0\<
+The feature is not available in this version!
+\0\>
+$TODO$The feature is not available in this version!
+\0\<
+DISABLED
+\0\>
+$TODO$DISABLED
+\0\<
+You don't have MOD '%s' installed.\n
+Do you want to visit its web site?
+\0\>
+$TODO$You don't have MOD '%s' installed.\n
+Do you want to visit its web site?
+\0\<
+ADVANCED OPTIONS
+\0\>
+$TODO$ADVANCED OPTIONS
+\0\<
+CHOOSE MODEL
+\0\>
+$TODO$CHOOSE MODEL
+\0\<
+LOAD CONTROLS
+\0\>
+$TODO$LOAD CONTROLS
+\0\<
+EXECUTE ADDON
+\0\>
+$TODO$EXECUTE ADDON
+\0\<
+CHOOSE MOD
+\0\>
+$TODO$CHOOSE MOD
+\0\<
+CONNECTION SETTINGS
+\0\>
+$TODO$CONNECTION SETTINGS
+\0\<
+Before joining a network game,\n
+you have to adjust your connection parameters.\n
+Choose one option from the list.\n
+If you have problems with connection, you can adjust\n
+these parameters again from the Options menu.\n
+
+\0\>
+$TODO$Before joining a network game,\n
+you have to adjust your connection parameters.\n
+Choose one option from the list.\n
+If you have problems with connection, you can adjust\n
+these parameters again from the Options menu.\n
+
+\0\<
+In-game QuickSave shortcuts:\n
+F6 - save a new QuickSave\n
+F9 - load the last QuickSave\n
+
+\0\>
+$TODO$In-game QuickSave shortcuts:\n
+F6 - save a new QuickSave\n
+F9 - load the last QuickSave\n
+
+\0\<
+QUICK LOAD
+\0\>
+$TODO$QUICK LOAD
+\0\<
+LOAD
+\0\>
+$TODO$LOAD
+\0\<
+SAVE
+\0\>
+$TODO$SAVE
+\0\<
+PLAY DEMO
+\0\>
+$TODO$PLAY DEMO
+\0\<
+RECORD DEMO
+\0\>
+$TODO$RECORD DEMO
+\0\<
+GAME OPTIONS
+\0\>
+$TODO$GAME OPTIONS
+\0\<
+RENDERING OPTIONS
+\0\>
+$TODO$RENDERING OPTIONS
+\0\<
+no thumbnail
+\0\>
+$TODO$no thumbnail
+\0\<
+Enter - OK, Escape - Cancel
+\0\>
+$TODO$Enter - OK, Escape - Cancel
+\0\<
+RESUME
+\0\>
+$TODO$RESUME
+\0\<
+return to game
+\0\>
+$TODO$return to game
+\0\<
+CANCEL
+\0\>
+$TODO$CANCEL
+\0\<
+cancel changes
+\0\>
+$TODO$cancel changes
+\0\<
+BACK
+\0\>
+$TODO$BACK
+\0\<
+return to previous menu
+\0\>
+$TODO$return to previous menu
+\0\<
+YES
+\0\>
+$TODO$YES
+\0\<
+NO
+\0\>
+$TODO$NO
+\0\<
+SINGLE PLAYER
+\0\>
+$TODO$SINGLE PLAYER
+\0\<
+single player game menus
+\0\>
+$TODO$single player game menus
+\0\<
+NETWORK
+\0\>
+$TODO$NETWORK
+\0\<
+LAN/iNet multiplayer menus
+\0\>
+$TODO$LAN/iNet multiplayer menus
+\0\<
+SPLIT SCREEN
+\0\>
+$TODO$SPLIT SCREEN
+\0\<
+play with multiple players on one computer
+\0\>
+$TODO$play with multiple players on one computer
+\0\<
+DEMO
+\0\>
+$TODO$DEMO
+\0\<
+play a game demo
+\0\>
+$TODO$play a game demo
+\0\<
+MODS
+\0\>
+$TODO$MODS
+\0\<
+run one of installed game modifications
+\0\>
+$TODO$run one of installed game modifications
+\0\<
+HIGH SCORES
+\0\>
+$TODO$HIGH SCORES
+\0\<
+view list of top ten best scores
+\0\>
+$TODO$view list of top ten best scores
+\0\<
+OPTIONS
+\0\>
+$TODO$OPTIONS
+\0\<
+adjust video, audio and input options
+\0\>
+$TODO$adjust video, audio and input options
+\0\<
+QUIT
+\0\>
+$TODO$QUIT
+\0\<
+exit game immediately
+\0\>
+$TODO$exit game immediately
+\0\<
+GAME
+\0\>
+$TODO$GAME
+\0\<
+load a quick-saved game (F9)
+\0\>
+$TODO$load a quick-saved game (F9)
+\0\<
+QUICK SAVE
+\0\>
+$TODO$QUICK SAVE
+\0\<
+quick-save current game (F6)
+\0\>
+$TODO$quick-save current game (F6)
+\0\<
+load a saved game
+\0\>
+$TODO$load a saved game
+\0\<
+save current game (each player has own slots!)
+\0\>
+$TODO$save current game (each player has own slots!)
+\0\<
+STOP GAME
+\0\>
+$TODO$STOP GAME
+\0\<
+stop currently running game
+\0\>
+$TODO$stop currently running game
+\0\<
+STOP RECORDING
+\0\>
+$TODO$STOP RECORDING
+\0\<
+stop current recording
+\0\>
+$TODO$stop current recording
+\0\<
+start recording current game
+\0\>
+$TODO$start recording current game
+\0\<
+Player: %s
+\0\>
+$TODO$Player: %s
+\0\<
+<not started yet>
+\0\>
+$TODO$<not started yet>
+\0\<
+Address: 
+\0\>
+$TODO$Address: 
+\0\<
+<not adjusted>
+\0\>
+$TODO$<not adjusted>
+\0\<
+Connected to: 
+\0\>
+$TODO$Connected to: 
+\0\<
+Connection: 
+\0\>
+$TODO$Connection: 
+\0\<
+NEW GAME
+\0\>
+$TODO$NEW GAME
+\0\<
+start new game with current player
+\0\>
+$TODO$start new game with current player
+\0\<
+CUSTOM LEVEL
+\0\>
+$TODO$CUSTOM LEVEL
+\0\<
+start new game on a custom level
+\0\>
+$TODO$start new game on a custom level
+\0\<
+load a saved game of current player
+\0\>
+$TODO$load a saved game of current player
+\0\<
+TRAINING
+\0\>
+$TODO$TRAINING
+\0\<
+start training level - KarnakDemo
+\0\>
+$TODO$start training level - KarnakDemo
+\0\<
+TECHNOLOGY TEST
+\0\>
+$TODO$TECHNOLOGY TEST
+\0\<
+start technology testing level
+\0\>
+$TODO$start technology testing level
+\0\<
+PLAYERS AND CONTROLS
+\0\>
+$TODO$PLAYERS AND CONTROLS
+\0\<
+change currently active player or adjust controls
+\0\>
+$TODO$change currently active player or adjust controls
+\0\<
+adjust miscellaneous game options
+\0\>
+$TODO$adjust miscellaneous game options
+\0\<
+Player: %s\n
+
+\0\>
+$TODO$Player: %s\n
+
+\0\<
+TOURIST
+\0\>
+$TODO$TOURIST
+\0\<
+for non-FPS players
+\0\>
+$TODO$for non-FPS players
+\0\<
+EASY
+\0\>
+$TODO$EASY
+\0\<
+for unexperienced FPS players
+\0\>
+$TODO$for unexperienced FPS players
+\0\<
+NORMAL
+\0\>
+$TODO$NORMAL
+\0\<
+for experienced FPS players
+\0\>
+$TODO$for experienced FPS players
+\0\<
+HARD
+\0\>
+$TODO$HARD
+\0\<
+for experienced Serious Sam players
+\0\>
+$TODO$for experienced Serious Sam players
+\0\<
+SERIOUS
+\0\>
+$TODO$SERIOUS
+\0\<
+are you serious?
+\0\>
+$TODO$are you serious?
+\0\<
+MENTAL
+\0\>
+$TODO$MENTAL
+\0\<
+you are not serious!
+\0\>
+$TODO$you are not serious!
+\0\<
+PLAYER PROFILE
+\0\>
+$TODO$PLAYER PROFILE
+\0\<
+PROFILE:
+\0\>
+$TODO$PROFILE:
+\0\<
+select new currently active player
+\0\>
+$TODO$select new currently active player
+\0\<
+NAME:
+\0\>
+$TODO$NAME:
+\0\<
+rename currently active player
+\0\>
+$TODO$rename currently active player
+\0\<
+TEAM:
+\0\>
+$TODO$TEAM:
+\0\<
+enter team name, if playing in team
+\0\>
+$TODO$enter team name, if playing in team
+\0\<
+CROSSHAIR
+\0\>
+$TODO$CROSSHAIR
+\0\<
+AUTO SELECT WEAPON
+\0\>
+$TODO$AUTO SELECT WEAPON
+\0\<
+HIDE WEAPON MODEL
+\0\>
+$TODO$HIDE WEAPON MODEL
+\0\<
+PREFER 3RD PERSON VIEW
+\0\>
+$TODO$PREFER 3RD PERSON VIEW
+\0\<
+VOICE QUOTES
+\0\>
+$TODO$VOICE QUOTES
+\0\<
+AUTO SAVE
+\0\>
+$TODO$AUTO SAVE
+\0\<
+INVOKE COMPUTER
+\0\>
+$TODO$INVOKE COMPUTER
+\0\<
+SHARP TURNING
+\0\>
+$TODO$SHARP TURNING
+\0\<
+VIEW BOBBING
+\0\>
+$TODO$VIEW BOBBING
+\0\<
+CUSTOMIZE CONTROLS
+\0\>
+$TODO$CUSTOMIZE CONTROLS
+\0\<
+customize controls for this player
+\0\>
+$TODO$customize controls for this player
+\0\<
+change model for this player
+\0\>
+$TODO$change model for this player
+\0\<
+cannot change model for single-player game
+\0\>
+$TODO$cannot change model for single-player game
+\0\<
+CONTROLS
+\0\>
+$TODO$CONTROLS
+\0\<
+CUSTOMIZE BUTTONS
+\0\>
+$TODO$CUSTOMIZE BUTTONS
+\0\<
+customize buttons in current controls
+\0\>
+$TODO$customize buttons in current controls
+\0\<
+ADVANCED JOYSTICK SETUP
+\0\>
+$TODO$ADVANCED JOYSTICK SETUP
+\0\<
+adjust advanced settings for joystick axis
+\0\>
+$TODO$adjust advanced settings for joystick axis
+\0\<
+SENSITIVITY
+\0\>
+$TODO$SENSITIVITY
+\0\<
+sensitivity for all axis in this control set
+\0\>
+$TODO$sensitivity for all axis in this control set
+\0\<
+INVERT LOOK
+\0\>
+$TODO$INVERT LOOK
+\0\<
+invert up/down looking
+\0\>
+$TODO$invert up/down looking
+\0\<
+SMOOTH AXIS
+\0\>
+$TODO$SMOOTH AXIS
+\0\<
+smooth mouse/joystick movements
+\0\>
+$TODO$smooth mouse/joystick movements
+\0\<
+MOUSE ACCELERATION
+\0\>
+$TODO$MOUSE ACCELERATION
+\0\<
+allow mouse acceleration
+\0\>
+$TODO$allow mouse acceleration
+\0\<
+ENABLE IFEEL
+\0\>
+$TODO$ENABLE IFEEL
+\0\<
+enable support for iFeel tactile feedback mouse
+\0\>
+$TODO$enable support for iFeel tactile feedback mouse
+\0\<
+LOAD PREDEFINED SETTINGS
+\0\>
+$TODO$LOAD PREDEFINED SETTINGS
+\0\<
+load one of several predefined control settings
+\0\>
+$TODO$load one of several predefined control settings
+\0\<
+CONTROLS FOR: %s
+\0\>
+$TODO$CONTROLS FOR: %s
+\0\<
+<save a new one>
+\0\>
+$TODO$<save a new one>
+\0\<
+<empty>
+\0\>
+$TODO$<empty>
+\0\<
+Enter - save in new slot
+\0\>
+$TODO$Enter - save in new slot
+\0\<
+Enter - save here, F2 - rename, Del - delete
+\0\>
+$TODO$Enter - save here, F2 - rename, Del - delete
+\0\<
+Enter - load this, F2 - rename, Del - delete
+\0\>
+$TODO$Enter - load this, F2 - rename, Del - delete
+\0\<
+Enter - load this
+\0\>
+$TODO$Enter - load this
+\0\<
+From player: %s
+\0\>
+$TODO$From player: %s
+\0\<
+HIGH SCORE TABLE
+\0\>
+$TODO$HIGH SCORE TABLE
+\0\<
+Enter - change binding, Backspace - unbind
+\0\>
+$TODO$Enter - change binding, Backspace - unbind
+\0\<
+CUSTOMIZE AXIS
+\0\>
+$TODO$CUSTOMIZE AXIS
+\0\<
+ACTION
+\0\>
+$TODO$ACTION
+\0\<
+choose action to customize
+\0\>
+$TODO$choose action to customize
+\0\<
+MOUNTED TO
+\0\>
+$TODO$MOUNTED TO
+\0\<
+choose controller axis that will perform the action
+\0\>
+$TODO$choose controller axis that will perform the action
+\0\<
+set sensitivity for this axis
+\0\>
+$TODO$set sensitivity for this axis
+\0\<
+DEAD ZONE
+\0\>
+$TODO$DEAD ZONE
+\0\<
+set dead zone for this axis
+\0\>
+$TODO$set dead zone for this axis
+\0\<
+INVERTED
+\0\>
+$TODO$INVERTED
+\0\<
+choose whether to invert this axis or not
+\0\>
+$TODO$choose whether to invert this axis or not
+\0\<
+RELATIVE
+\0\>
+$TODO$RELATIVE
+\0\<
+select relative or absolute axis reading
+\0\>
+$TODO$select relative or absolute axis reading
+\0\<
+SMOOTH
+\0\>
+$TODO$SMOOTH
+\0\<
+turn this on to filter readings on this axis
+\0\>
+$TODO$turn this on to filter readings on this axis
+\0\<
+VIDEO OPTIONS
+\0\>
+$TODO$VIDEO OPTIONS
+\0\<
+set video mode and driver
+\0\>
+$TODO$set video mode and driver
+\0\<
+AUDIO OPTIONS
+\0\>
+$TODO$AUDIO OPTIONS
+\0\<
+set audio quality and volume
+\0\>
+$TODO$set audio quality and volume
+\0\<
+NETWORK CONNECTION
+\0\>
+$TODO$NETWORK CONNECTION
+\0\<
+choose your connection parameters
+\0\>
+$TODO$choose your connection parameters
+\0\<
+for advanced users only
+\0\>
+$TODO$for advanced users only
+\0\<
+choose from list of addons to execute
+\0\>
+$TODO$choose from list of addons to execute
+\0\<
+VIDEO
+\0\>
+$TODO$VIDEO
+\0\<
+GRAPHICS API
+\0\>
+$TODO$GRAPHICS API
+\0\<
+choose graphics API to be used
+\0\>
+$TODO$choose graphics API to be used
+\0\<
+DISPLAY ADAPTER
+\0\>
+$TODO$DISPLAY ADAPTER
+\0\<
+choose display adapter to be used
+\0\>
+$TODO$choose display adapter to be used
+\0\<
+PREFERENCES
+\0\>
+$TODO$PREFERENCES
+\0\<
+balance between speed and rendering quality, depending on your system
+\0\>
+$TODO$balance between speed and rendering quality, depending on your system
+\0\<
+ASPECT RATIO
+\0\>
+$TODO$ASPECT RATIO
+\0\<
+select display aspect ratio
+\0\>
+$TODO$select display aspect ratio
+\0\<
+RESOLUTION
+\0\>
+$TODO$RESOLUTION
+\0\<
+select video mode resolution
+\0\>
+$TODO$select video mode resolution
+\0\<
+FULL SCREEN
+\0\>
+$TODO$FULL SCREEN
+\0\<
+make game run in a window or in full screen
+\0\>
+$TODO$make game run in a window or in full screen
+\0\<
+BITS PER PIXEL
+\0\>
+$TODO$BITS PER PIXEL
+\0\<
+select number of colors used for display
+\0\>
+$TODO$select number of colors used for display
+\0\<
+manually adjust rendering settings
+\0\>
+$TODO$manually adjust rendering settings
+\0\<
+APPLY
+\0\>
+$TODO$APPLY
+\0\<
+apply selected options
+\0\>
+$TODO$apply selected options
+\0\<
+AUDIO
+\0\>
+$TODO$AUDIO
+\0\<
+AUTO-ADJUST
+\0\>
+$TODO$AUTO-ADJUST
+\0\<
+adjust quality to fit your system
+\0\>
+$TODO$adjust quality to fit your system
+\0\<
+FREQUENCY
+\0\>
+$TODO$FREQUENCY
+\0\<
+select sound quality or turn sound off
+\0\>
+$TODO$select sound quality or turn sound off
+\0\<
+SOUND SYSTEM
+\0\>
+$TODO$SOUND SYSTEM
+\0\<
+choose sound system (API) to use
+\0\>
+$TODO$choose sound system (API) to use
+\0\<
+SOUND EFFECTS VOLUME
+\0\>
+$TODO$SOUND EFFECTS VOLUME
+\0\<
+adjust volume of in-game sound effects
+\0\>
+$TODO$adjust volume of in-game sound effects
+\0\<
+MUSIC VOLUME
+\0\>
+$TODO$MUSIC VOLUME
+\0\<
+adjust volume of in-game music
+\0\>
+$TODO$adjust volume of in-game music
+\0\<
+activate selected options
+\0\>
+$TODO$activate selected options
+\0\<
+CHOOSE LEVEL
+\0\>
+$TODO$CHOOSE LEVEL
+\0\<
+apply changes
+\0\>
+$TODO$apply changes
+\0\<
+CHOOSE SERVER
+\0\>
+$TODO$CHOOSE SERVER
+\0\<
+REFRESH
+\0\>
+$TODO$REFRESH
+\0\<
+Server
+\0\>
+$TODO$Server
+\0\<
+Map
+\0\>
+$TODO$Map
+\0\<
+Ping
+\0\>
+$TODO$Ping
+\0\<
+Players
+\0\>
+$TODO$Players
+\0\<
+Game
+\0\>
+$TODO$Game
+\0\<
+Mod
+\0\>
+$TODO$Mod
+\0\<
+Ver
+\0\>
+$TODO$Ver
+\0\<
+sort by server
+\0\>
+$TODO$sort by server
+\0\<
+sort by map
+\0\>
+$TODO$sort by map
+\0\<
+sort by ping
+\0\>
+$TODO$sort by ping
+\0\<
+sort by players
+\0\>
+$TODO$sort by players
+\0\<
+sort by game
+\0\>
+$TODO$sort by game
+\0\<
+sort by mod
+\0\>
+$TODO$sort by mod
+\0\<
+sort by version
+\0\>
+$TODO$sort by version
+\0\<
+filter by server
+\0\>
+$TODO$filter by server
+\0\<
+filter by map
+\0\>
+$TODO$filter by map
+\0\<
+filter by ping (ie. <200)
+\0\>
+$TODO$filter by ping (ie. <200)
+\0\<
+filter by players (ie. >=2)
+\0\>
+$TODO$filter by players (ie. >=2)
+\0\<
+filter by game (ie. coop)
+\0\>
+$TODO$filter by game (ie. coop)
+\0\<
+filter by mod
+\0\>
+$TODO$filter by mod
+\0\<
+filter by version
+\0\>
+$TODO$filter by version
+\0\<
+JOIN GAME
+\0\>
+$TODO$JOIN GAME
+\0\<
+join a network game
+\0\>
+$TODO$join a network game
+\0\<
+START SERVER
+\0\>
+$TODO$START SERVER
+\0\<
+start a network game server
+\0\>
+$TODO$start a network game server
+\0\<
+start server and load a network game (server only)
+\0\>
+$TODO$start server and load a network game (server only)
+\0\<
+SEARCH LAN
+\0\>
+$TODO$SEARCH LAN
+\0\<
+search local network for servers
+\0\>
+$TODO$search local network for servers
+\0\<
+SEARCH INTERNET
+\0\>
+$TODO$SEARCH INTERNET
+\0\<
+search internet for servers
+\0\>
+$TODO$search internet for servers
+\0\<
+SPECIFY SERVER
+\0\>
+$TODO$SPECIFY SERVER
+\0\<
+type in server address to connect to
+\0\>
+$TODO$type in server address to connect to
+\0\<
+Session name:
+\0\>
+$TODO$Session name:
+\0\<
+name the session to start
+\0\>
+$TODO$name the session to start
+\0\<
+Game type:
+\0\>
+$TODO$Game type:
+\0\<
+choose type of multiplayer game
+\0\>
+$TODO$choose type of multiplayer game
+\0\<
+Difficulty:
+\0\>
+$TODO$Difficulty:
+\0\<
+choose difficulty level
+\0\>
+$TODO$choose difficulty level
+\0\<
+Level:
+\0\>
+$TODO$Level:
+\0\<
+choose the level to start
+\0\>
+$TODO$choose the level to start
+\0\<
+Max players:
+\0\>
+$TODO$Max players:
+\0\<
+choose maximum allowed number of players
+\0\>
+$TODO$choose maximum allowed number of players
+\0\<
+Wait for all players:
+\0\>
+$TODO$Wait for all players:
+\0\<
+if on, game won't start until all players have joined
+\0\>
+$TODO$if on, game won't start until all players have joined
+\0\<
+Server visible:
+\0\>
+$TODO$Server visible:
+\0\<
+invisible servers are not listed, cleints have to join manually
+\0\>
+$TODO$invisible servers are not listed, cleints have to join manually
+\0\<
+Game options
+\0\>
+$TODO$Game options
+\0\<
+adjust game rules
+\0\>
+$TODO$adjust game rules
+\0\<
+START
+\0\>
+$TODO$START
+\0\<
+Make sure you set different controls for each player!
+\0\>
+$TODO$Make sure you set different controls for each player!
+\0\<
+SELECT PLAYERS
+\0\>
+$TODO$SELECT PLAYERS
+\0\<
+Dedicated:
+\0\>
+$TODO$Dedicated:
+\0\<
+select to start dedicated server
+\0\>
+$TODO$select to start dedicated server
+\0\<
+Observer:
+\0\>
+$TODO$Observer:
+\0\<
+select to join in for observing, not for playing
+\0\>
+$TODO$select to join in for observing, not for playing
+\0\<
+Number of players:
+\0\>
+$TODO$Number of players:
+\0\<
+choose more than one player to play in split screen
+\0\>
+$TODO$choose more than one player to play in split screen
+\0\<
+select profile for this player
+\0\>
+$TODO$select profile for this player
+\0\<
+JOIN
+\0\>
+$TODO$JOIN
+\0\<
+Address:
+\0\>
+$TODO$Address:
+\0\<
+specify server address
+\0\>
+$TODO$specify server address
+\0\<
+Port:
+\0\>
+$TODO$Port:
+\0\<
+Join
+\0\>
+$TODO$Join
+\0\<
+start new split-screen game
+\0\>
+$TODO$start new split-screen game
+\0\<
+load a saved split-screen game
+\0\>
+$TODO$load a saved split-screen game
+\0\<
+START SPLIT SCREEN
+\0\>
+$TODO$START SPLIT SCREEN
+\0\<
+No model
+\0\>
+$TODO$No model
+\0\<
+<none>
+\0\>
+$TODO$<none>
+\0\<
+Page Up
+\0\>
+$TODO$Page Up
+\0\<
+Page Down
+\0\>
+$TODO$Page Down
+\0\<
+No.
+\0\>
+$TODO$No.
+\0\<
+Player Name
+\0\>
+$TODO$Player Name
+\0\<
+Difficulty
+\0\>
+$TODO$Difficulty
+\0\<
+Time
+\0\>
+$TODO$Time
+\0\<
+Kills
+\0\>
+$TODO$Kills
+\0\<
+Score
+\0\>
+$TODO$Score
+\0\<
+none
+\0\>
+$TODO$none
+\0\<
+searching...
+\0\>
+$TODO$searching...
+\0\<
+Player %d: %s\n
+
+\0\>
+$TODO$Player %d: %s\n
+
+\0\<
+ or 
+\0\>
+$TODO$ or 
+\0\<
+-   T H E   S E C O N D   E N C O U N T E R   -
+\0\>
+$TODO$-   T H E   S E C O N D   E N C O U N T E R   -
+\0\<
+Loading game library '%s'...\n
+
+\0\>
+$TODO$Loading game library '%s'...\n
+
+\0\<
+SeriousSam is starting for the first time.\n
+If you experience any problems, please consult\n
+ReadMe file for troubleshooting information.
+\0\>
+$TODO$SeriousSam is starting for the first time.\n
+If you experience any problems, please consult\n
+ReadMe file for troubleshooting information.
+\0\<
+Serious Sam version: %s\n
+
+\0\>
+$TODO$Serious Sam version: %s\n
+
+\0\<
+Active mod: %s\n
+
+\0\>
+$TODO$Active mod: %s\n
+
+\0\<
+Command line connection: '%s%s'\n
+
+\0\>
+$TODO$Command line connection: '%s%s'\n
+
+\0\<
+Command line world: '%s'\n
+
+\0\>
+$TODO$Command line world: '%s'\n
+
+\0\<
+Command line marker: %d\n
+
+\0\>
+$TODO$Command line marker: %d\n
+
+\0\<
+Cannot start '%s': '%s'\n
+
+\0\>
+$TODO$Cannot start '%s': '%s'\n
+
+\0\<
+WARNING: SeriousSam didn't shut down properly last time!\n
+
+\0\>
+$TODO$WARNING: SeriousSam didn't shut down properly last time!\n
+
+\0\<
+ DualMonitor
+\0\>
+$TODO$ DualMonitor
+\0\<
+ WideScreen
+\0\>
+$TODO$ WideScreen
+\0\<
+Display mode set by default!
+\0\>
+$TODO$Display mode set by default!
+\0\<
+Last mode set failed!
+\0\>
+$TODO$Last mode set failed!
+\0\<
+---- Executing addon: '%s'\n
+
+\0\>
+$TODO$---- Executing addon: '%s'\n
+
+\0\<
+Addon done, press Escape to close console\n
+
+\0\>
+$TODO$Addon done, press Escape to close console\n
+
+\0\<
+fullscreen
+\0\>
+$TODO$fullscreen
+\0\<
+window
+\0\>
+$TODO$window
+\0\<
+  Starting display mode: %dx%dx%s (%s)\n
+
+\0\>
+$TODO$  Starting display mode: %dx%dx%s (%s)\n
+
+\0\<
+This mode does not support hardware acceleration.\n
+
+\0\>
+$TODO$This mode does not support hardware acceleration.\n
+
+\0\<
+\n
+* START NEW DISPLAY MODE ...\n
+
+\0\>
+$TODO$\n
+* START NEW DISPLAY MODE ...\n
+
+\0\<
+Requested display mode could not be set!\n
+
+\0\>
+$TODO$Requested display mode could not be set!\n
+
+\0\<
+\n
+Trying recovery mode %d...\n
+
+\0\>
+$TODO$\n
+Trying recovery mode %d...\n
+
+\0\<
+Cannot set display mode!\n
+Serious Sam was unable to find display mode with hardware acceleration.\n
+Make sure you install proper drivers for your video card as recommended\n
+in documentation and set your desktop to 16 bit (65536 colors).\n
+Please see ReadMe file for troubleshooting information.\n
+
+\0\>
+$TODO$Cannot set display mode!\n
+Serious Sam was unable to find display mode with hardware acceleration.\n
+Make sure you install proper drivers for your video card as recommended\n
+in documentation and set your desktop to 16 bit (65536 colors).\n
+Please see ReadMe file for troubleshooting information.\n
+
+\0\<
+Unexpected end of file
+\0\>
+$TODO$Unexpected end of file
+\0\<
+Expected %s%s before filename
+\0\>
+$TODO$Expected %s%s before filename
+\0\<
+unknown keyword
+\0\>
+$TODO$unknown keyword
+\0\<
+Warning: Cannot initialize support for GameSpy server enumeration.\n
+
+\0\>
+$TODO$Warning: Cannot initialize support for GameSpy server enumeration.\n
+
+\0\<
+getting list
+\0\>
+$TODO$getting list
+\0\<
+searching LAN
+\0\>
+$TODO$searching LAN
+\0\<
+querying servers
+\0\>
+$TODO$querying servers
+\0\$

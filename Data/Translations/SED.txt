@@ -1,0 +1,19 @@
+3
+
+\0\<
+Command line: '%s'\n
+
+\0\>
+$TODO$Command line: '%s'\n
+
+\0\<
+Command line error!\n
+
+\0\>
+$TODO$Command line error!\n
+
+\0\<
+Cannot write texture that has modified frames.
+\0\>
+$TODO$Cannot write texture that has modified frames.
+\0\$

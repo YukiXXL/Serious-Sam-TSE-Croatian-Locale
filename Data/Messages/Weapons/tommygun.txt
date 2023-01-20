@@ -1,0 +1,19 @@
+SUBJECT
+M1-A2 Thompson "Tommygun" Strojnica
+IMAGE
+model
+tommygun
+TEXT
+
+ORUŽJE:     M1-A2 Thompson Strojnica
+MUNICIJA:   5.56mm meci
+BP:         600 metaka/min
+CIJEV:      25,4 cm
+
+OPIS:
+
+Izum generala Thompsona preživio je 2 svjetska rata i uz nedavne izmjene ponovo je u upotrebi. Ovaj oldtimer modificiran je da prima klasiènu 5.56mm municiju te da bude kompatibilan sa ostalim pješadijskim naoružanjem, a njegov redenik može se puniti iz bilo kojeg standardnog paketa sa municijom.
+
+BILJEŠKE:
+
+- Pruža moguænost automatske i rafalne paljbe

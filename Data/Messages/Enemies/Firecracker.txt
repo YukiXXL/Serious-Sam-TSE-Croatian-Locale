@@ -1,0 +1,25 @@
+SUBJECT
+Bezglavi iskraš
+IMAGE
+model
+Firecracker
+TEXT
+
+KLASA:         Bezglavi iskraš
+METABOLIZAM:   cyber-zombi
+POIMANJE:      nesvjestan, daljinski (LCU) upravljan
+VELIÈINA:      2 m
+IZDRŽLJIVOST:  vrlo mala
+AGRESIVNOST:   vrlo mala
+ORUŽJE:        magièni lanser raketa
+VRIJEDI:       200 FC
+PRIJETNJA:     nikakva
+
+OPIS:
+
+Nastao od smaknutih Sirijanskih vojnika, u život ga vraæa Mental i daljinski upravlja pomoæu Jedinice za Upravljanje Životom (LCU).
+Iskraš nosi vlastitu glavu u rukama da prima audio-vizualne podražaje i ispucava 5 magiènih raketa zaredom iz slabog lansera ugraðenog u ruku. Imuni su na svoje rakete.
+
+SAVJETI:
+
+- Nema problema

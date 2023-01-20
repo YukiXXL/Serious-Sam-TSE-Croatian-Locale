@@ -1,0 +1,25 @@
+SUBJECT
+Bezglavi raketaš
+IMAGE
+model
+rocketman
+TEXT
+
+KLASA:        Bezglavi raketaš
+METABOLIZAM:  cyber-zombi
+POIMANJE:     nesvjestan, daljinski (LCU) upravljan
+VELIÈINA:     2 m
+IZDRŽLJIVOST: vrlo mala
+AGRESIVNOST:  vrlo mala
+ORUŽJE:       magièni lanser projektila
+VRIJEDI:      200 FC
+PRIJETNJA:    nikakva
+
+OPIS:
+
+Nastao od smaknutih Sirijanskih vojnika, u život ga vraæa Mental i daljinski upravlja pomoæu Jedinice za Upravljanje Životom (LCU).
+Raketaš nosi vlastitu glavu u rukama da prima audio-vizualne podražaje i ispucava 1 magièni projektil iz slabog lansera ugraðenog u ruku. Imuni su na svoje projektile.
+
+SAVJETI:
+
+- Nema problema
