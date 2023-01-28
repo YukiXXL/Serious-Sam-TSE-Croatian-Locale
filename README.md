@@ -3,7 +3,7 @@
 - [X] Meni
 - [ ] Neprijatelji
 - [ ] Oružja
-- [-] Leveli
+- [ ] Leveli
 
 # FAQ
 1. Šta je ovo?
