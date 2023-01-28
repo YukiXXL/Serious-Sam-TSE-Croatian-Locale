@@ -1,9 +1,9 @@
 # Stvari za napravit
 - [X] Engine
-- [ ] Meni
+- [X] Meni
 - [ ] Neprijatelji
 - [ ] Oružja
-- [ ] Leveli
+- [X] Leveli
 
 # FAQ
 1. Šta je ovo?
