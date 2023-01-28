@@ -1,9 +1,10 @@
 # Stvari za napravit
 - [X] Engine
 - [X] Meni
+- [X] Trigger poruke
 - [ ] Neprijatelji
 - [ ] Oružja
-- [ ] Leveli
+- [ ] Poruke u levelima
 
 # FAQ
 1. Šta je ovo?
