@@ -16,10 +16,9 @@
   
 # Instalacija
 1. Kloniraj ili skini ".zip" datoteku od ovog repositorija.
-2. 
 - Ako si klonirao, stavi stvari u ".zip" datoteku i preimenuj je da bude ".gro".
 - Ako si skinuo ".zip", onda samo preimenuj da bude ".gro".
-3. Kopiraj u folder gdje je lociran TSE.
+2. Kopiraj u folder gdje je lociran TSE.
 
 # Micanje
 Samo izbriši ".gro" datoteku koju si stavio u TSE folder.
