@@ -168,7 +168,7 @@ Skriveni moæni kamikaze aktiviran!
 \0\<
 Secret mega ultra explosion has been activated!
 \0\>
-Skrivena moæna eksplozija aktivirana!
+Skrivena mega eksplozija aktivirana!
 \0\<
 Secret suicidal plant has been discovered!
 \0\>
@@ -181,64 +181,64 @@ Jama
 \0\<
 Secret rocket festival has been activated!
 \0\>
-$TODO$Secret rocket festival has been activated!
+Skriveni raketni festival aktiviran!
 \0\<
 Secret rocket festival gear have been found!
 \0\>
-$TODO$Secret rocket festival gear have been found!
+Skrivena oprema raketnog festivala pronaðena!
 \0\<
 Secret ammo has been revealed!
 \0\>
-$TODO$Secret ammo has been revealed!
+Skrivena municija otkrivena!
 \0\<
 Secret broken teleport has been found!
 \0\>
-$TODO$Secret broken teleport has been found!
+Skriveni pokvareni teleport otkriven!
 \0\<
 Secret annoying Pinky's lost brothers have been summoned!
 \0\>
-$TODO$Secret annoying Pinky's lost brothers have been summoned!
+Skrivena dosadna i izgubljena Pinkijeva braæa bijaše prizvani!
 
 \0\<
 Ziggurat
 \0\>
-Ziggurat
+Zigurat
 \0\<
 Serious Damage spawned!
 \0\>
-$TODO$Serious Damage spawned!
+Super Štetnost se pojaviše!
 \0\<
 Right Hawk Wing placed!
 \0\>
-$TODO$Right Hawk Wing placed!
+Desno krilo jastreba postavljeno!
 \0\<
 Left Hawk Wing placed!
 \0\>
-$TODO$Left Hawk Wing placed!
+Lijevo krilo jastreba postavljeno!
 \0\<
 Sacred stone touched!
 \0\>
-$TODO$Sacred stone touched!
+Sveti kamen dodirnut!
 \0\<
 Secret powerup revealed!
 \0\>
-$TODO$Secret powerup revealed!
+Skrvena nadogradnja otkrivena!
 \0\<
 Boxing Barry Secret enabled!
 \0\>
-$TODO$Boxing Barry Secret enabled!
+Skrivalica Boksaèa Barrya je postala dostupna!
 \0\<
 Secret Boxing Barry has punched in the first round!
 \0\>
-$TODO$Secret Boxing Barry has punched in the first round!
+Skriveni Boksaè Barry je bacio udarac u prvoj rundi!
 \0\<
 Secret power up has been found!
 \0\>
-$TODO$Secret power up has been found!
+Skrivena nadogradnja pronaðena!
 \0\<
 Secret suicidal avenger plant has been discovered!
 \0\>
-$TODO$Secret suicidal avenger plant has been discovered!
+Skrivena samoubilaèka osvetnièka biljka otkrivena!
 
 \0\<
 The Elephant Atrium
@@ -247,39 +247,39 @@ Atrij Slonova
 \0\<
 You cleaned yourself!
 \0\>
-$TODO$You cleaned yourself!
+Oèistio si se!
 \0\<
 Secret doors unlocked!
 \0\>
-$TODO$Secret doors unlocked!
+Skrivena vrata su se otkljuèala!
 \0\<
 Bravo! You killed 6 Kleers in the air!
 \0\>
-$TODO$Bravo! You killed 6 Kleers in the air!
+Bravo! Smaknuo si 6 Kleerova u zraku!
 \0\<
 Secret yard has been unsealed!
 \0\>
-$TODO$Secret yard has been unsealed!
+Skriveno dvorište je osloboðeno!
 \0\<
 Secret plant has been mutated!
 \0\>
-$TODO$Secret plant has been mutated!
+Skrivena biljka se izmjenila!
 \0\<
 Secret horse power has been encountered!
 \0\>
-$TODO$Secret horse power has been encountered!
+Skrivena konjska snaga doživljena!
 \0\<
 Secret yard has been discovered!
 \0\>
-$TODO$Secret yard has been discovered!
+Skriveno dvorište pronaðeno!
 \0\<
 Secret ammo depot has been unlocked!
 \0\>
-$TODO$Secret ammo depot has been unlocked!
+Skriveno skladište municije se otkljuèalo!
 \0\<
 Secret pyramid has been destroyed!
 \0\>
-$TODO$Secret pyramid has been destroyed!
+Skrivena piramida bijaše uništena!
 
 \0\<
 Courtyards of Gilgamesh
@@ -288,31 +288,31 @@ Dvorišta Gilgameša
 \0\<
 Secret ammo pack has been collected!
 \0\>
-$TODO$Secret ammo pack has been collected!
+Skriveni paket municije pokupljen!
 \0\<
 Secret room has been found!
 \0\>
-$TODO$Secret room has been found!
+Skrivena soba pronaðena!
 \0\<
 Secret mutated plant and friends have been found!
 \0\>
-$TODO$Secret mutated plant and friends have been found!
+Skrivena izmjenjena biljka i prijatelji su pronaðeni!
 \0\<
 Secret dont push detonator has been revealed!
 \0\>
-$TODO$Secret dont push detonator has been revealed!
+Skriveni detonator sa oznakom "ne pritišæi" otkriven!
 \0\<
 Secret room has been opened!
 \0\>
-$TODO$Secret room has been opened!
+Skrivena soba se otvorila!
 \0\<
 Secret switch has been activated!
 \0\>
-$TODO$Secret switch has been activated!
+Skriveni prekidaè aktiviran!
 \0\<
 Just kidding! :)
 \0\>
-$TODO$Just kidding! :)
+Samo se šalim! :)
 
 \0\<
 Tower of Babel
@@ -321,19 +321,19 @@ Babilonski Toranj
 \0\<
 Secret round two has been discovered!
 \0\>
-$TODO$Secret round two has been discovered!
+Skrivena druga runda pronaðena!
 \0\<
 Secret deadly midgets have been activated!
 \0\>
-$TODO$Secret deadly midgets have been activated!
+Skriveni smrtonosni patuljci aktivirani!
 \0\<
 Secret passage to Egypt level has been found!
 \0\>
-$TODO$Secret passage to Egypt level has been found!
+Skriveni prolaz do Egipatske razine otkriven!
 \0\<
 Secret MIGHTY GIZMO has been encountered!
 \0\>
-$TODO$Secret MIGHTY GIZMO has been encountered!
+Skriveni MOÆNI MOÈVARNI SKAKUTAVAC doživljen!
 
 \0\<
 The Citadel
@@ -342,35 +342,35 @@ Tvrðava
 \0\<
 MIDNIGHT MEGA SECRET ENABLED!
 \0\>
-$TODO$MIDNIGHT MEGA SECRET ENABLED!
+PONOÆNA MEGA SKRIVALICA JE DOSTUPNA!
 \0\<
 MIDNIGHT MEGA SECRET DISABLED!
 \0\>
-$TODO$MIDNIGHT MEGA SECRET DISABLED!
+PONOÆNA MEGA SKRIVALICA JE NEDOSTUPNA!
 \0\<
 Secret K.O. glove has been found!
 \0\>
-$TODO$Secret K.O. glove has been found!
+Skrivena K.O. rukavica pronaðena!
 \0\<
 Secret invulnerability has been found!
 \0\>
-$TODO$Secret invulnerability has been found!
+Skrivena nadogradnja Neuništivosti pronaðena!
 \0\<
 Secret graves have been found!
 \0\>
-$TODO$Secret graves have been found!
+Skrivena grobovi pronaðeni!
 \0\<
 Secret jumping plant has been activated!
 \0\>
-$TODO$Secret jumping plant has been activated!
+Skrivena skakajuæa biljka aktivirana!
 \0\<
 Secret midnight items have been found!
 \0\>
-$TODO$Secret midnight items have been found!
+Skriveni ponoæni predmeti pronaðeni!
 \0\<
 Geek teleport activated.
 \0\>
-$TODO$Geek teleport activated.
+Štreberski teleport aktiviran.
 
 \0\<
 Land of the Damned
@@ -379,19 +379,19 @@ Zemlja Prokletih
 \0\<
 Secret snowman avenger has been terminated!
 \0\>
-$TODO$Secret snowman avenger has been terminated!
+Skriveni osvetnièki snjegoviæ uništen!
 \0\<
 Secret jammed santa has been unpluged!
 \0\>
-$TODO$Secret jammed santa has been unpluged!
+Skriveni zaglavljeni djed mraz odglavljen!
 \0\<
 Secret incredible shrinking snowman has been destroyed!
 \0\>
-$TODO$Secret incredible shrinking snowman has been destroyed!
+Skriveni nevjerojatno smanjivajuæi snjegoviæ uništen!
 \0\<
 Secret Santa has been summoned!
 \0\>
-$TODO$Secret Santa has been summoned!
+Skriveni Djed Mraz se pojaviše!
 
 \0\<
 The Grand Cathedral
@@ -400,31 +400,31 @@ Vrhovna Katedrala
 \0\<
 Secret power up has been launched!
 \0\>
-$TODO$Secret power up has been launched!
+Skrivena nadogradnja se lansirala!
 \0\<
 Pink secret has been enabled!
 \0\>
-$TODO$Pink secret has been enabled!
+Ružièasta skrivalica je upravo postala dostupna!
 \0\<
 Mental: Go on...
 \0\>
-$TODO$Mental: Go on...
+Mental: Nastavi...
 \0\<
 Mental: I am not your father.
 \0\>
-$TODO$Mental: I am not your father.
+Mental: Ja nisam tvoji otac.
 \0\<
 Trigg take player
 \0\>
-$TODO$Trigg take player
+Trigg uzmi igraèa
 \0\<
 Secret teleport to pumpkin field has been discovered!
 \0\>
-$TODO$Secret teleport to pumpkin field has been discovered!
+Skriveni teleport do polja bundeva otkriven!
 \0\<
 Secret teleport to embryo museum has been discovered!
 \0\>
-$TODO$Secret teleport to embryo museum has been discovered!
+Skriveni teleport do muzeja embrija otkriven!
 
 \0\<
 Technology Test

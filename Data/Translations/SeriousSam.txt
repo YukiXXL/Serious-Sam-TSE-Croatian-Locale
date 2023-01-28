@@ -4,416 +4,413 @@
 Command line error!\n
 
 \0\>
-$TODO$Command line error!\n
+Greška u komandnoj liniji!\n
 
 \0\<
 Command line: '%s'\n
 
 \0\>
-$TODO$Command line: '%s'\n
+Komandna linija: '%s'\n
 
 \0\<
   Unknown option: '%s'\n
 
 \0\>
-$TODO$  Unknown option: '%s'\n
+  Nepoznata opcija: '%s'\n
 
 \0\<
 speed
 \0\>
-$TODO$speed
+brzo
 \0\<
 normal
 \0\>
-$TODO$normal
+normalno
 \0\<
 quality
 \0\>
-$TODO$quality
+kvalitetno
 \0\<
 custom
 \0\>
-$TODO$custom
+posebno
 \0\<
 unable to setup OpenGL settings list: %s
 \0\>
-$TODO$unable to setup OpenGL settings list: %s
+ne mogu podesiti OpenGL listu podešenja: %s
 \0\<
 \n
 Automatic 3D-board preferences adjustment...\n
 
 \0\>
-$TODO$\n
-Automatic 3D-board preferences adjustment...\n
+\n
+Automatsko podešenje postavki 3D-ploèe...\n
 
 \0\<
 Detected: %s - %s - %s\n
 
 \0\>
-$TODO$Detected: %s - %s - %s\n
+Detektirano: %s - %s - %s\n
 
 \0\<
 No matching preferences found! Automatic adjustment disabled!\n
 
 \0\>
-$TODO$No matching preferences found! Automatic adjustment disabled!\n
+Ne mogu pronaæi odgovarajuæe postavke! Automatsko podešenje iskljuèeno!\n
 
 \0\<
 Matching: %s (%s)\n
 
 \0\>
-$TODO$Matching: %s (%s)\n
+Odgovara: %s (%s)\n
 
 \0\<
 Similar to last, keeping same preferences.\n
 
 \0\>
-$TODO$Similar to last, keeping same preferences.\n
+Isto kao prošli put, zadržavam stare postavke.\n
 
 \0\<
 Different than last, applying new preferences.\n
 
 \0\>
-$TODO$Different than last, applying new preferences.\n
+Razlièito od prošlog puta, primjenjujem nove postavke.\n
 
 \0\<
 Applying new preferences.\n
 
 \0\>
-$TODO$Applying new preferences.\n
+Primjenjujem nove postavke.\n
 
 \0\<
 Mode: %s\n
 
 \0\>
-$TODO$Mode: %s\n
+Mod: %s\n
 
 \0\<
 Done.\n
 \n
 
 \0\>
-$TODO$Done.\n
+Gotovo.\n
 \n
 
 \0\<
 <invalid level>
 \0\>
-$TODO$<invalid level>
-\0\<
+<neispravna razina>
 
-\0\>
-$TODO$
 \0\<
 Reading levels directory...\n
 
 \0\>
-$TODO$Reading levels directory...\n
+Pregledavam direktorij sa razinama...\n
 
 \0\<
   file '%s' : 
 \0\>
-$TODO$  file '%s' : 
+  datoteka '%s' : 
 \0\<
 '%s' spawn=0x%08x\n
 
 \0\>
-$TODO$'%s' spawn=0x%08x\n
+'%s' spawn=0x%08x\n
 
 \0\<
 invalid level\n
 
 \0\>
-$TODO$invalid level\n
+kriva razina\n
 
 \0\<
 Reading demos directory...\n
 
 \0\>
-$TODO$Reading demos directory...\n
+Pregledavam direktorij sa demoima...\n
 
 \0\<
 Cannot open main window!
 \0\>
-$TODO$Cannot open main window!
+Ne mogu otvoriti glavni prozor!
 \0\<
 Serious Sam (Window %dx%d)
 \0\>
-$TODO$Serious Sam (Window %dx%d)
+Serious Sam (Prozor %dx%d)
 \0\<
 Serious Sam (FullScreen %dx%d)
 \0\>
-$TODO$Serious Sam (FullScreen %dx%d)
+Serious Sam (cijeli ekran %dx%d)
 \0\<
 No
 \0\>
-$TODO$No
+Ne
 \0\<
 Yes
 \0\>
-$TODO$Yes
+Da
 \0\<
 Use
 \0\>
-$TODO$Use
+Korištenje
 \0\<
 Double-click use
 \0\>
-$TODO$Double-click use
+Dvaput pritisni korištenje
 \0\<
 Only if new
 \0\>
-$TODO$Only if new
+Samo ukoliko je novo
 \0\<
 Never
 \0\>
-$TODO$Never
+Nikad
 \0\<
 Always
 \0\>
-$TODO$Always
+Uvijek
 \0\<
 Only if stronger
 \0\>
-$TODO$Only if stronger
+Samo ako je jaèe
 \0\<
 2
 \0\>
-$TODO$2
+2
 \0\<
 3
 \0\>
-$TODO$3
+3
 \0\<
 4
 \0\>
-$TODO$4
+4
 \0\<
 5
 \0\>
-$TODO$5
+5
 \0\<
 6
 \0\>
-$TODO$6
+6
 \0\<
 7
 \0\>
-$TODO$7
+7
 \0\<
 8
 \0\>
-$TODO$8
+8
 \0\<
 9
 \0\>
-$TODO$9
+9
 \0\<
 10
 \0\>
-$TODO$10
+10
 \0\<
 11
 \0\>
-$TODO$11
+11
 \0\<
 12
 \0\>
-$TODO$12
+12
 \0\<
 13
 \0\>
-$TODO$13
+13
 \0\<
 14
 \0\>
-$TODO$14
+14
 \0\<
 15
 \0\>
-$TODO$15
+15
 \0\<
 16
 \0\>
-$TODO$16
+16
 \0\<
 Tourist
 \0\>
-$TODO$Tourist
+Turistièki
 \0\<
 Easy
 \0\>
-$TODO$Easy
+Lagano
 \0\<
 Normal
 \0\>
-$TODO$Normal
+Normalno
 \0\<
 Hard
 \0\>
-$TODO$Hard
+Teško
 \0\<
 Serious
 \0\>
-$TODO$Serious
+Ozbiljno
 \0\<
 Mental
 \0\>
-$TODO$Mental
+Mental
 \0\<
 1
 \0\>
-$TODO$1
+1
 \0\<
 2 - split screen
 \0\>
-$TODO$2 - split screen
+2 - podijeljeni ekran
 \0\<
 3 - split screen
 \0\>
-$TODO$3 - split screen
+3 - podijeljeni ekran
 \0\<
 4 - split screen
 \0\>
-$TODO$4 - split screen
+4 - podijeljeni ekran
 \0\<
 OpenGL
 \0\>
-$TODO$OpenGL
+OpenGL
 \0\<
 Direct3D
 \0\>
-$TODO$Direct3D
+Direct3D
 \0\<
 Speed
 \0\>
-$TODO$Speed
+Brzo
 \0\<
 Quality
 \0\>
-$TODO$Quality
+Kvalitetno
 \0\<
 Custom
 \0\>
-$TODO$Custom
+Posebno
 \0\<
 Desktop
 \0\>
-$TODO$Desktop
+Desktop
 \0\<
 16 BPP
 \0\>
-$TODO$16 BPP
+16 BPT
 \0\<
 32 BPP
 \0\>
-$TODO$32 BPP
+32 BPT
 \0\<
 No sound
 \0\>
-$TODO$No sound
+Bez zvuka
 \0\<
 11kHz
 \0\>
-$TODO$11kHz
+11kHz
 \0\<
 22kHz
 \0\>
-$TODO$22kHz
+22kHz
 \0\<
 44kHz
 \0\>
-$TODO$44kHz
+44kHz
 \0\<
 WaveOut
 \0\>
-$TODO$WaveOut
+WaveOut
 \0\<
 DirectSound
 \0\>
-$TODO$DirectSound
+DirectSound
 \0\<
 EAX
 \0\>
-$TODO$EAX
+EAX
 \0\<
 %dx%d double
 \0\>
-$TODO$%dx%d double
+%dx%d dvostruko
 \0\<
 %dx%d wide
 \0\>
-$TODO$%dx%d wide
+%dx%d široko
 \0\<
 ARE YOU SERIOUS?
 \0\>
-$TODO$ARE YOU SERIOUS?
+MISLIŠ LI OZBILJNO?
 \0\<
 Server is running a different MOD (%s).\n
 You need to reload to connect.\n
 
 \0\>
-$TODO$Server is running a different MOD (%s).\n
-You need to reload to connect.\n
+Poslužitelj koristi drugaèiji MOD (%s).\n
+Trebate osviježiti za spajanje.\n
 
 \0\<
 CHANGE THE MOD?
 \0\>
-$TODO$CHANGE THE MOD?
+PROMIJENITI MOD?
 \0\<
 OVERWRITE?
 \0\>
-$TODO$OVERWRITE?
+PREPIŠI?
 \0\<
 LOAD THIS MOD?
 \0\>
-$TODO$LOAD THIS MOD?
+UÈITATI OVAJ MOD?
 \0\<
 KEEP THIS SETTING?
 \0\>
-$TODO$KEEP THIS SETTING?
+ZADRŽI OVA PODEŠENJA?
 \0\<
 PLEASE INSERT GAME CD?
 \0\>
-$TODO$PLEASE INSERT GAME CD?
+MOLIM UBACITE CD SA IGROM?
 \0\<
 The feature is not available in this version!
 \0\>
-$TODO$The feature is not available in this version!
+Ova opcija nije dostupna u ovoj verziji!
 \0\<
 DISABLED
 \0\>
-$TODO$DISABLED
+NEDOSTUPNO
 \0\<
 You don't have MOD '%s' installed.\n
 Do you want to visit its web site?
 \0\>
-$TODO$You don't have MOD '%s' installed.\n
-Do you want to visit its web site?
+Nemaš MOD '%s' instaliran.\n
+Da li želite posjetiti web stranicu MODa?
 \0\<
 ADVANCED OPTIONS
 \0\>
-$TODO$ADVANCED OPTIONS
+NAPREDNA PODEŠENJA
 \0\<
 CHOOSE MODEL
 \0\>
-$TODO$CHOOSE MODEL
+ODABERI MODEL
 \0\<
 LOAD CONTROLS
 \0\>
-$TODO$LOAD CONTROLS
+UÈITAJ KONTROLE
 \0\<
 EXECUTE ADDON
 \0\>
-$TODO$EXECUTE ADDON
+IZVRŠI DODATAK
 \0\<
 CHOOSE MOD
 \0\>
-$TODO$CHOOSE MOD
+ODABERI MOD
 \0\<
 CONNECTION SETTINGS
 \0\>
-$TODO$CONNECTION SETTINGS
+MREŽNA PODEŠENJA
 \0\<
 Before joining a network game,\n
 you have to adjust your connection parameters.\n
@@ -422,11 +419,11 @@ If you have problems with connection, you can adjust\n
 these parameters again from the Options menu.\n
 
 \0\>
-$TODO$Before joining a network game,\n
-you have to adjust your connection parameters.\n
-Choose one option from the list.\n
-If you have problems with connection, you can adjust\n
-these parameters again from the Options menu.\n
+Prije spajanja na mrežnu igru,\n
+morate podesiti parametre veze.\n
+Odaberite jednu opciju sa liste.\n
+Ukoliko su problemi sa vezom prisutni, možete ponovno\n
+podesiti ove parametre iz izbornika Podešenja.\n
 
 \0\<
 In-game QuickSave shortcuts:\n
@@ -434,1175 +431,1175 @@ F6 - save a new QuickSave\n
 F9 - load the last QuickSave\n
 
 \0\>
-$TODO$In-game QuickSave shortcuts:\n
-F6 - save a new QuickSave\n
-F9 - load the last QuickSave\n
+Preèice za brzo snimanje pozicije:\n
+F6 - snimi poziciju\n
+F9 - uèitaj posljednju snimljenu poziciju\n
 
 \0\<
 QUICK LOAD
 \0\>
-$TODO$QUICK LOAD
+BRZO UÈITAVANJE
 \0\<
 LOAD
 \0\>
-$TODO$LOAD
+UÈITAJ
 \0\<
 SAVE
 \0\>
-$TODO$SAVE
+SNIMI
 \0\<
 PLAY DEMO
 \0\>
-$TODO$PLAY DEMO
+PRIKAŽI DEMO
 \0\<
 RECORD DEMO
 \0\>
-$TODO$RECORD DEMO
+SNIMI DEMO
 \0\<
 GAME OPTIONS
 \0\>
-$TODO$GAME OPTIONS
+PODEŠENJA IGRE
 \0\<
 RENDERING OPTIONS
 \0\>
-$TODO$RENDERING OPTIONS
+PODEŠENJA ISCRTAVANJA
 \0\<
 no thumbnail
 \0\>
-$TODO$no thumbnail
+nema slièice
 \0\<
 Enter - OK, Escape - Cancel
 \0\>
-$TODO$Enter - OK, Escape - Cancel
+Enter - OK, Escape - Otkaži
 \0\<
 RESUME
 \0\>
-$TODO$RESUME
+NASTAVI
 \0\<
 return to game
 \0\>
-$TODO$return to game
+povratak u igru
 \0\<
 CANCEL
 \0\>
-$TODO$CANCEL
+OTKAŽI
 \0\<
 cancel changes
 \0\>
-$TODO$cancel changes
+otkaži promjene
 \0\<
 BACK
 \0\>
-$TODO$BACK
+NAZAD
 \0\<
 return to previous menu
 \0\>
-$TODO$return to previous menu
+povratak u prethodni izbornik
 \0\<
 YES
 \0\>
-$TODO$YES
+DA
 \0\<
 NO
 \0\>
-$TODO$NO
+NE
 \0\<
 SINGLE PLAYER
 \0\>
-$TODO$SINGLE PLAYER
+JEDAN IGRAÈ
 \0\<
 single player game menus
 \0\>
-$TODO$single player game menus
+izbornici za jednog igraèa
 \0\<
 NETWORK
 \0\>
-$TODO$NETWORK
+MREŽNA IGRA
 \0\<
 LAN/iNet multiplayer menus
 \0\>
-$TODO$LAN/iNet multiplayer menus
+LAN/Internet multiplayer izbornici
 \0\<
 SPLIT SCREEN
 \0\>
-$TODO$SPLIT SCREEN
+PODIJELJENI EKRAN
 \0\<
 play with multiple players on one computer
 \0\>
-$TODO$play with multiple players on one computer
+više igraèa na istom raèunalu
 \0\<
 DEMO
 \0\>
-$TODO$DEMO
+DEMO
 \0\<
 play a game demo
 \0\>
-$TODO$play a game demo
+prikaži demo iz igre
 \0\<
 MODS
 \0\>
-$TODO$MODS
+MODOVI
 \0\<
 run one of installed game modifications
 \0\>
-$TODO$run one of installed game modifications
+pokreni jednu od instaliranih modifikacija igre
 \0\<
 HIGH SCORES
 \0\>
-$TODO$HIGH SCORES
+TOP LISTA
 \0\<
 view list of top ten best scores
 \0\>
-$TODO$view list of top ten best scores
+pogledaj listu sa 10 najboljih igraèa
 \0\<
 OPTIONS
 \0\>
-$TODO$OPTIONS
+PODEŠENJA
 \0\<
 adjust video, audio and input options
 \0\>
-$TODO$adjust video, audio and input options
+podesi video, zvuène i ulazne opcije
 \0\<
 QUIT
 \0\>
-$TODO$QUIT
+KRAJ
 \0\<
 exit game immediately
 \0\>
-$TODO$exit game immediately
+izlazak iz igre
 \0\<
 GAME
 \0\>
-$TODO$GAME
+IGRA
 \0\<
 load a quick-saved game (F9)
 \0\>
-$TODO$load a quick-saved game (F9)
+uèitaj brzo snimljenu poziciju (F9)
 \0\<
 QUICK SAVE
 \0\>
-$TODO$QUICK SAVE
+BRZO SNIMANJE POZICIJE
 \0\<
 quick-save current game (F6)
 \0\>
-$TODO$quick-save current game (F6)
+snimi trenutnu poziciju (F6)
 \0\<
 load a saved game
 \0\>
-$TODO$load a saved game
+uèitaj snimljenu poziciju
 \0\<
 save current game (each player has own slots!)
 \0\>
-$TODO$save current game (each player has own slots!)
+snimi trenutnu igru (svaki igraè ima svoje pozicije!)
 \0\<
 STOP GAME
 \0\>
-$TODO$STOP GAME
+ZAUSTAVI IGRU
 \0\<
 stop currently running game
 \0\>
-$TODO$stop currently running game
+zaustavlja trenutno aktivnu igru
 \0\<
 STOP RECORDING
 \0\>
-$TODO$STOP RECORDING
+ZAUSTAVI SNIMANJE
 \0\<
 stop current recording
 \0\>
-$TODO$stop current recording
+zaustavlja snimanje trenutnog demoa
 \0\<
 start recording current game
 \0\>
-$TODO$start recording current game
+zapoèinje sa snimanjem demoa
 \0\<
 Player: %s
 \0\>
-$TODO$Player: %s
+Igraè: %s
 \0\<
 <not started yet>
 \0\>
-$TODO$<not started yet>
+<nije pokrenuto>
 \0\<
 Address: 
 \0\>
-$TODO$Address: 
+Adresa: 
 \0\<
 <not adjusted>
 \0\>
-$TODO$<not adjusted>
+<nije podešen>
 \0\<
 Connected to: 
 \0\>
-$TODO$Connected to: 
+Spojen na: 
 \0\<
 Connection: 
 \0\>
-$TODO$Connection: 
+Veza: 
 \0\<
 NEW GAME
 \0\>
-$TODO$NEW GAME
+NOVA IGRA
 \0\<
 start new game with current player
 \0\>
-$TODO$start new game with current player
+pokreni novu igru sa odabranim likom
 \0\<
 CUSTOM LEVEL
 \0\>
-$TODO$CUSTOM LEVEL
+POSEBNA RAZINA
 \0\<
 start new game on a custom level
 \0\>
-$TODO$start new game on a custom level
+pokreni novu igru na razini po izboru
 \0\<
 load a saved game of current player
 \0\>
-$TODO$load a saved game of current player
+uèitaj snimljenu poziciju za odabranog lika
 \0\<
 TRAINING
 \0\>
-$TODO$TRAINING
+TRENING
 \0\<
 start training level - KarnakDemo
 \0\>
-$TODO$start training level - KarnakDemo
+odigraj trening razinu - KarnakDemo
 \0\<
 TECHNOLOGY TEST
 \0\>
-$TODO$TECHNOLOGY TEST
+TEHNOLOŠKI TEST
 \0\<
 start technology testing level
 \0\>
-$TODO$start technology testing level
+pogledaj razinu za testiranje tehnoloških moguænosti
 \0\<
 PLAYERS AND CONTROLS
 \0\>
-$TODO$PLAYERS AND CONTROLS
+LIKOVI I KONTROLE
 \0\<
 change currently active player or adjust controls
 \0\>
-$TODO$change currently active player or adjust controls
+promijeni trenutno aktivnog lika ili podesi kontrole
 \0\<
 adjust miscellaneous game options
 \0\>
-$TODO$adjust miscellaneous game options
+promijeni razna podešenja u igri
 \0\<
 Player: %s\n
 
 \0\>
-$TODO$Player: %s\n
+Igraè: %s\n
 
 \0\<
 TOURIST
 \0\>
-$TODO$TOURIST
+TURIST
 \0\<
 for non-FPS players
 \0\>
-$TODO$for non-FPS players
+za igraèe koji se prvi put susreæu sa FPS žanrom igara
 \0\<
 EASY
 \0\>
-$TODO$EASY
+LAGANO
 \0\<
 for unexperienced FPS players
 \0\>
-$TODO$for unexperienced FPS players
+za igraèe nedovoljno iskusne u FPS žanru igara
 \0\<
 NORMAL
 \0\>
-$TODO$NORMAL
+NORMALNO
 \0\<
 for experienced FPS players
 \0\>
-$TODO$for experienced FPS players
+za iskusne FPS igraèe
 \0\<
 HARD
 \0\>
-$TODO$HARD
+TEŠKO
 \0\<
 for experienced Serious Sam players
 \0\>
-$TODO$for experienced Serious Sam players
+samo za okorjele igraèe Serious Sama
 \0\<
 SERIOUS
 \0\>
-$TODO$SERIOUS
+OZBILJNO
 \0\<
 are you serious?
 \0\>
-$TODO$are you serious?
+jesi li ozbiljan?
 \0\<
 MENTAL
 \0\>
-$TODO$MENTAL
+MENTAL
 \0\<
 you are not serious!
 \0\>
-$TODO$you are not serious!
+ma zezaš me!
 \0\<
 PLAYER PROFILE
 \0\>
-$TODO$PLAYER PROFILE
+PROFIL LIKA
 \0\<
 PROFILE:
 \0\>
-$TODO$PROFILE:
+PROFIL:
 \0\<
 select new currently active player
 \0\>
-$TODO$select new currently active player
+izaberi novog lika i profil
 \0\<
 NAME:
 \0\>
-$TODO$NAME:
+IME:
 \0\<
 rename currently active player
 \0\>
-$TODO$rename currently active player
+preimenuj trenutni lik
 \0\<
 TEAM:
 \0\>
-$TODO$TEAM:
+TIM:
 \0\<
 enter team name, if playing in team
 \0\>
-$TODO$enter team name, if playing in team
+unesi naziv tima, ukoliko želiš igrati timski
 \0\<
 CROSSHAIR
 \0\>
-$TODO$CROSSHAIR
+NIŠAN
 \0\<
 AUTO SELECT WEAPON
 \0\>
-$TODO$AUTO SELECT WEAPON
+AUTOMATSKI ODABERI ORUŽJE
 \0\<
 HIDE WEAPON MODEL
 \0\>
-$TODO$HIDE WEAPON MODEL
+SAKRIJ MODEL ORUŽJA
 \0\<
 PREFER 3RD PERSON VIEW
 \0\>
-$TODO$PREFER 3RD PERSON VIEW
+POGLED IZ TREÆEG LICA
 \0\<
 VOICE QUOTES
 \0\>
-$TODO$VOICE QUOTES
+GLASOVNI KOMENTARI
 \0\<
 AUTO SAVE
 \0\>
-$TODO$AUTO SAVE
+AUTOMATSKO SNIMANJE
 \0\<
 INVOKE COMPUTER
 \0\>
-$TODO$INVOKE COMPUTER
+POZOVI KOMPJUTER
 \0\<
 SHARP TURNING
 \0\>
-$TODO$SHARP TURNING
+OŠTRO OKRETANJE
 \0\<
 VIEW BOBBING
 \0\>
-$TODO$VIEW BOBBING
+POGLED ŠETANJA
 \0\<
 CUSTOMIZE CONTROLS
 \0\>
-$TODO$CUSTOMIZE CONTROLS
+PODESI KONTROLE
 \0\<
 customize controls for this player
 \0\>
-$TODO$customize controls for this player
+podesi kontrole za ovaj lik
 \0\<
 change model for this player
 \0\>
-$TODO$change model for this player
+promijeni model za ovaj lik
 \0\<
 cannot change model for single-player game
 \0\>
-$TODO$cannot change model for single-player game
+ne možeš izabrati drugi model ukoliko igraš igru za jednog igraèa
 \0\<
 CONTROLS
 \0\>
-$TODO$CONTROLS
+KONTROLE
 \0\<
 CUSTOMIZE BUTTONS
 \0\>
-$TODO$CUSTOMIZE BUTTONS
+PROMIJENI TIPKE
 \0\<
 customize buttons in current controls
 \0\>
-$TODO$customize buttons in current controls
+izmjena tipki trenutnih kontrola
 \0\<
 ADVANCED JOYSTICK SETUP
 \0\>
-$TODO$ADVANCED JOYSTICK SETUP
+NAPREDNA PODEŠENJA JOYSTICKA
 \0\<
 adjust advanced settings for joystick axis
 \0\>
-$TODO$adjust advanced settings for joystick axis
+podesi napredna podešenja za osi kontrolera
 \0\<
 SENSITIVITY
 \0\>
-$TODO$SENSITIVITY
+OSJETLJIVOST
 \0\<
 sensitivity for all axis in this control set
 \0\>
-$TODO$sensitivity for all axis in this control set
+osjetljivost svih osi u ovoj grupi kontrola
 \0\<
 INVERT LOOK
 \0\>
-$TODO$INVERT LOOK
+IZOKRENI POGLED
 \0\<
 invert up/down looking
 \0\>
-$TODO$invert up/down looking
+zamijeni smjerove gledanja gore/dolje
 \0\<
 SMOOTH AXIS
 \0\>
-$TODO$SMOOTH AXIS
+IZGLADI OSI
 \0\<
 smooth mouse/joystick movements
 \0\>
-$TODO$smooth mouse/joystick movements
+izglaðuje pokrete joysticka i miša
 \0\<
 MOUSE ACCELERATION
 \0\>
-$TODO$MOUSE ACCELERATION
+AKCELERACIJA MIŠA
 \0\<
 allow mouse acceleration
 \0\>
-$TODO$allow mouse acceleration
+omoguæi akceleraciju miša
 \0\<
 ENABLE IFEEL
 \0\>
-$TODO$ENABLE IFEEL
+OMOGUÆI IFEEL
 \0\<
 enable support for iFeel tactile feedback mouse
 \0\>
-$TODO$enable support for iFeel tactile feedback mouse
+omoguæuje podršku za iFeel miševe dodirne reakcije
 \0\<
 LOAD PREDEFINED SETTINGS
 \0\>
-$TODO$LOAD PREDEFINED SETTINGS
+UÈITAJ PREDEFINIRANA PODEŠENJA
 \0\<
 load one of several predefined control settings
 \0\>
-$TODO$load one of several predefined control settings
+uèitaj jedan od nekoliko predefiniranih setova kontrola
 \0\<
 CONTROLS FOR: %s
 \0\>
-$TODO$CONTROLS FOR: %s
+KONTROLE ZA: %s
 \0\<
 <save a new one>
 \0\>
-$TODO$<save a new one>
+<snimi novo>
 \0\<
 <empty>
 \0\>
-$TODO$<empty>
+<prazno>
 \0\<
 Enter - save in new slot
 \0\>
-$TODO$Enter - save in new slot
+Enter - snimi na novo mjesto
 \0\<
 Enter - save here, F2 - rename, Del - delete
 \0\>
-$TODO$Enter - save here, F2 - rename, Del - delete
+Enter - snimi, F2 - preimenuj, Del - obriši
 \0\<
 Enter - load this, F2 - rename, Del - delete
 \0\>
-$TODO$Enter - load this, F2 - rename, Del - delete
+Enter - uèitaj, F2 - preimenuj, Del - obriši
 \0\<
 Enter - load this
 \0\>
-$TODO$Enter - load this
+Enter - uèitaj
 \0\<
 From player: %s
 \0\>
-$TODO$From player: %s
+Od igraèa: %s
 \0\<
 HIGH SCORE TABLE
 \0\>
-$TODO$HIGH SCORE TABLE
+TOP LISTA NAJBOLJIH IGRAÈA
 \0\<
 Enter - change binding, Backspace - unbind
 \0\>
-$TODO$Enter - change binding, Backspace - unbind
+Enter - promijeni tipku, Backspace - niti jedna tipka
 \0\<
 CUSTOMIZE AXIS
 \0\>
-$TODO$CUSTOMIZE AXIS
+PODESI OSI
 \0\<
 ACTION
 \0\>
-$TODO$ACTION
+KRETNJA
 \0\<
 choose action to customize
 \0\>
-$TODO$choose action to customize
+odaberi kretnju za podešavanje
 \0\<
 MOUNTED TO
 \0\>
-$TODO$MOUNTED TO
+PRIKLJUÈENA NA
 \0\<
 choose controller axis that will perform the action
 \0\>
-$TODO$choose controller axis that will perform the action
+odaberi os kontrolera koja æe upravljati kretnjom
 \0\<
 set sensitivity for this axis
 \0\>
-$TODO$set sensitivity for this axis
+odredi osjetljivost kretnje
 \0\<
 DEAD ZONE
 \0\>
-$TODO$DEAD ZONE
+MRTVI KUT
 \0\<
 set dead zone for this axis
 \0\>
-$TODO$set dead zone for this axis
+odredi mrtvi kut za ovu os
 \0\<
 INVERTED
 \0\>
-$TODO$INVERTED
+IZOKRENUTO
 \0\<
 choose whether to invert this axis or not
 \0\>
-$TODO$choose whether to invert this axis or not
+odaberi želiš li izokrenuti ovu os ili ne
 \0\<
 RELATIVE
 \0\>
-$TODO$RELATIVE
+RELATIVNO
 \0\<
 select relative or absolute axis reading
 \0\>
-$TODO$select relative or absolute axis reading
+odaberi relativno ili apsolutno oèitavanje osi
 \0\<
 SMOOTH
 \0\>
-$TODO$SMOOTH
+IZGLADI
 \0\<
 turn this on to filter readings on this axis
 \0\>
-$TODO$turn this on to filter readings on this axis
+ukljuèi ukoliko želiš izglaðeno oèitavanje osi
 \0\<
 VIDEO OPTIONS
 \0\>
-$TODO$VIDEO OPTIONS
+VIDEO PODEŠENJA
 \0\<
 set video mode and driver
 \0\>
-$TODO$set video mode and driver
+odaberi video naèin i pogonski program
 \0\<
 AUDIO OPTIONS
 \0\>
-$TODO$AUDIO OPTIONS
+ZVUÈNA PODEŠENJA
 \0\<
 set audio quality and volume
 \0\>
-$TODO$set audio quality and volume
+odaberi kvalitetu i glasnoæu zvuka
 \0\<
 NETWORK CONNECTION
 \0\>
-$TODO$NETWORK CONNECTION
+MREŽNA VEZA
 \0\<
 choose your connection parameters
 \0\>
-$TODO$choose your connection parameters
+odaberi parametre veze
 \0\<
 for advanced users only
 \0\>
-$TODO$for advanced users only
+samo za napredne korisnike
 \0\<
 choose from list of addons to execute
 \0\>
-$TODO$choose from list of addons to execute
+odaberi za izvršenje sa liste dodataka
 \0\<
 VIDEO
 \0\>
-$TODO$VIDEO
+VIDEO
 \0\<
 GRAPHICS API
 \0\>
-$TODO$GRAPHICS API
+GRAFIÈKI API
 \0\<
 choose graphics API to be used
 \0\>
-$TODO$choose graphics API to be used
+odaberi grafièki sistem koji želiš koristiti
 \0\<
 DISPLAY ADAPTER
 \0\>
-$TODO$DISPLAY ADAPTER
+PRIKAZNI ADAPTER
 \0\<
 choose display adapter to be used
 \0\>
-$TODO$choose display adapter to be used
+odaberi naèin prikaza koji želiš koristiti
 \0\<
 PREFERENCES
 \0\>
-$TODO$PREFERENCES
+POSTAVKE
 \0\<
 balance between speed and rendering quality, depending on your system
 \0\>
-$TODO$balance between speed and rendering quality, depending on your system
+izaberi izmeðu brzine i kvalitete, ovisno o konfiguraciji
 \0\<
 ASPECT RATIO
 \0\>
-$TODO$ASPECT RATIO
+OMJER SLIKE
 \0\<
 select display aspect ratio
 \0\>
-$TODO$select display aspect ratio
+odaberi omjer prikaza slike
 \0\<
 RESOLUTION
 \0\>
-$TODO$RESOLUTION
+REZOLUCIJA
 \0\<
 select video mode resolution
 \0\>
-$TODO$select video mode resolution
+odaberi rezoluciju prikaza slike
 \0\<
 FULL SCREEN
 \0\>
-$TODO$FULL SCREEN
+CIJELI EKRAN
 \0\<
 make game run in a window or in full screen
 \0\>
-$TODO$make game run in a window or in full screen
+odaberi da li se igra pokreæe u prozoru ili preko cijelog ekrana
 \0\<
 BITS PER PIXEL
 \0\>
-$TODO$BITS PER PIXEL
+BITA PO PIXELU
 \0\<
 select number of colors used for display
 \0\>
-$TODO$select number of colors used for display
+odaberi broj boja za prikaz
 \0\<
 manually adjust rendering settings
 \0\>
-$TODO$manually adjust rendering settings
+ruèno namjesti podešenja iscrtavanja
 \0\<
 APPLY
 \0\>
-$TODO$APPLY
+PRIMJENI
 \0\<
 apply selected options
 \0\>
-$TODO$apply selected options
+primjeni odabrana podešenja
 \0\<
 AUDIO
 \0\>
-$TODO$AUDIO
+ZVUK
 \0\<
 AUTO-ADJUST
 \0\>
-$TODO$AUTO-ADJUST
+AUTOMATSKO PODEŠENJE
 \0\<
 adjust quality to fit your system
 \0\>
-$TODO$adjust quality to fit your system
+podesi kvalitetu u skladu sa svojom konfiguracijom
 \0\<
 FREQUENCY
 \0\>
-$TODO$FREQUENCY
+FREKVENCIJA
 \0\<
 select sound quality or turn sound off
 \0\>
-$TODO$select sound quality or turn sound off
+odaberi kvalitetu zvuka ili iskljuèi zvuk potpuno
 \0\<
 SOUND SYSTEM
 \0\>
-$TODO$SOUND SYSTEM
+ZVUÈNI SISTEM
 \0\<
 choose sound system (API) to use
 \0\>
-$TODO$choose sound system (API) to use
+odaberi zvuèni sistem koji želiš koristiti
 \0\<
 SOUND EFFECTS VOLUME
 \0\>
-$TODO$SOUND EFFECTS VOLUME
+GLASNOÆA ZVUÈNIH EFEKATA
 \0\<
 adjust volume of in-game sound effects
 \0\>
-$TODO$adjust volume of in-game sound effects
+podesi glasnoæu zvuènih efekata unutar igre
 \0\<
 MUSIC VOLUME
 \0\>
-$TODO$MUSIC VOLUME
+GLASNOÆA MUZIKE
 \0\<
 adjust volume of in-game music
 \0\>
-$TODO$adjust volume of in-game music
+podesi glasnoæu muzika koje sviraju tokom igre
 \0\<
 activate selected options
 \0\>
-$TODO$activate selected options
+primjeni odabrana podešenja
 \0\<
 CHOOSE LEVEL
 \0\>
-$TODO$CHOOSE LEVEL
+ODABERI RAZINU
 \0\<
 apply changes
 \0\>
-$TODO$apply changes
+prihvati promjene
 \0\<
 CHOOSE SERVER
 \0\>
-$TODO$CHOOSE SERVER
+ODABERI POSLUŽITELJA
 \0\<
 REFRESH
 \0\>
-$TODO$REFRESH
+OSVJEŽI
 \0\<
 Server
 \0\>
-$TODO$Server
+Poslužitelj
 \0\<
 Map
 \0\>
-$TODO$Map
+Razina
 \0\<
 Ping
 \0\>
-$TODO$Ping
+Ping
 \0\<
 Players
 \0\>
-$TODO$Players
+Igraèa
 \0\<
 Game
 \0\>
-$TODO$Game
+Igra
 \0\<
 Mod
 \0\>
-$TODO$Mod
+Mod
 \0\<
 Ver
 \0\>
-$TODO$Ver
+Inaèica
 \0\<
 sort by server
 \0\>
-$TODO$sort by server
+sortiraj po poslužitelju
 \0\<
 sort by map
 \0\>
-$TODO$sort by map
+sortiraj po razini
 \0\<
 sort by ping
 \0\>
-$TODO$sort by ping
+sortiraj po pingu
 \0\<
 sort by players
 \0\>
-$TODO$sort by players
+sortiraj po broju igraèa
 \0\<
 sort by game
 \0\>
-$TODO$sort by game
+sortiraj po igri
 \0\<
 sort by mod
 \0\>
-$TODO$sort by mod
+sortiraj po modu
 \0\<
 sort by version
 \0\>
-$TODO$sort by version
+sortiraj po inaèici
 \0\<
 filter by server
 \0\>
-$TODO$filter by server
+filtriraj po poslužitelju
 \0\<
 filter by map
 \0\>
-$TODO$filter by map
+filtriraj po razini
 \0\<
 filter by ping (ie. <200)
 \0\>
-$TODO$filter by ping (ie. <200)
+filtriraj po pingu (npr. <200)
 \0\<
 filter by players (ie. >=2)
 \0\>
-$TODO$filter by players (ie. >=2)
+filtriraj po broju igraèa (npr. >=2)
 \0\<
 filter by game (ie. coop)
 \0\>
-$TODO$filter by game (ie. coop)
+filtriraj po igri (npr. koalicija)
 \0\<
 filter by mod
 \0\>
-$TODO$filter by mod
+filtriraj po modu
 \0\<
 filter by version
 \0\>
-$TODO$filter by version
+filtriraj po inaèici
 \0\<
 JOIN GAME
 \0\>
-$TODO$JOIN GAME
+PRIKLJUÈI SE IGRI
 \0\<
 join a network game
 \0\>
-$TODO$join a network game
+ukljuèivanje u mrežnu igru
 \0\<
 START SERVER
 \0\>
-$TODO$START SERVER
+POKRENI POSLUŽITELJ
 \0\<
 start a network game server
 \0\>
-$TODO$start a network game server
+pokreni vlastiti mrežni poslužitelj za igru
 \0\<
 start server and load a network game (server only)
 \0\>
-$TODO$start server and load a network game (server only)
+pokreni poslužitelj i uèitaj mrežnu poziciju (samo za poslužitelje)
 \0\<
 SEARCH LAN
 \0\>
-$TODO$SEARCH LAN
+PRETRAŽI LAN
 \0\<
 search local network for servers
 \0\>
-$TODO$search local network for servers
+pretraži lokalnu mrežu u potrazi za poslužiteljima
 \0\<
 SEARCH INTERNET
 \0\>
-$TODO$SEARCH INTERNET
+PRETRAŽI INTERNET
 \0\<
 search internet for servers
 \0\>
-$TODO$search internet for servers
+potraži poslužitelje na internetu
 \0\<
 SPECIFY SERVER
 \0\>
-$TODO$SPECIFY SERVER
+ODABERI SPECIJALNI POSLUŽITELJ
 \0\<
 type in server address to connect to
 \0\>
-$TODO$type in server address to connect to
+upiši IP adresu poslužitelja na kojeg se želiš spojiti
 \0\<
 Session name:
 \0\>
-$TODO$Session name:
+Naziv igre:
 \0\<
 name the session to start
 \0\>
-$TODO$name the session to start
+imenuj igru
 \0\<
 Game type:
 \0\>
-$TODO$Game type:
+Vrsta igre:
 \0\<
 choose type of multiplayer game
 \0\>
-$TODO$choose type of multiplayer game
+odaberi vrstu mrežne igre
 \0\<
 Difficulty:
 \0\>
-$TODO$Difficulty:
+Težina:
 \0\<
 choose difficulty level
 \0\>
-$TODO$choose difficulty level
+odaberi razinu težine
 \0\<
 Level:
 \0\>
-$TODO$Level:
+Razina:
 \0\<
 choose the level to start
 \0\>
-$TODO$choose the level to start
+odaberi razinu koji želiš igrati
 \0\<
 Max players:
 \0\>
-$TODO$Max players:
+Maksimalno igraèa:
 \0\<
 choose maximum allowed number of players
 \0\>
-$TODO$choose maximum allowed number of players
+odaberi maksimalan broj igraèa koji se mogu prikljuèiti
 \0\<
 Wait for all players:
 \0\>
-$TODO$Wait for all players:
+Èekaj sve igraèe:
 \0\<
 if on, game won't start until all players have joined
 \0\>
-$TODO$if on, game won't start until all players have joined
+ako je ukljuèeno, igra se ne pokreæe dok svi igraèi nisu prikljuèeni
 \0\<
 Server visible:
 \0\>
-$TODO$Server visible:
+Poslužitelj vidljiv:
 \0\<
 invisible servers are not listed, cleints have to join manually
 \0\>
-$TODO$invisible servers are not listed, cleints have to join manually
+nevidljivi poslužitelji nisu na listi, klijenti se moraju spojiti upisivanjem IP adrese
 \0\<
 Game options
 \0\>
-$TODO$Game options
+Podešenja igre
 \0\<
 adjust game rules
 \0\>
-$TODO$adjust game rules
+podesi pravila igre
 \0\<
 START
 \0\>
-$TODO$START
+POKRENI
 \0\<
 Make sure you set different controls for each player!
 \0\>
-$TODO$Make sure you set different controls for each player!
+Provjeri jesu li postavljene razlièite kontrole za svakog igraèa!
 \0\<
 SELECT PLAYERS
 \0\>
-$TODO$SELECT PLAYERS
+ODABERI IGRAÈE
 \0\<
 Dedicated:
 \0\>
-$TODO$Dedicated:
+Automatski poslužitelj:
 \0\<
 select to start dedicated server
 \0\>
-$TODO$select to start dedicated server
+pokreni poslužitelj na kojem nije moguæe igrati
 \0\<
 Observer:
 \0\>
-$TODO$Observer:
+Promatraè:
 \0\<
 select to join in for observing, not for playing
 \0\>
-$TODO$select to join in for observing, not for playing
+prikljuèi se i samo promatraj igru, igranje nije moguæe
 \0\<
 Number of players:
 \0\>
-$TODO$Number of players:
+Broj igraèa:
 \0\<
 choose more than one player to play in split screen
 \0\>
-$TODO$choose more than one player to play in split screen
+izaberi više od jednog igraèa za igru u podijeljenom ekranu
 \0\<
 select profile for this player
 \0\>
-$TODO$select profile for this player
+odaberi profil lika
 \0\<
 JOIN
 \0\>
-$TODO$JOIN
+PRIKLJUÈI SE
 \0\<
 Address:
 \0\>
-$TODO$Address:
+Adresa:
 \0\<
 specify server address
 \0\>
-$TODO$specify server address
+odaberi adresu servera
 \0\<
 Port:
 \0\>
-$TODO$Port:
+Port:
 \0\<
 Join
 \0\>
-$TODO$Join
+Pridruži se
 \0\<
 start new split-screen game
 \0\>
-$TODO$start new split-screen game
+pokreni novu igru sa podijeljenim ekranom
 \0\<
 load a saved split-screen game
 \0\>
-$TODO$load a saved split-screen game
+uèitaj snimljenu poziciju igre sa podijeljenim ekranom
 \0\<
 START SPLIT SCREEN
 \0\>
-$TODO$START SPLIT SCREEN
+POKRENI PODIJELJENI EKRAN
 \0\<
 No model
 \0\>
-$TODO$No model
+Nema modela
 \0\<
 <none>
 \0\>
-$TODO$<none>
+<prazno>
 \0\<
 Page Up
 \0\>
-$TODO$Page Up
+Prema Gore
 \0\<
 Page Down
 \0\>
-$TODO$Page Down
+Prema Dolje
 \0\<
 No.
 \0\>
-$TODO$No.
+Ne.
 \0\<
 Player Name
 \0\>
-$TODO$Player Name
+Ime igraèa
 \0\<
 Difficulty
 \0\>
-$TODO$Difficulty
+Težina
 \0\<
 Time
 \0\>
-$TODO$Time
+Vrijeme
 \0\<
 Kills
 \0\>
-$TODO$Kills
+Žrtava
 \0\<
 Score
 \0\>
-$TODO$Score
+Bodovi
 \0\<
 none
 \0\>
-$TODO$none
+ništa
 \0\<
 searching...
 \0\>
-$TODO$searching...
+pretražujem...
 \0\<
 Player %d: %s\n
 
 \0\>
-$TODO$Player %d: %s\n
+Igraè %d: %s\n
 
 \0\<
  or 
 \0\>
-$TODO$ or 
+ ili 
 \0\<
 -   T H E   S E C O N D   E N C O U N T E R   -
 \0\>
-$TODO$-   T H E   S E C O N D   E N C O U N T E R   -
+-   D R U G I   S U S R E T   -
 \0\<
 Loading game library '%s'...\n
 
 \0\>
-$TODO$Loading game library '%s'...\n
+Uèitavam '%s'...\n
 
 \0\<
 SeriousSam is starting for the first time.\n
 If you experience any problems, please consult\n
 ReadMe file for troubleshooting information.
 \0\>
-$TODO$SeriousSam is starting for the first time.\n
-If you experience any problems, please consult\n
-ReadMe file for troubleshooting information.
+Serious Sam se pokreæe prvi put.\n
+Ukoliko naiðete na probleme, molimo pogledajte\n
+ReadMe datoteku za informacije o rješavanju problema.
 \0\<
 Serious Sam version: %s\n
 
 \0\>
-$TODO$Serious Sam version: %s\n
+Serious Sam inaèica: %s\n
 
 \0\<
 Active mod: %s\n
 
 \0\>
-$TODO$Active mod: %s\n
+Aktivni mod: %s\n
 
 \0\<
 Command line connection: '%s%s'\n
 
 \0\>
-$TODO$Command line connection: '%s%s'\n
+Spajanje sa komandne linije: '%s%s'\n
 
 \0\<
 Command line world: '%s'\n
 
 \0\>
-$TODO$Command line world: '%s'\n
+Svijet sa komandne linije: '%s'\n
 
 \0\<
 Command line marker: %d\n
 
 \0\>
-$TODO$Command line marker: %d\n
+Marker sa komandne linije: %d\n
 
 \0\<
 Cannot start '%s': '%s'\n
 
 \0\>
-$TODO$Cannot start '%s': '%s'\n
+Ne mogu pokrenuti '%s': '%s'\n
 
 \0\<
 WARNING: SeriousSam didn't shut down properly last time!\n
 
 \0\>
-$TODO$WARNING: SeriousSam didn't shut down properly last time!\n
+UPOZORENJE: Serious Sam nije pravilno ugašen prošli put!\n
 
 \0\<
  DualMonitor
 \0\>
-$TODO$ DualMonitor
+ DupliMonitor
 \0\<
  WideScreen
 \0\>
-$TODO$ WideScreen
+ ŠirokiEkran
 \0\<
 Display mode set by default!
 \0\>
-$TODO$Display mode set by default!
+Grafièki naèin podešen po osnovnim postavkama!
 \0\<
 Last mode set failed!
 \0\>
-$TODO$Last mode set failed!
+Prošla promjena grafièkog naèina nije uspjela!
 \0\<
 ---- Executing addon: '%s'\n
 
 \0\>
-$TODO$---- Executing addon: '%s'\n
+---- Izvršavam dodatak: '%s'\n
 
 \0\<
 Addon done, press Escape to close console\n
 
 \0\>
-$TODO$Addon done, press Escape to close console\n
+Dodatak izvršen, pritisni Esc da zatvoriš konzolu\n
 
 \0\<
 fullscreen
 \0\>
-$TODO$fullscreen
+cijeliekran
 \0\<
 window
 \0\>
-$TODO$window
+prozor
 \0\<
   Starting display mode: %dx%dx%s (%s)\n
 
 \0\>
-$TODO$  Starting display mode: %dx%dx%s (%s)\n
+  Pokreæem grafièki naèin: %dx%dx%s (%s)\n
 
 \0\<
 This mode does not support hardware acceleration.\n
 
 \0\>
-$TODO$This mode does not support hardware acceleration.\n
+Ovaj naèin ne podržava hardversku akceleraciju.\n
 
 \0\<
 \n
 * START NEW DISPLAY MODE ...\n
 
 \0\>
-$TODO$\n
-* START NEW DISPLAY MODE ...\n
+\n
+* POKREÆEM NOVI GRAFIÈKI NAÈIN ...\n
 
 \0\<
 Requested display mode could not be set!\n
 
 \0\>
-$TODO$Requested display mode could not be set!\n
+Željeni grafièki naèin ne može se aktivirati!\n
 
 \0\<
 \n
 Trying recovery mode %d...\n
 
 \0\>
-$TODO$\n
-Trying recovery mode %d...\n
+\n
+Pokušavam povratni naèin %d...\n
 
 \0\<
 Cannot set display mode!\n
@@ -1612,40 +1609,45 @@ in documentation and set your desktop to 16 bit (65536 colors).\n
 Please see ReadMe file for troubleshooting information.\n
 
 \0\>
-$TODO$Cannot set display mode!\n
-Serious Sam was unable to find display mode with hardware acceleration.\n
-Make sure you install proper drivers for your video card as recommended\n
-in documentation and set your desktop to 16 bit (65536 colors).\n
-Please see ReadMe file for troubleshooting information.\n
+Ne mogu aktivirati grafièki naèin!\n
+Serious Sam nije uspio pronaæi grafièki naèin sa OpenGL akceleracijom.\n
+Provjerite da li imate instalirane grafièke pogonske programe preporuèene\n
+u dokumentaciji i podesite dubinu boja vašeg desktopa na 16 bita (65536 boja).\n
+Molimo pogledajte ReadMe datoteku za dodatne informacije.\n
 
 \0\<
 Unexpected end of file
 \0\>
-$TODO$Unexpected end of file
+Neoèekivan kraj datoteke
 \0\<
 Expected %s%s before filename
 \0\>
-$TODO$Expected %s%s before filename
+Oèekivano %s%s prije imena datoteke
 \0\<
 unknown keyword
 \0\>
-$TODO$unknown keyword
+nepoznata kljuèna rijeè
 \0\<
 Warning: Cannot initialize support for GameSpy server enumeration.\n
 
 \0\>
-$TODO$Warning: Cannot initialize support for GameSpy server enumeration.\n
+Upozorenje: Ne mogu pokrenuti podršku za enumeraciju GameSpy poslužitelja.\n
 
 \0\<
 getting list
 \0\>
-$TODO$getting list
+dohvaæam listu
 \0\<
 searching LAN
 \0\>
-$TODO$searching LAN
+pretražujem LAN
 \0\<
 querying servers
 \0\>
-$TODO$querying servers
+ispitujem poslužitelje
+
+\0\<
+Cannot write texture that has modified frames.
+\0\>
+Ne mogu zapisati teksturu koja ima izmjenjene slièice.
 \0\$
