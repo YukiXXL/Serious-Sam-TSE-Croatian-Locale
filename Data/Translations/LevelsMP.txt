@@ -135,7 +135,7 @@ Skrivena krvava kupka aktivirana!
 \0\<
 Secret armor has been found!
 \0\>
-Skriveni oklop naðen!
+Skriveni oklop otkriven!
 \0\<
 Secret corridor has been revealed!
 \0\>
