@@ -284,7 +284,7 @@ Skrivena piramida bijaše uništena!
 \0\<
 Courtyards of Gilgamesh
 \0\>
-Dvorišta Gilgameša
+Dvorovi Gilgameša
 \0\<
 Secret ammo pack has been collected!
 \0\>
