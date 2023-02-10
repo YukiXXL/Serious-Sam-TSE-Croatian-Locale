@@ -1,24 +1,24 @@
 SUBJECT
-Zumb'ul from planet Ras-ad-Nyk
+Zumb'ul s planeta Ras-ad-Nyk
 IMAGE
 model
 Guffy
 TEXT
 
-CLASS:      Zumb'ul
-METABOLISM: mammal
-PERCEPTION: trained primitive race
-SIZE:       10 ft 
-ENDURANCE:  medium
-HOSTILITY:  medium
-WEAPONS:    twin hand plasma launchers
-REWARD:     3000
-THREAT:     medium
+KLASA:         Zumb'ul
+METABOLIZAM:   sisavac
+POIMANJE:      istrenirana primitivna rasa
+VELIÈINA:      3 m
+IZDRŽLJIVOST:  srednja
+AGRESIVNOST:   srednja
+ORUŽJE:        dvostruki ruèni lanseri plazme
+VRIJEDI:       3000 FC
+PRIJETNJA:     srednja
 
-DESCRIPTION:
+OPIS:
 
-This is what you get when you introduce the concept of firearms to a creature who's got wisdom teeth problems. Mental trained these brutes in his dreaded 'East Clintwood' institute, which was named after a famous 20th century gun wielding actor.  He used to build discipline by telling them that if they did't work hard, they would end up taking pictures of bridges. They all graduated.
+Ovo dobiješ kada pokažeš koncept vatrenog oružja stvorenju koje ima problema s umnjacima. Mental je trenirao ove živine u svom zastrašujuæem 'East Clintwood' institutu, koji je bio nazvan prema poznatom revolveraškom glumcu 20-og stoljeæa.  Držao je disciplinu govoreæi im da ako ne budu naporno radili, završiti æe na fotografiranju mostova. Svi su diplomirali.
 
-TIPS:
+SAVJETI:
 
-- They will fire one projectile in front of you, so watch out not to run into it
+- Ispaliti æe jedan projektil ispred tebe, zato pazi da se ne zaletiš u njega

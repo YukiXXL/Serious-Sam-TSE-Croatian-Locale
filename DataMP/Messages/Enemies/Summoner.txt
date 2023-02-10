@@ -1,27 +1,27 @@
 SUBJECT
-Mordekai, The Summoner
+Mordekai, Prizivaè
 IMAGE
 model
 Summoner
 TEXT
 
-CLASS:      Mordekai, The Summoner
-METABOLISM: undead
-PERCEPTION: ancient entity 
-SIZE:       80 ft
-ENDURANCE:  high
-HOSTILITY:  extreme
-WEAPONS:    summoning spells
-REWARD:     1000000
-THREAT:     high
+KLASA:         Mordekai, Prizivaè
+METABOLIZAM:   živi mrtvac
+POIMANJE:      drevno biæe
+VELIÈINA:      25 m
+IZDRŽLJIVOST:  velika
+AGRESIVNOST:   ekstremna
+ORUŽJE:        èarolije prizivanja
+VRIJEDI:       1000000 FC
+PRIJETNJA:     velika
 
-DESCRIPTION:
+OPIS:
 
-One of the most powerful sorcerers that ever lived in the known universe, Mordekai served Mental for over 3000 years.  He served him so well indeed, that Mental missed him very much and resurrected him after he died in a bizzare accident involving the Necronomicon, 20,000 pounds of ectoplasm and a mispronounced Latin proverb.  He was automatically assigned to train Mental's creatures in the art of spellcasting and employing magic for truly 'evilish' purposes. 
+Jedan od najmoænijih èarobnjaka koji je ikada živio u poznatom svemiru, Mordekai je služio Mentalu preko 3000 godina.  Služio mu je tako dobro, da je Mentalu puno nedostajao te ga je uskrsnuo iz mrtvih nakon bizarne nesreæe koja je ukljuèivala Necronomicon, 10 tona ektoplazme i krivo izgovorenu Latinsku poslovicu.  Automatski je bio dodjeljen treniranju Mentalovih stvorenja u umijeæu bacanja èarolija i korištenja magije za stvarno 'zle' svrhe. 
 
-P.S. Mental was a little late with the process of resurrection, so Mordekai's brain is slightly damaged; he is often heard to speak complete nonsense, or as one would say, utter crap.  In Latin.
+P.S. Mental je malo zakasnio s procesom uskrsnuæa, pa je Mordekaiov mozak malo ošteæen; èesto ga se èuje kako prièa potpune besmislice, ili kako bi se reklo, apsolutna sranja.  Na Latinskom.
 
-TIPS:
+SAVJETI:
 
-- He can disappear quickly so be sure to introduce him to the modern artillery while he is in corporal state
-- His magic powers are very likely to disperse if he is killed; this would also cause the disintegration of his evil minions
+- Može brzo nestati tako da mu svakako pokaži modernu artiljeriju dok je u tjelesnom stanju
+- Njegove magiène moæi æe se vjerojatno rasprhnuti ako je ubijen; to bi takoðer znaèio raspad njegovih zlih podanika
