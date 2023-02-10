@@ -2,7 +2,7 @@
 - [X] Engine
 - [X] Meni
 - [X] Trigger poruke
-- [ ] Neprijatelji
+- [X] Neprijatelji
 - [X] Oružja
 - [ ] Poruke u levelima
 
