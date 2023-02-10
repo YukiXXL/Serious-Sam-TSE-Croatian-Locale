@@ -1,0 +1,25 @@
+SUBJECT
+Vanjsko-Tehnièka Lièinka
+IMAGE
+model
+Exotech Larva
+TEXT
+
+KLASA:         Vanjsko-Tehnièka Lièinka
+METABOLIZAM:   kiborg, èlankonožac
+POIMANJE:      genetski programiran
+VELIÈINA:      9 m
+IZDRŽLJIVOST:  ekstremna
+AGRESIVNOST:   velika
+ORUŽJE:        plazma topovi, biokapsule, visoko-energetski laser
+VRIJEDI:       750000 FC
+PRIJETNJA:     velika
+
+OPIS:
+
+Uspjehom njegove prve grozote prirode - Šetaèa - poguralo je Mentala još dalje.  U pokušaju stvaranja savršenog i poslušnog tjelohranitelja, Mental je odluèio kombinirati robotske dijelove s još jednostavnijim organskim stvorenjem - lièinkom insekta.  Lièinka je bila teško naoružana i stavljena u ureðaj 'umnožitelja snage' te je trebala èuvati Mentala.  Stvari se nisu odvile prema planu.  Nakon 17og pokušaja ubojstva Mentala od strane Lièinke i mnogih sati uèenja kiborga razlike izmeðu Gospodara i obiène gusjenice, Mental je naposljetku odustao te je pronašao svome ljubimcu novi posao: èuvanje portala koji bi mu mogao dovesti ozbiljne probleme.
+
+SAVJETI:
+
+- Lièinkina snaga dolazi iz sile... reaktora. Stvorenje æe napuniti svoje baterije kada je na maloj snazi, tako da provjeri okruženje za bilo kakve sumnjive ureðaje
+- Koristi stupove kako bi se sakrio od njezinih oružja

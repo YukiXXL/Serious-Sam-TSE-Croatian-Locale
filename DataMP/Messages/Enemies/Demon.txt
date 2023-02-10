@@ -1,0 +1,24 @@
+SUBJECT
+Fiendianski Reptiloid Demon
+IMAGE
+model
+Demon
+TEXT
+
+KLASA:         Fiendianski Reptiloid Demon
+METABOLIZAM:   hladnokrvan, slièan reptilima
+POIMANJE:      modificirana primitivna rasa
+VELIÈINA:      6 m
+IZDRŽLJIVOST:  srednja
+AGRESIVNOST:   velika
+ORUŽJE:        lava projektili, kandže
+VRIJEDI:       5000 FC
+PRIJETNJA:     srednja
+
+OPIS:
+
+Još jedna odvratna mutacija, zahvaljujuæi Ozloglašenom Mentalu. Jednostavni gušteroliki organizam sa Fiendia Primea mješan i mutiran kroz nekoliko generacija, i na kraju pojaèan titanskim kosturom. Ima jedinstvenu sposobnost formiranja minijaturne crne rupe kroz koju može u postojanje prizvati lebdeæe kugle rastopljene lave. Slabe magiène sile držat æe ovaj vatreni projektil skupa za kratko vrijeme. Dok leti kroz zrak, hladit æe se i na kraju eksplodirati.
+
+SAVJETI:
+
+- Ne postoji naèin da se unište Demonovi projektili... izbjegavaj ih dok ne eksplodiraju
