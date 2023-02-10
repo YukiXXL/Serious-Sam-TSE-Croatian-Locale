@@ -3,7 +3,7 @@
 - [X] Meni
 - [X] Trigger poruke
 - [ ] Neprijatelji
-- [ ] Oružja
+- [X] Oružja
 - [ ] Poruke u levelima
 
 # FAQ
@@ -23,4 +23,9 @@
 # Uklanjanje
 Samo izbriši ".gro" datoteku koju si stavio u TSE folder.
 
-# Svatko tko može pomoći je prihvaćen.
+# Kako pomoći?
+1. Ako postoje greške, izdaj "issue" kroz "Github issues" sistem.
+2. Za prijevod:
+- Treba biti kodiran (encoder) u ANSI formatu zbog specijalnih hrvatski slova (characters) kao č,ć,đ.
+- Github automatski pretvara iz ANSI u UTF-8 (ne znam kako isključit) pa je potrebno preuzeti datoteku i koristiti Notepad++ (ili sličan program za uređivanje teksta).
+- Za dobivanje specijalnih slova, ja koristim Subtitle Edit program (https://www.nikse.dk/subtitleedit), kodiranje na "Encoding" opciji stavim "1250: Central European (Windows), ubacujem tekst kao da radim subtitlove, spremim kao ".srt" te otvorim tu datoteku u Notepad++ i iz nje kopiram tekst.
