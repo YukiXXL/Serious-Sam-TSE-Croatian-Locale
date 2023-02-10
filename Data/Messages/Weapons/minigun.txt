@@ -1,0 +1,20 @@
+SUBJECT
+XM214-A Minigun
+IMAGE
+model
+minigun
+TEXT
+
+ORUŽJE:    XM214-A Minigun
+MUNICIJA:  5.56mm meci
+BP:        1200 metaka/min
+TEŽINA:    15 kg
+
+OPIS:
+
+Nastao od Gatlinga i Vulcana, XM214-A je najnovije pojaèanje federacijskih snaga. Ureðaj za generiranje energije, ugraðeni spremnik i adapter za izmjenu metaka te velika brzina pucanja èine ga najmoænijim pješadijskim oružjem na svijetu.
+
+BILJEŠKE:
+
+- Koristi ga za sukobe sa veæim neprijateljima na raznim udaljenostima ili za eliminaciju veæih grupa slabijih neprijatelja
+- Brzo troši municiju
