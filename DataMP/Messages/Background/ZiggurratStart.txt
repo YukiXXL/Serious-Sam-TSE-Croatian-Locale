@@ -1,0 +1,16 @@
+SUBJECT
+Ziggurat
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Ziggurrat\ZiggurratStart.tex
+TEXT
+
+Sam my man! Seems like we went even further in time.  Here is some brief information about this place: Ziggurat is a temple tower of the ancient Assyrians and Babylonians, having the form of a terraced pyramid. It is old, it is ancient, it is ancient and old! And it is full of traps (unfortunately).
+
+You must find a way to exit that building... alive, of course.
+
+My historical data tells me that there is a large open terrain around Ziggurat with some houses and a road to Persepolis, the biggest city of the old Babylonian civilization.  At the end of that city lies the famous Tower of Babel - our next destination. According to the spaceship database, that is where the Babylonians hid their portal.
+
+You will notice that we have no weapons except your basic ones. Obviously, the portal works only for living beings and some small objects. Bad luck. Whatever, there is no time to lose.
+
+Head onwards to Persepolis!

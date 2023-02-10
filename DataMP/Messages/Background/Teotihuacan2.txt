@@ -1,0 +1,10 @@
+SUBJECT
+Teotihuacan - Serpent Yards
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Teotihuacan2\Teotihuacan2.tex
+TEXT
+
+We are now falling into the part of Teotihuacan where the Moon Pyramid lies.  The Sun and the Moon played an important role in the life of Mayan civilisation.  They managed to create a long count calendar more accurate then any today, based only on relations between the movements of the Sun and the Moon... But this is not important right now.
+
+What we need to do is: find the Moon Pyramid and take the sacred item placed at its base.
