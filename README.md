@@ -27,4 +27,4 @@ Samo izbriši ".gro" datoteku koju si stavio u TSE folder.
 1. Ako postoje greške, izdaj "issue" kroz "Github issues" sistem.
 2. Za prijevod:
 - Treba biti kodiran (encoder) u ANSI formatu zbog specijalnih hrvatski slova (characters) kao č,ć,đ.
-- Koristeći Notepad++, Encoding > Character sets > Central European > Windows-1250
+- Koristeći Notepad++, <b>Encoding > Character sets > Central European > Windows-1250</b>
