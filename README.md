@@ -17,7 +17,7 @@
   
 # Instalacija
 1. Skini .zip datoteku kod "Releases" i otpakiraj u direktorij igre.
-2. Ako želiš imat prijevod na svim ostalim modova ili na originalnoj igri, kopiraj "SE1_07_Texts_HRV.gro" u direktorij igre. (PAŽNJA! Prijevod Kontrola i Demo-a neće biti dostupan.)
+2. Ako želiš imat prijevod na svim ostalim modova ili na originalnoj igri, kopiraj "SE1_07_Texts_HRV.gro" i "SE1_07_Sounds_HRV.gro" u direktorij igre. (PAŽNJA! Prijevod Kontrola i Demo-a neće biti dostupan.)
 
 # Uklanjanje
 Samo izbriši datoteke koje si otpakirao/kopirao.
