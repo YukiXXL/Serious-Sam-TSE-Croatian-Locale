@@ -1,11 +1,11 @@
-# Stvari za napravit
-- [X] Engine
-- [X] Meni
-- [X] Trigger poruke
-- [X] Neprijatelji
-- [X] Oružja
-- [X] Poruke u levelima
-- [X] Imena levela na mapi
+# Greške
+- [ ] Engine
+- [ ] Meni
+- [ ] Trigger poruke
+- [ ] Neprijatelji
+- [ ] Oružja
+- [ ] Poruke u levelima
+- [ ] Imena levela na mapi
 
 # FAQ
 1. Šta je ovo?
