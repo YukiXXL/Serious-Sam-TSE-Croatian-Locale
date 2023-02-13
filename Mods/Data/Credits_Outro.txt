@@ -1,0 +1,228 @@
+ZASLUGE   
+
+ENTRY
+235, 100
+1
+CENTER
+Izvršni programer
+Alen Ladavac
+^i- "Engine ne podržava tu znaèajku."
+0
+
+ENTRY
+590, 330
+1
+CENTER
+Programiranje, dizajn razina i igre
+Davor Hunski
+^i- "Legenda si u stvaranju!"
+10
+
+ENTRY
+235, 340
+1
+CENTER
+Programiranje
+Dean Sekulic
+^i- "Timmy!"
+0
+
+ENTRY
+590, 90
+1
+CENTER
+Programiranje
+Darko Martinovic
+^i"Ne želim taj citat. Glup je!"
+10
+
+ENTRY
+235, 90
+1
+CENTER
+Programiranje
+Nikola Mosettig
+^i- "Ne može biti uèinjeno!"
+0
+
+ENTRY
+590, 340
+1
+CENTER
+Dizajn igre i razina
+Davor Tomicic
+^i- "Kako to misliš: ne može biti uèinjeno???"
+10
+
+ENTRY
+235, 340
+1
+CENTER
+Dizajn razina, 3D Dizajn
+Tomislav Pongrac
+^i- "Nabijem te na ...!"
+0
+
+ENTRY
+590, 90
+1
+CENTER
+Dizajn razina
+Ivan Mika
+^i- "Da imam dovoljno novca, i ja bi takoðer izgledao kao K...... G....."
+10
+
+ENTRY
+235, 90
+1
+CENTER
+3D Dizajn
+Admir Elezovic
+^i- "Kasnimo sa Alphom, i ti ideš doma???"
+0
+
+ENTRY
+413, 220
+1
+CENTER
+2D Dizajn
+Dinko Pavicic
+^i- "Šta ima, daktilografi?" (za programere)
+0
+
+ENTRY
+590, 340
+1
+CENTER
+2D Dizajn
+Zeljko Visnjic
+
+10
+
+ENTRY
+235, 340
+1
+CENTER
+Muzika, zvuèni efekti i dizajn razina
+Damjan Mravunac
+^i- "Zadnji puta: ne diraj mi opremu!!!"
+0
+
+ENTRY
+590, 90
+1
+CENTER
+2D Dizajn
+Petar Ivancek
+^i- "Presvjetljavanje je dobro za moju kožu."
+10
+
+ENTRY
+590, 340
+1
+CENTER
+Poslovni razvoj 
+Robert Westmoreland
+
+0
+
+ENTRY
+235, 90
+1
+CENTER
+Izvršni Direktor
+Roman Ribaric
+^i- "Ne privlaèi pozornost"
+0
+
+ENTRY
+420, 215
+1
+CENTER
+Biz asistent
+Helena Hunski
+^i- "Moje prezime je ^IRUKAVINA^i!!!"
+10
+
+ENTRY    
+420, 65
+1.0
+CENTER    
+Serious Sam glas
+John J. Dick
+^i- "Ime mi je Sam!"
+0
+
+ENTRY    
+420, 165
+1.0
+CENTER    
+SkyBox dizajn
+Peter Kleiner
+
+0
+
+ENTRY    
+420, 265
+1.0
+CENTER    
+Linux port
+Ryan C. Gordon - Icculus
+
+0
+
+ENTRY    
+420, 365
+1.0
+CENTER    
+Dodatna Borbena Muzika
+Undercode
+
+9
+
+ENTRY    
+420, 130
+1.0
+CENTER    
+Seriously Warped Deathmatch napravili
+Par Labavih Vijaka:
+
+0
+
+ENTRY
+420, 220
+0.8
+CENTER    
+
+Nick "Xavier" Macron
+
+0
+
+ENTRY    
+420, 250
+0.8
+CENTER    
+
+Christopher "LanThief" Kreager
+
+0
+
+ENTRY    
+420, 280
+0.8
+CENTER    
+
+Ben "Vinz" Frech
+
+0
+
+ENTRY    
+420, 310
+0.8
+CENTER    
+
+Sean "mwadaibe" Center
+
+10
+
+END

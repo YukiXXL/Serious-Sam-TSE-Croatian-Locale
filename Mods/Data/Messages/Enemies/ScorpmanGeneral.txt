@@ -1,0 +1,25 @@
+SUBJECT
+Škorpauk, Odrasli
+IMAGE
+model
+ScorpmanGeneral
+TEXT
+
+KLASA:         Škorpauk, Odrasli
+METABOLIZAM:   hladnokrvni èlankonožac
+POIMANJE:      primitivna svjesna rasa
+VELIÈINA:      6-8 m
+IZDRŽLJIVOST:  velika
+AGRESIVNOST:   ekstremna
+ORUŽJE:        mitraljez, žalac
+VRIJEDI:       5000 FC
+PRIJETNJA:     velika
+
+OPIS:
+
+Sveti ratnik primitivne rase èlankonožaca, jako agresivan zbog svojih religijskih uvjerenja. U ruci nosi mitraljez sa magiènim izvorom municije. Ljuštura prekriva kompletno Škorpaukovo tijelo i pruža mu odliènu zaštitu od vatre, metaka i eksplozija.
+
+SAVJETI:
+
+- Opasni žalac - ne približavaj se previše
+- Pucat æe kroz vlastite redove kad pobjesni

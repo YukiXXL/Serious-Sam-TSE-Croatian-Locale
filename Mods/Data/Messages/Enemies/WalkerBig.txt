@@ -1,0 +1,26 @@
+SUBJECT
+Šetaè, veliki
+IMAGE
+model
+WalkerBig
+TEXT
+
+KLASA:         Šetaè, veliki
+METABOLIZAM:   toplokrvni kiborg
+POIMANJE:      genetski programiran
+VELIÈINA:      10 m dok stoji
+IZDRŽLJIVOST:  velika
+AGRESIVNOST:   velika
+ORUŽJE:        lanseri raketa
+VRIJEDI:       7500 FC
+PRIJETNJA:     velika
+
+OPIS:
+
+Biološki mehanizmi uzgojeni u Mentalovim bio-baèvama. Genetski su predodreðeni za dodatno ugraðivanje mehanièkih dijelova popur lansera raketa koji se direktno spajaju na njihov živèani sustav.
+Napadaju bez razmišljanja.
+
+SAVJETI:
+
+- Vrlo opasni, eliminiraj ih brzo
+- Izbjegavaj rakete ili ih upucaj u zraku

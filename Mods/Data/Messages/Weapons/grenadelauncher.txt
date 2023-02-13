@@ -1,0 +1,20 @@
+SUBJECT
+MKIII Lanser Granata
+IMAGE
+model
+grenadelauncher
+TEXT
+
+ORUŽJE:    MKIII Lanser Granata
+MUNICIJA:  40mm Visokoeksplozivne granate
+BP:        varira
+
+OPIS:
+
+Pouzdani pješadijski lanser granata sa promjenjivom brzinom ispaljivanja. MKIII je dizajniran da ispaljuje visokoeksplozivne granate preko prepreka i iza kuteva i smanji vjerovatnost da se korisnik ozlijedi. Detektor udara aktivira granatu pri dodiru sa živim biæem ali ne i sa zidom.
+
+BILJEŠKE:
+
+- Pritisni okidaè lagano da ispališ granatu blizu, drži ga za veæi domet
+- Eksplozije širokog dometa korisne su za veæe kolièine neprijatelja
+- Koristi zidove za odbijanje ili ih ispaljuj preko zidova

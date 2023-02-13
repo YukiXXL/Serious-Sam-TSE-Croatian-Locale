@@ -1,0 +1,24 @@
+SUBJECT
+Sirijanski Bikodlak
+IMAGE
+model
+bull
+TEXT
+
+KLASA:        Sirijanski Bikodlak
+METABOLIZAM:  sisavac
+POIMANJE:     domaæa životinja
+VELIÈINA:     3 ft
+IZDRŽLJIVOST: mala
+AGRESIVNOST:  srednja
+ORUŽJE:       rogovi
+VRIJEDI:      2000 FC
+PRIJETNJA:    srednja
+
+OPIS:
+
+Mješavina izmeðu obiènog bika i neke vrste sirijanske stoke, Bikodlak se ponaša prilièno slièno obiènom biku te napada rogovima dok juriša.
+
+SAVJETI:
+
+- Izbjegni njegovo jurišanje pomakom u stranu

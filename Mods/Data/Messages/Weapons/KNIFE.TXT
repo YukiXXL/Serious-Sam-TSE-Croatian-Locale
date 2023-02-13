@@ -1,0 +1,18 @@
+SUBJECT
+Vojni Nož
+IMAGE
+model
+knife
+TEXT
+
+ORUŽJE:    Vojni Nož
+TEŽINA:    0.45 kg
+DULJINA:   37,9 cm
+
+OPIS:
+
+Klasièni vojni nož federacijskih snaga, koristi se za tiho ubijanje ili kao alatka.
+
+BILJEŠKE:
+
+- Koristan za bešumno eliminiranje manjih neprijatelja s leða
