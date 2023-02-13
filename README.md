@@ -16,10 +16,8 @@
   * Pogledaj dolje.
   
 # Instalacija
-1. Kloniraj ili skini ".zip" datoteku od ovog repositorija.
-- Ako si klonirao, stavi stvari u ".zip" datoteku i preimenuj je da bude ".gro".
-- Ako si skinuo ".zip", onda samo preimenuj da bude ".gro".
-3. Kopiraj u folder gdje je lociran TSE.
+1. Skini .zip datoteku kod "Releases" i otpakiraj u direktorij igre.
+2. Ako želiš imat prijevod na svim ostalim modova ili na originalnoj igri, kopiraj "SE1_07_Texts_HRV.gro" u direktorij igre. (PAŽNJA! Prijevod Kontrola i Demo-a neće biti dostupan.)
 
 # Uklanjanje
 Samo izbriši ".gro" datoteku koju si stavio u TSE folder.
