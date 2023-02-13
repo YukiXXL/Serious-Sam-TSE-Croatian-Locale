@@ -20,7 +20,7 @@
 2. Ako želiš imat prijevod na svim ostalim modova ili na originalnoj igri, kopiraj "SE1_07_Texts_HRV.gro" u direktorij igre. (PAŽNJA! Prijevod Kontrola i Demo-a neće biti dostupan.)
 
 # Uklanjanje
-Samo izbriši ".gro" datoteku koju si stavio u TSE folder.
+Samo izbriši datoteke koje si otpakirao/kopirao.
 
 # Kako pomoći?
 1. Ako postoje greške, izdaj "issue" kroz "Github issues" sistem.
