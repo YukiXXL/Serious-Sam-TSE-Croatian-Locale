@@ -1,0 +1,8 @@
+SUBJECT
+Sierra de Chiapas - Pucaj i poslije pitaj
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Palenque1\SniperPicked.tex
+TEXT
+
+Ok, evo ti prilike da isprobaš taj snajper.  Naciljaj, zadrži dah, lagano pritisni okidaè i gledaj ih kako padaju...

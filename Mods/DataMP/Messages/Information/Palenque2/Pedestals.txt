@@ -1,0 +1,10 @@
+SUBJECT
+Valley of the Jaguar - Dva postolja
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Palenque2\Pedestals.tex
+TEXT
+
+Ovdje su dva prazna postolja gdje bi trebao postaviti dva zlatna jaguara. Prema mojoj bazi podataka, jaguari se nalaze u dva hrama, istoèno i zapadno odavde. Donesi ih ovdje, postavi ih na postolja i nešto monumentalno æe se dogoditi, ukljuèujuæi predivne 3D grafike, lijepe zvuène efekte, dobro odraðene animacije i prelijepe blještave efekte. Ok, lažem - to se dogaða samo u raèunalnim igrama. Vjerojatno æe se samo otvoriti vrata Jaguarovog Hrama. Ali, nije li to dovoljno da te pokrene?
+
+

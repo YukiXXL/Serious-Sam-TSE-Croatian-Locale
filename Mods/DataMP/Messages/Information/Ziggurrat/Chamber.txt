@@ -1,0 +1,10 @@
+SUBJECT
+Zigurat - Odaja Kazne
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Ziggurrat\Chamber.tex
+TEXT
+
+Pazi se Sam, ova odaja bila je korištena za kažnjavanje nevjernika, špijuna i kriminalaca.  Osuðenici su bacani s visine u ovu odaju, punu lavova.  Lavovi su odmah znali što treba uèiniti sa svakim osuðenikom.  I osuðenik je znao da su lavovi znali što trebaju uèiniti s njim.  I lavovi su znali da je osuðenik znao što æe lavovi uèiniti osuðenicima.  I osuðenik... ma bilo bi dosta.
+
+Pronaði izlaz odavdje brzo, ne sviða mi se baš, naježila sam se po svim sklopovima.

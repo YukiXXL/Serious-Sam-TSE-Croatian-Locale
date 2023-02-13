@@ -1,0 +1,8 @@
+SUBJECT
+Babilonska Kula - Prva Ploèa Mudrosti
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\TowerOfBabylon\Tablet.tex
+TEXT
+
+Izvrsno!  Imamo prvu Ploèu Mudrosti.  Još dvije i moæi æemo vidjeti unutrašnjost ove graðevine. 

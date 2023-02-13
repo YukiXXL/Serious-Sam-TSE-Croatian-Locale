@@ -1,0 +1,12 @@
+SUBJECT
+Babilonska Kula - Obredna Dvorana
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\TowerOfBabylon\Hall.tex
+TEXT
+
+Ovo je najveæa dvorana u palaèi, Obredna Dvorana.  Veæi obredi i aktivnosti održavali su se ovdje.
+
+Sada je zakljuèana i trebat æe nam kljuè da bi ju otvorili.  Jasno vidim kljuè odavdje, u obliku je kipiæa Kralja Tilmuna i postavljen je u sredini prostorije. 
+
+Pokupimo ga! 

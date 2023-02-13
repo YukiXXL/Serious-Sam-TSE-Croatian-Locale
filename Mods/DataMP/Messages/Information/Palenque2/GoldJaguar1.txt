@@ -1,0 +1,8 @@
+SUBJECT
+Valley of the Jaguar - Zlatni Jaguar (mužjak)
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Palenque2\GoldJaguar1.tex
+TEXT
+
+Pokupio si zlatnog jaguara - izgleda kao mužjak.  Mislim, to JE mužjak, ZNAM to, možeš vidjeti po... ma znaš...maaaa, zaboravi!  Hajdemo do drugog hrama pokupiti drugog jaguara.

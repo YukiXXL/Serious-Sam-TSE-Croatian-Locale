@@ -1,0 +1,10 @@
+SUBJECT
+Dvorovi Gilgameša - Izlaz iz Vrhovne Dvorane
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Persepolis2\HallEnd.tex
+TEXT
+
+Još jedan propadajuæi pod i moji žiroskopi bi eksplodirali! Hvala Bogu da je gotovo! 
+
+Trebali bi biti vrlo blizu ponora.

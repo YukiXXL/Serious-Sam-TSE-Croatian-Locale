@@ -1,0 +1,10 @@
+SUBJECT
+Tvrðava - Ulaz u dvorac
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\GothicCastle\CastleEntrance.tex
+TEXT
+
+Ne možemo uæi u dvorac dok je most podignut.
+
+Predlažem da poènemo stvarati probleme ovdje i možda æe spustiti most da pošalju pojaèanja.  To bi mogla biti naša šansa da uðemo unutra!

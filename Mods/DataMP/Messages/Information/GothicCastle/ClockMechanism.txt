@@ -1,0 +1,10 @@
+SUBJECT
+Tvrðava - Mehanizam Sata
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\GothicCastle\ClockMechanism.tex
+TEXT
+
+Ako želiš nastaviti, trebao bi pronaæi put do onog ventilacijskog otvora gore.  
+
+Ovaj srenjovjekovni satni mehanizam ne izgleda baš èvrsto.  Možda bi ovo mogao okrenuti u svoju koristi tako da razbiješ jedan od njegovih zubaca.  Pronaði najslabiju kariku!

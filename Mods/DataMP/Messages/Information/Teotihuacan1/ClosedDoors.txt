@@ -1,0 +1,8 @@
+SUBJECT
+Grad Bogova - Zatvorena vrata
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Teotihuacan1\ClosedDoors.tex
+TEXT
+
+Sasvim jednostavno: postavi dvije maske na oltar u ovom dvorištu i vrata æe se otvoriti.

@@ -1,0 +1,12 @@
+SUBJECT
+Vrhovna Katedrala - Beskonaèan broj žrtava
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\CorridorOfDeath\Trouble.tex
+TEXT
+
+Pa... barem znamo zašto ovo zovu Koridorom Smrti. 
+
+Oèigledno, Mental je stigao prije nas.  Vjerojatno je pronašao Gral i ostavio jednog od svojih najopasnijih podanika da ga èuva, iz razloga što Sveti Gral ne može uzeti nitko èija duša nije u Božjoj milosti - Mental i njegovi drugovi automatski su diskvalificirani.
+
+Moji senzori još ne mogu otkriti prisustvo Svetog Grala... Èini se kako je prekriven ili nešto takvo...

@@ -1,0 +1,8 @@
+SUBJECT
+Valley of the Jaguar - Trampolini
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Palenque2\JumpPit.tex
+TEXT
+
+Morat æemo prijeæi preko ovih lebdeæih objekata.  Moji senzori mi govore da oni služe kao nekakva vrsta trampolina, zahvaljujuæi jakim magiènim poljima oko njih.  Probaj skoèiti na najbliži pa vidi što æe se dogoditi.

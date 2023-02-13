@@ -1,0 +1,8 @@
+SUBJECT
+Valley of the Jaguar - Zatvoreni ulaz
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Palenque2\ClosedDoors.tex
+TEXT
+
+Ulaz u Hram Jaguara je zatvoren. Nije ni èudo kad nemamo oba kipiæa na svojim mjestima.

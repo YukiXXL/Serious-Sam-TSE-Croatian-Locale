@@ -1,0 +1,10 @@
+SUBJECT
+Jama - Izlaz
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Teotihuacan3\Exit.tex
+TEXT
+
+Sam, neæeš vjerovati svojim oèima: vrlo smo blizu Piramide Sunca.  Ovaj cijeli podzemni kompleks odveo nas je dalje nego što sam oèekivala, skoro kao preèica.  Blizu smo portala koji æe nam pomoæi da nastavimo našu potragu! 
+
+Kada uðemo u Piramidu Sunca,  morat æeš postaviti kristalnu lubanju na postolje kako bi aktivirao portal.

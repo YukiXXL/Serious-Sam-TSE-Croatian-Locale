@@ -1,0 +1,8 @@
+SUBJECT
+Babilonska Kula - Osiguraj podruèje
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\TowerOfBabylon\TabletNeeded.tex
+TEXT
+
+Hmmm... èini se da trebaš pokupiti ploèu i osigurati podruèje kako bi se ova vrata otvorila.

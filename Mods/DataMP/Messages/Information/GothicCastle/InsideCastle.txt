@@ -1,0 +1,8 @@
+SUBJECT
+Tvrðava - Unutrašnjost dvorca
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\GothicCastle\InsideCastle.tex
+TEXT
+
+Svaka èast, ušli smo u dvorac!  Knjiga Mudrosti se nalazi u sobi najviše toèke i pogodi što, mi se nalazimo na najnižoj toèki.  Dug je put do gore i netko mora produljiti korak.  Taj netko bi bio ti.

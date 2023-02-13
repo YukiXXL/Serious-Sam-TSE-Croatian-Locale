@@ -1,0 +1,10 @@
+SUBJECT
+Babilonska Kula - Treba Nam Kljuè
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\TowerOfBabylon\KeyNeeded.tex
+TEXT
+
+Vidim kljuè, stoji na postolju u sredini dvorane. 
+
+Pokupi ga!

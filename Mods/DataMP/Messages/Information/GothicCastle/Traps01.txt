@@ -1,0 +1,8 @@
+SUBJECT
+Tvrðava - Smakn-O-Mat
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\GothicCastle\Traps01.tex
+TEXT
+
+Ova prostorija sadrži nekolicinu Smakn-O-Mat ureðaja.  Naèelno, njihova funkcija je da probijaju, režu, pljuskaju i zdrobe dvonožce poput tebe.  Izbjegavaj ih pod svaku cijenu!!!

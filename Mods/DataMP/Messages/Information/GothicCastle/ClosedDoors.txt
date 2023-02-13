@@ -1,0 +1,10 @@
+SUBJECT
+Tvrðava - Zatvorena Vrata
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\GothicCastle\ClosedDoors.tex
+TEXT
+
+Ova vrata su èvrsto zatvorena s druge strane.  Morat æemo pronaæi drugi ulaz unutra.
+
+Zašto ne provjeriš odvodnu cijev sa tvoje desne strane?

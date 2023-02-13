@@ -1,0 +1,10 @@
+SUBJECT
+Tvrðava - Most
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\GothicCastle\Bridge.tex
+TEXT
+
+Moramo prijeæi ovaj most kako bi došli do grada.  Oprezno, to je 100 metara slobodnog pada ako ne uspijemo!
+
+(Probaj to izgovoriti sedam puta brzo)

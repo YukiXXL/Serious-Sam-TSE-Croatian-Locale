@@ -1,0 +1,8 @@
+SUBJECT
+Dvorovi Gilgameša - Krilati Lav je potreban
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Persepolis2\Left.tex
+TEXT
+
+Lijevo, Sam, stvarno trebamo iæi lijevo! Vrata hrama Gilgameša jedino mogu biti otvorena sa kipiæem Krilatog Lava i pogodi što moramo uèinit da bi došli do njega...

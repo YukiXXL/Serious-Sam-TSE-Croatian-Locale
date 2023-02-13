@@ -1,0 +1,8 @@
+SUBJECT
+Zemlja Prokletih - Magièni Portal
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\LandOfDamned\Portal.tex
+TEXT
+
+Pogledaj Sam, Portal u drugi svijet... tako znaèi, knjige su stvarno govorile istinu.  Vjerujem da posljednji dio knjige govori o toènoj lokaciji Svetog Grala... i ako sam u pravu, Gral bi trebao biti u tom Ledenom Dvorcu!

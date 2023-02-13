@@ -1,0 +1,10 @@
+SUBJECT
+Dvorovi Gilgameša - Opasnost
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Persepolis2\Danger.tex
+TEXT
+
+Opasnost!  Otkrila sam nekakve šiljke iznad nas. 
+
+Bila bih vrlo oprezna na tvom mjestu.  Hmmm...èekaj malo...JA JESAM TI.  Oprezno Sam, oprezno!!!

@@ -1,0 +1,10 @@
+SUBJECT
+Valley of the Jaguar - Oba Zlatna Jaguara postavljena
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Palenque2\BothJaguarsPlaced.tex
+TEXT
+
+Rekla sam ti! Vrata su se otvorila i kristalna lubanja nas èeka. 
+
+Ali prièekaj s proslavom za neku drugu prigodu. Pripremi se na teški otpor cijelim putem!
