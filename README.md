@@ -4,7 +4,8 @@
 - [X] Trigger poruke
 - [X] Neprijatelji
 - [X] Oružja
-- [ ] Poruke u levelima
+- [X] Poruke u levelima
+- [X] Imena levela na mapi
 
 # FAQ
 1. Šta je ovo?
