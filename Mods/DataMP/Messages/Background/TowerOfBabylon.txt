@@ -1,0 +1,10 @@
+SUBJECT
+Babilonska Kula
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\TowerOfBabylon\TowerOfBabylon.tex
+TEXT
+
+Naše odredište, Babilonska Kula, je veoma blizu.  Portal koji tražimo trebao bi biti ondje, ali budi oprezan, postoji stara legenda o èudovištu koje živi unutra.  Legenda kaže da æe onome tko ga porazi biti odobreno putovanje u zagrobni život. Èini se kako je èudovište ovdje da bi zaštitilo portal.
+
+Ali za sada, morat æemo pronaæi izlaz odavde. Trenutno smo u palaèi Kralja Tilmuna i jedini izlaz je kroz ta vrata ispred nas.
