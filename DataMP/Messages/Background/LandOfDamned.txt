@@ -1,9 +1,0 @@
-SUBJECT
-Zemlja Prokletih
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\LandOfDamned\LandOfDamned.tex
-TEXT
-
-Ako su podaci iz 'Knjige Mudrosti' toèni, ovo prelijepo malo selo prekriveno snijegom je skrovište Arc-Al-Magi, likova koji su napisali tu istu knjigu i znaju gdje je Sveti Gral! Trebali bi ovdje pronaæi nekakve dokaze o moguæoj lokaciji ovog kljuènog predmeta. Postoje par stvari spomenute u Knjizi Mudrosti koje mi nisu sasvim jasne. Postoji cijelo poglavlje o Peæinama Lave, tajnovito mjesto gdje neprestano teku rijeke vrele magme, a takoðer postoji prièa o Ledenom dvorcu... Jako zbunjujuæe, trebat æe mi više vremena da pohvatam sve to. Ali što god da uèinili, moramo doæi do Grala prije Mentala. Inaèe...
- 
