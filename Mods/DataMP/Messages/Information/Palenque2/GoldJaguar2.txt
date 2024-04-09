@@ -1,8 +1,0 @@
-SUBJECT
-Valley of the Jaguar - Zlatni Jaguar (ženka)
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Palenque2\GoldJaguar2.tex
-TEXT
-
-Ovo je kipiæ zlatne ženke jaguara. Trebali bi pronaæi i njezinog partnera èim prije, zajedno æe nam otvoriti Jaguarov Hram!

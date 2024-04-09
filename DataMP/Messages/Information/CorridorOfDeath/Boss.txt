@@ -1,0 +1,12 @@
+SUBJECT
+Vrhovna Katedrala - Moæna Èarolija
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\CorridorOfDeath\Boss.tex
+TEXT
+
+Baš kako sam i mislila: ne mogu pronaæi Sveti Gral!  Osjeæam da je još uvijek tu, ali je zamagljen nekom jako snažnom i moænom magijom.  Mislim da znam koga je Mental poslao ovaj put - jednog i jedinog...
+
+... Mordekaia, Prizivaèa!
+
+	(kljuèna rijeè: Mordekai)

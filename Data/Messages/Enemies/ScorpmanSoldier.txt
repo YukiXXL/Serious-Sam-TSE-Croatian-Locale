@@ -1,0 +1,25 @@
+SUBJECT
+Škorpauk, Mladunèe
+IMAGE
+model
+ScorpmanSoldier
+TEXT
+
+KLASA:         Škorpauk, Mladunèe
+METABOLIZAM:   hladnokrvni èlankonožac
+POIMANJE:      primitvna svjesna rasa
+VELIÈINA:      4 m
+IZDRŽLJIVOST:  srednja
+AGRESIVNOST:   ekstremna
+ORUŽJE:        mitraljez, žalac
+VRIJEDI:       1000 FC
+PRIJETNJA:     velika
+
+OPIS:
+
+Sveti ratnik primitivne rase èlankonožaca, jako agresivan zbog svojih religijskih uvjerenja. U ruci nosi mitraljez sa magiènim izvorom municije. Ljuštura prekriva kompletno Škorpaukovo tijelo i pruža mu odliènu zaštitu od vatre, metaka i eksplozija.
+
+SAVJETI:
+
+- Opasni žalac - ne približavaj se previše
+- Pucat æe kroz vlastite redove kad pobjesni

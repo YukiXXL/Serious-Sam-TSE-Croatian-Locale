@@ -1,8 +1,0 @@
-SUBJECT
-Tvrðava - Prekidaè s odreðenom svrhom
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\GothicCastle\Switch.tex
-TEXT
-
-Pritisnuo si prekidaè i spustilo se dizalo, ali jesi li dovoljno brz da ga uloviš?

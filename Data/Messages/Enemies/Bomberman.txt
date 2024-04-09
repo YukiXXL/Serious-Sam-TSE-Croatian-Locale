@@ -1,0 +1,25 @@
+SUBJECT
+Bezglavi bombaš
+IMAGE
+model
+Bomberman
+TEXT
+
+KLASA:        Bezglavi bombaš
+METABOLIZAM:  cyber-zombi
+POIMANJE:     nesvjestan, daljinski (LCU) upravljan
+VELIÈINA:     2 m
+IZDRŽLJIVOST: vrlo mala
+AGRESIVNOST:  vrlo mala
+ORUŽJE:       ruène bombe
+VRIJEDI:      500 FC
+PRIJETNJA:    mala
+
+OPIS:
+
+Nastao od smaknutih Sirijanskih vojnika, u život ga vraæa Mental i daljinski upravlja pomoæu Jedinice za Upravljanje Životom (LCU).
+Bombaš nosi vlastitu glavu u rukama da bi primo audio-vizualne podražaje i naoružan je velikom kolièinom samonapuhavajuæih bombi.
+
+SAVJETI:
+
+- Bezglavi bombaš eksplodira odmah nakon umiranja

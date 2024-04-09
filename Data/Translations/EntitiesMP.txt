@@ -1,0 +1,786 @@
+170
+
+\0\<
+Cannot create reminder entity class: %s
+\0\>
+Ne mogu kreirati klasu-podsjetnik: %s
+\0\<
+Cannot create basic effect class: %s
+\0\>
+Ne mogu kreirati klasu osnovnog efekta: %s
+\0\<
+Cannot create flame entity class: %s
+\0\>
+Ne mogu kreirati klasu-plamen: %s
+\0\<
+Unexpected end of file
+\0\>
+Neoèekivan kraj datoteke
+\0\<
+Expected %s%s before filename
+\0\>
+Oèekivano %s%s prije naziva datoteke
+\0\<
+Expected '{'
+\0\>
+Oèekivano '{'
+\0\<
+Invalid animation number
+\0\>
+Krivi broj animacije
+\0\<
+Animation %d does not exist in that model
+\0\>
+Animacija %d ne postoji za ovaj model
+\0\<
+Invalid attachment number
+\0\>
+Krivi broj prikljuèka
+\0\<
+Attachment %d does not exist in that model
+\0\>
+Prikljuèak %d ne postoji za ovaj model
+\0\<
+Expected texture or attachment
+\0\>
+Oèekivana tekstura ili prikljuèak
+\0\<
+Expected name
+\0\>
+Oèekivan naziv
+\0\<
+Cannot load player model:\n
+%s (%d) : %s\n
+
+\0\>
+Ne mogu uèitati model za igraèa:\n
+%s (%d) : %s\n
+
+\0\<
+Cannot load default player model!
+\0\>
+Ne mogu uèitati osnovni model igraèa!
+\0\<
+WARNING: Triggering chain broken, entity: %s-%s(%s)\n
+
+\0\>
+UPOZORENJE: Niz triggera prekinut, entitet: %s-%s(%s)\n
+
+\0\<
+TIME LEFT
+\0\>
+PREOSTALO VRIJEME
+\0\<
+FRAGS LEFT
+\0\>
+FRAGOVA PREOSTALO
+\0\<
+SCORE LEFT
+\0\>
+BODOVA PREOSTALO
+\0\<
+Unable to obtain texture: %s
+\0\>
+Ne mogu uèitati teksturu: %s
+\0\<
+%s was -*blown away*- by an Air Elemental
+\0\>
+%s je -*poslan po burek*- od Zraènog Elementala
+\0\<
+Cannot load Animations\\BasicEffects.ani: %s
+\0\>
+Ne mogu uèitati animacije\\BasicEffects.ani: %s
+\0\<
+A Reptiloid killed %s
+\0\>
+Reptiloid je usmrtio igraèa zvanog %s
+\0\<
+%s was ripped apart by a Kleer
+\0\>
+%s je prerezan popola zahvaljujuæi Kleeru
+\0\<
+%s was killed by a Kleer
+\0\>
+%s je stradao igrajuæi se sa Kleerom
+\0\<
+A Cannon killed %s
+\0\>
+%s je smravljen sa zemljom zahvaljujuæi Topovskoj kugli
+\0\<
+Chainsaw freak dismembered %s
+\0\>
+%s je postao izrezana kobasica
+\0\<
+A Demon executed %s
+\0\>
+%s je potpisao ugovor sa Vragom
+\0\<
+Ugh Zan killed %s
+\0\>
+Ugh Zan je ukokao igraèa zvanog %s
+\0\<
+Cannot load Animations\\Effector.ani: %s
+\0\>
+Ne mogu uèitati animacije\\Effector.ani: %s
+\0\<
+%s was killed by a Lava Golem
+\0\>
+%s se integrirao sa zemljom zahvaljujuæi Lava Golem
+\0\<
+%s killed %s
+\0\>
+%s je uneredio igraèa poznatijeg kao %s
+\0\<
+More than one boss active!\n
+
+\0\>
+Više od jednog bossa je u igri!\n
+
+\0\<
+Cannot load default model '%s':\n
+%s
+\0\>
+Ne mogu uèitati osnovni model '%s':\n
+%s
+\0\<
+Exotech larva reduced %s to pulp.
+\0\>
+%s je postao kaša Vegete za Lièinku.
+\0\<
+A Gnaar bit %s to death
+\0\>
+%s je poslužio Gnaaru za veèeru
+\0\<
+%s was beaten up by a Gnaar
+\0\>
+%s je prebijen nasmrt od Gnaara
+\0\<
+%s was electrocuted by a fish
+\0\>
+%s je smaknut elektriènom ribom
+\0\<
+%s ate a marsh hopper
+\0\>
+%s je progutao moèvarnog skakutavca
+\0\<
+A Grunt sent %s into the halls of Valhalla
+\0\>
+%s je poslan u Valhallu od Grunta
+\0\<
+Guffy gunned %s down
+\0\>
+%s bijaše pokošen od Guffya
+\0\<
+%s was bombed by a Bomberman
+\0\>
+%s je bombardiran bombama od Bezglavog bombaša
+\0\<
+%s fell victim of a Kamikaze
+\0\>
+%s pade kao žrtva Kamikaze
+\0\<
+A Rocketeer tickled %s to death
+\0\>
+Bezglavi raketaš je škakljao nespretnjakoviæa zvanog %s do smrti
+\0\<
+A Firecracker tickled %s to death
+\0\>
+Bezglavi iskraš je nasmrt spalio igraèa zvanog %s
+\0\<
+Book of wisdom
+\0\>
+Knjiga mudrosti
+\0\<
+Wooden cross
+\0\>
+Drveni križ
+\0\<
+Gold cross
+\0\>
+Zlatni križ
+\0\<
+Silver cross
+\0\>
+Srebrni križ
+\0\<
+Gold jaguar
+\0\>
+Zlatni jaguar
+\0\<
+Hawk wings - part 1
+\0\>
+Krila jastreba - 1. dio
+\0\<
+Hawk wings - part 2
+\0\>
+Krila jastreba - 2. dio
+\0\<
+Holy grail
+\0\>
+Sveti gral
+\0\<
+Tablet of wisdom
+\0\>
+Ploèa mudrosti
+\0\<
+Winged lion
+\0\>
+Krilati lav
+\0\<
+Gold elephant
+\0\>
+Zlatni slon
+\0\<
+Seriously scary ceremonial mask
+\0\>
+Ozbiljno zastrašujuæa ceremonijska maska
+\0\<
+Hilariously happy ceremonial mask
+\0\>
+Urnebesno sretna ceremonijska maska
+\0\<
+Ix Chel mask
+\0\>
+Ix Chel maska
+\0\<
+Statue of King Tilmun
+\0\>
+Kip Kralja Tilmuna
+\0\<
+Crystal Skull
+\0\>
+Kristalna lubanja
+\0\<
+unknown item
+\0\>
+nepoznati predmet
+\0\<
+Cannot load '%s': %s
+\0\>
+Ne mogu uèitati '%s': %s
+\0\<
+Cannot load ska model '%s':\n
+%s
+\0\>
+Ne mogu uèitati ska model '%s':\n
+%s
+
+\0\<
+%s telefragged %s\n
+
+\0\>
+%s je teleubio igraèa zvanog %s\n
+
+\0\<
+%s cut %s into pieces\n
+
+\0\>
+%s nareže igraèa zvanog %s na kriške\n
+
+\0\<
+%s poured lead into %s\n
+
+\0\>
+%s je napunio olovom igraèa zvanog %s\n
+
+\0\<
+%s blew %s away\n
+
+\0\>
+%s raznese igraèa zvanog %s\n
+
+\0\<
+%s smashed %s with a cannon\n
+
+\0\>
+%s je pretvorio igraèa zvanog %s u topovsko meso\n
+
+\0\<
+%s nuked %s\n
+
+\0\>
+%s njuknuše igraèa zvanog %s\n
+
+\0\<
+%s killed %s\n
+
+\0\>
+%s umirovi igraèa zvanog %s\n
+
+\0\<
+%s drowned\n
+
+\0\>
+%s se utopio\n
+
+\0\<
+%s burst into flames\n
+
+\0\>
+%s je izgorio\n
+
+\0\<
+%s fell into a spike-hole\n
+
+\0\>
+%s je pao u rupu sa šiljcima\n
+
+\0\<
+%s has frozen\n
+
+\0\>
+%s se smrznuo\n
+
+\0\<
+%s dissolved\n
+
+\0\>
+%s se rastavio na molekule\n
+
+\0\<
+%s blew himself away\n
+
+\0\>
+%s je uspio unerediti samoga sebe\n
+
+\0\<
+%s has committed suicide\n
+
+\0\>
+%s je izvršio samoubojstvo iz zasjede\n
+
+\0\<
+%s was telefragged\n
+
+\0\>
+%s bješe teleubijen\n
+
+\0\<
+%s was pierced\n
+
+\0\>
+%s bijaše probušen\n
+
+\0\<
+%s was squashed\n
+
+\0\>
+%s bijaše zgnjeèen\n
+
+\0\<
+%s went over the edge\n
+
+\0\>
+%s se poskliznuo preko ruba\n
+
+\0\<
+%s swashed\n
+
+\0\>
+%s se razljepio\n
+
+\0\<
+%s stood in the sun for too long\n
+
+\0\>
+%s se sunèao malèice predugo\n
+
+\0\<
+%s passed away\n
+
+\0\>
+%s je preminuo blago u Gospodinu\n
+
+\0\<
+%s is missing in action\n
+
+\0\>
+%s nestade u akciji\n
+
+\0\<
+%s %s Score: %d Kills: %d/%d
+\0\>
+%s %s Bodova: %d Žrtava: %d/%d
+\0\<
+TIME
+\0\>
+VRIJEME
+\0\<
+NO.
+\0\>
+BR.
+\0\<
+FRAGS
+\0\>
+FRAGOVA
+\0\<
+SCORE
+\0\>
+BODOVI
+\0\<
+PING
+\0\>
+PING
+\0\<
+PLAYER
+\0\>
+IGRAÈ
+\0\<
+YOUR STATS
+\0\>
+TVOJA STATISTIKA
+\0\<
+SQUAD TOTAL
+\0\>
+TIM UKUPNO
+\0\<
+DEATHS
+\0\>
+SMRTI
+\0\<
+KILLS
+\0\>
+ŽRTAVA
+\0\<
+SECRETS
+\0\>
+TAJNI
+\0\<
+TOTAL
+\0\>
+UKUPNO
+\0\<
+OTHER PLAYERS
+\0\>
+DRUGI IGRAÈI
+\0\<
+^f4SERIOUS GAME FINISHED,\n
+MENTAL MODE IS NOW ENABLED!^F\n
+\n
+
+\0\>
+^f4IGRA ZAVRŠENA NA NAJOZBILJNIJOJ TEŽINI,\n
+TEŽINA ZA MANIJAKE SADA JE JAVNO DOSTUPNA!^F\n
+\n
+
+\0\<
+^f4YOU HAVE MASTERED THE GAME!^F\n
+\n
+
+\0\>
+^f4SVAKA ÈAST!!! ZAVRŠILI STE IGRU!^F\n
+\n
+
+\0\<
+TOTAL SCORE
+\0\>
+UKUPNO BODOVA
+\0\<
+DIFFICULTY
+\0\>
+TEŽINA
+\0\<
+STARTED
+\0\>
+ZAPOÈEO
+\0\<
+PLAYING TIME
+\0\>
+VRIJEME IGRANJA
+\0\<
+HI-SCORE
+\0\>
+NAJBOLJI BODOVI
+\0\<
+YOU BEAT THE HI-SCORE!
+\0\>
+PRVI SI NA TOP LISTI!
+\0\<
+ESTIMATED TIME
+\0\>
+OÈEKIVANO VRIJEME
+\0\<
+TIME BONUS
+\0\>
+VREMENSKI BONUS
+\0\<
+GAME TIME
+\0\>
+VRIJEME U IGRE
+\0\<
+Per level statistics
+\0\>
+Statistika po nivou
+\0\<
+%s connected
+\0\>
+%s spojen
+\0\<
+Value
+\0\>
+Vrijednost
+\0\<
+Analyzing...
+\0\>
+Analiziram...
+\0\<
+Health
+\0\>
+Zdravlje
+\0\<
+Armor
+\0\>
+Oklop
+\0\<
+Ancient papyrus
+\0\>
+Drevni papirus
+\0\<
+^cFFFFFF%s - %s^r\n
+
+\0\>
+^cFFFFFF%s - %s^r\n
+
+\0\<
+^cABE3FFInvisibility
+\0\>
+^cABE3FFNevidljivost
+\0\<
+^c00B440Invulnerability
+\0\>
+^c00B440Neuništivost
+\0\<
+^cFF0000Serious Damage!
+\0\>
+^cFF0000Super Štetnost!
+\0\<
+^cFF9400Serious Speed
+\0\>
+^cFF9400Super Brzina
+\0\<
+^cFF0000Serious Bomb!
+\0\>
+^cFF0000Ozbiljna Bomba!
+\0\<
+Press USE to read the message!
+\0\>
+Pritisni UPOTREBA da proèitaš poruku!
+\0\<
+%s is now known as %s\n
+
+\0\>
+%s se od sada zove %s\n
+
+\0\<
+%s switched to team %s\n
+
+\0\>
+%s je prebjegao u tim %s\n
+
+\0\<
+%s now appears as %s\n
+
+\0\>
+%s sada izgleda kao %s\n
+
+\0\<
+Cannot change appearance for %s: setting '%s' is unavailable\n
+
+\0\>
+Ne mogu promijeniti izgled za %s: podešenje '%s' nije dostupno\n
+
+\0\<
+%s is riding the gun again\n
+
+\0\>
+%s se vraæa ljut u igru\n
+
+\0\<
+  no more credits left!\n
+
+\0\>
+  nema više žetona!\n
+
+\0\<
+  %d credits left\n
+
+\0\>
+  %d žetona preostalo\n
+
+\0\<
+%s rests in peace - out of credits\n
+
+\0\>
+%s poèiva u miru - ostao bez žetona\n
+
+\0\<
+%s\n
+  Time:   %s\n
+  Score: %9d\n
+  Kills:   %03d/%03d\n
+  Secrets:   %02d/%02d\n
+
+\0\>
+%s\n
+  Vrijeme:   %s\n
+  Bodovi: %9d\n
+  Žrtava:   %03d/%03d\n
+  Tajni:   %02d/%02d\n
+
+\0\<
+  %s: +%d points\n
+
+\0\>
+  %s: +%d bodova\n
+
+\0\<
+  %s: -%d points\n
+
+\0\>
+  %s: -%d bodova\n
+
+\0\<
+%s leaving, all keys transfered to %s\n
+
+\0\>
+%s ode iz igre, sve kljuèeve je dobio %s\n
+
+\0\<
+Use
+\0\>
+Upotrijebi
+\0\<
+Analyze
+\0\>
+Analiziraj
+\0\<
+Backstab!
+\0\>
+Atentiraj!
+\0\<
+Shofield .45 w/ TMAR
+\0\>
+Shofield .45 Revolver
+\0\<
+12 Gauge Pump Action Shotgun
+\0\>
+12 Gauge Pumperica
+\0\<
+Double Barrel Coach Gun
+\0\>
+Saèmarica "Dvocijevka"
+\0\<
+M1-A2 Tommygun
+\0\>
+M1-A2 Strojnica
+\0\<
+RAPTOR 16mm Sniper
+\0\>
+RAPTOR 16mm Snajper
+\0\<
+XM214-A Minigun
+\0\>
+XM214-A Minigun
+\0\<
+XPML21 Rocket Launcher
+\0\>
+XPML21 Lanser raketa
+\0\<
+MKIII Grenade Launcher
+\0\>
+MKIII Lanser granata
+\0\<
+XOP Flamethrower
+\0\>
+XOP Plamenobacaè
+\0\<
+'Bonecracker' P-LAH Chainsaw
+\0\>
+P-LAH Motorna pila
+\0\<
+XL2 Lasergun
+\0\>
+XL2 Laser
+\0\<
+SBC Cannon
+\0\>
+SBC Top
+\0\<
+Shells
+\0\>
+Patrona
+\0\<
+Bullets
+\0\>
+Metaka
+\0\<
+Rockets
+\0\>
+Raketa
+\0\<
+Grenades
+\0\>
+Granata
+\0\<
+Cells
+\0\>
+Baterije
+\0\<
+Cannonballs
+\0\>
+Topovske kugle
+\0\<
+Napalm
+\0\>
+Napalm
+\0\<
+Ammo pack
+\0\>
+Paket s municijom
+\0\<
+Sniper bullets
+\0\>
+Snajper meci
+\0\<
+All Ammo
+\0\>
+Sva municija
+\0\<
+%s was stabbed by an Arachnoid
+\0\>
+%s je izboden nasmrt od Škorpauka
+\0\<
+An Arachnoid poured lead into %s
+\0\>
+Škorpauk je sasuo olovo u igraèa zvanog %s
+\0\<
+The Summoner unsummoned %s
+\0\>
+Prizivatelj je izbrisao igraèa zvanog %s
+\0\<
+%d more to go...
+\0\>
+%d do kraja...
+\0\<
+A Biomech blew %s away
+\0\>
+Šetaè raznese igraèa zvanog %s
+\0\<
+Sirian werebull sent %s flying
+\0\>
+Bikodlak je dao krila igraèu zvanom %s
+\0\<
+%s was beaten by a Scythian Harpy
+\0\>
+%s je pao kao žrtva Scitijske Harpije
+\0\<
+A Scythian Harpy got %s spellbound
+\0\>
+Projektil Scitijske Harpije je zadnje što je %s osjetio
+\0\<
+Cannot load shadow texture: \n
+%s
+\0\>
+Ne mogu uèitati teksture sa sjenama: \n
+%s
+\0\$

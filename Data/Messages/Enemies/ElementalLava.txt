@@ -1,0 +1,25 @@
+SUBJECT
+Lava Golem
+IMAGE
+model
+ElementalLava
+TEXT
+
+KLASA:         Lava Golem
+METABOLIZAM:   anorganski
+POIMANJE:      magièna kreatura
+VELIÈINA:      3 do 30 m
+IZDRŽLJIVOST:  srednja do ekstremna
+AGRESIVNOST:   velika
+ORUŽJE:        vatrene lopte
+VRIJEDI:       500 do 50000 FC
+PRIJETNJA:     mala do ekstremna
+
+OPIS:
+
+Velika hrpa anorganske materije koja je magijom oživljena. Lava Golemi su naèinjeni od niskotemperaturne magme i koriste magiène moæi da bacaju vatrene lopte na svoje neprijatelje.
+Snaga i izdržljivost Golema ovisi o njegovoj velièini i kolièini magiène energije. Kako se magma troši (ukoliko je Golem jako velik) tako se iz njega stvaraju manji Golemi koji nastavljaju živjeti neovisno o tvorcu.
+
+SAVJETI:
+
+- Veliki Golemi mogu biti iznimno izdržljivi i opasni

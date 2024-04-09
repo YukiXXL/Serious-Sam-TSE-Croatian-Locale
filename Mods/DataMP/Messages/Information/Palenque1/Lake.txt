@@ -1,8 +1,0 @@
-SUBJECT
-Sierra de Chiapas - Hram
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Palenque1\Lake.tex
-TEXT
-
-Ovaj ogromni totem izgleda kao ulaz u nekakvu špilju.  Probij se do tamo!

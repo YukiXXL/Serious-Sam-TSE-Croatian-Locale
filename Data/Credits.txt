@@ -1,0 +1,343 @@
+Serious Sam: Drugi Susret
+Zasluge
+
+
+CROTEAM:
+
+PROGRAMIRANJE
+Alen Ladavac
+Davor Hunski
+Dean Sekulic
+Nikola Mosettig
+Darko Martinovic
+
+DIZAJN IGRE
+Davor Hunski
+Davor Tomicic
+
+2D DIZAJN
+Dinko Pavicic
+Petar Ivancek
+Zeljko Visnjic
+
+3D DIZAJN
+Admir Elezovic
+Tomislav Pongrac
+
+DIZAJN RAZINA
+Davor Tomicic
+Davor Hunski
+Ivan Mika
+Tomislav Pongrac
+Damjan Mravunac
+
+MUZIKA I ZVUKOVI
+Damjan Mravunac
+
+IZVRŠNI DIREKTOR
+Roman Ribaric
+
+POSLOVNI RAZVOJ
+Robert Westmoreland
+
+BIZ ASISTENT
+Helena Hunski
+
+
+DRUGI:
+
+Serious Sam Glas dao John J. Dick
+
+SkyBox dizajn napravio Peter Kleiner
+
+Seriously Warped Deathmatch od "Par Labavih Vijaka":
+Nick "Xavier" Macron
+Christopher "LanThief" Kreager
+Ben "Vinz" Frech
+Sean "mwadaibe" Center
+
+Dodatnu borbenu muziku izveo Undercode
+Za više informacije posjetite www.undercode.org
+Klubski Remix izveo Damjan Mravunac
+
+Ogg Vorbis libraries by Xiphophorus
+
+Moralno Podizanje od
+Michael Harris
+LEVELORD
+Vesto
+Matt "Lutrosis" McGill
+Korey "Wussboy" Peters
+Old Man Murray
+Stephen Brown
+
+
+TAKE 2 INTERACTIVE:
+
+IZVRŠNI PRODUCENT
+Sam Houser
+
+VP MARKETINGA
+Terry Donovan
+
+PRODUCENT
+David Nottingham
+
+VODITELJ PROIZVODA
+Devin Winterbottom
+
+Kreativne Usluge
+Paul Yeates, Jennifer Kolbe
+
+JV
+Jeff Casteneda, Anne-Marie Sims, Linn PR
+
+Pridruženi Producent
+Aaron Rigby 
+
+Glavni Tehnièki Službenik
+Gary J Foreman
+
+Koordinator Tehnike
+Brandon Rose
+
+QA Upravitelj
+Jeff Rosa
+
+Direktor QA Baltimore-a
+Phil Santiago
+
+QA Nadglednik
+Frank Kirchner
+
+Voditelj Projekta
+Ben Hamel
+
+Testeri
+Charles Franklin, Daniel Karp, Jon Stephan, Josh Noll, 
+Josh Rose, Lisa Nawrot, Scott Vail, Stacey Sharpe, 
+Stephen Thomas
+
+
+POSEBNE ZAHVALE:
+
+Gabriel Wunderlich
+Karl Unterholzner
+Tomislav Kucko
+Santo Giglia
+Keith Robinson
+Audrey Chambeaud
+Jacques Madec
+Marc Gaillard
+Kriss Schreiner
+Philip Nelson
+Brad Peebler
+Jason Craig
+William "Proton" Vaughn
+Mete Ciragan
+Alexander Shelemekhov
+Jason Andrade
+John Carmack
+Sebastien Domine
+Darko Franic
+Andrzej Grygierzec
+Chris Hecker
+Dorijan Jelincic
+Chris Kim
+Michael Liu
+KSET Computer Division
+Chris "Monty" Montgomery
+Jack Moffitt
+Morothar
+Kresimir Nesek
+Vjekoslav Nesek
+Boris Pereira and the Doom Legacy project
+Jasmin Redzepagic
+Derek Smart
+Pete Stewart
+Marko "Fritz" Stifanic
+Sam "Serious" Stone
+Joachim Hesse
+Kris Sum
+T-Minus10
+Damian Wegner
+Mark Newholm
+Jeremy Morris
+Yolanda Ruiz
+Rex Sikora
+Jeff Royle
+Ed Huang
+Dave Barron
+Andrea D'Orta
+Eric Le
+Roy Russo
+Mike Burrows
+Andrew Walker
+Richard Huddy
+Damir Perovic
+Hrvoje Colic
+Mladen Tripalo
+Aleksandar Vjestica
+Marko Dabrovic
+Zoran Jankovic
+Goran Sarlija
+Kenneth Scott
+Michael Abrash
+Aljosa Brajdic
+Roberto Vdovic
+Christian Studer
+Paul Jacobson
+Joseph Kain
+Keith Galocy
+Jonathan Trainor
+Matt McClure
+Vernon Chiang
+Jason Mitchell
+Daniel Omachi
+Aaron Burton
+Joe Kreiner
+Nicolas Thibieroz
+Omar Yehia
+Elio Del Giudice
+Joey Blankenship
+Jessy Lecomte
+Nick Triantos
+John Spitzer
+Julian Kreisler
+Kevin Strange
+Brian Harvey
+Marshall T. Ireland
+Zach Rand aka Goldfinger
+Jim Hafner-Eaton
+Kif Davis
+Dave Oldcorn
+Newton Cheung
+Slava Gostrenko
+Anthony "Reverend" Tan
+Randy J. VanderHeyden
+Elias Slater
+Daniel Peacock
+Branimir Kovac
+Billy "Wicked" Wilson
+Apache
+Darrin Buchanan
+Harry Miller
+John Bergerud
+Jurica Kresonja
+Marko Sekulic
+Danko Dolinar
+Dean Janacek
+Zoran Zmiric
+Crow
+Rainwolf
+Silvano Bucic
+Relic
+Teo Valic
+Mihael Horvatek
+Leon Magdic
+Alen Magdic
+Ivan Speljak
+Damir Ljubicic
+Branko Babic
+Alex Ruiz
+Stephen Heaslip (Blue)
+Royee Kitty Leung
+Jamie Leece
+Ben (aka Trisk) 
+Heidi Amsler
+Jeff Quinn
+Gavin Ogden
+Jason Andrade
+Todd Mason
+Juan Gutierrez
+Stuart Bishop
+Travis Hogue 
+Uros "2Lions" Jojic
+Amer Ajami
+Daniel Staines
+Jim Rossignol
+Matthew Pierce
+Julian Hoddy
+John Callaham
+Brian E. Lozier
+Curl
+Mister Thingie
+Ron Thompson
+Baron
+Cary 'CitizenC' Schwartzman 
+Chris Reid 
+Chris Bender
+Joe Rafferty
+James Paterson
+Greg Kasavin
+Michael Lummis
+David Laprad
+Maarten Goldstein
+Brian D. Crecente
+Leandro Asnaghi-Nicastro 
+Paul Younger
+Robert (Carpe Mkarzi) Szekely
+Brandon Koida
+Sinjin
+ExitWound
+Mike "StarHawk" Hawks
+Tomislav Kristo
+Peakr
+Ive
+Copyk1llah
+Dave Waters
+Kleer
+Wheeljack
+Nickel4242
+Xfire
+Brian 'XXIII' Gebbia
+Mattomondo
+Shawntae Howard
+David Harrison 
+Frans P. de Vries 
+korgull
+Yeon-Suk O
+Mike "Ragman" Hillebrecht
+
+
+
+ali najvažnije našim obiteljima, ženama, curama i prijateljima.
+
+
+Ozbioljne zahvale idu (nasumiènim redosljedom):
+Grand Master Shinobi, Forager, Gor@n, xxzen, VoOdOo, 
+Mate, Innova, mr man, Entroper, Vesto, Shinigami, Protoz, 
+Max Damage, Pendragon, Ashaman, ClickerClicker, Devil N, 
+FM, Infernal-Divinity, Kaeto, koslov, mike, Napalm man, 
+ReelExterminator, Rich, sooperFoX, The Judge, Wesisapie, 
+Xnerd, sartophiketle, Smithboy, Caid, INTRUDER, 
+Iirion Claus, Viper45, DiEgo, BirddoG, LordVampyre, 
+Nilspack, strossos, Bwian, Sarge, Entroper, Alien Slayer,
+Earthling, Ash, weezer, Green Monkey, Captain Plankface, 
+Lupo, milbertus, TaZeR, Prodigal Son, The friendly newbie, 
+mr luc, GaryP, Margolis, AkumaReihai, SLAPNUTZ, 
+DarkSkywalker, RatBoy, Cincinnatus, justshawnf, 
+Lowly Creaton, SeriousGrandpa, Chris1, MasterEvilAce,
+Boxcarwilli, XMark, Stiben Hunata II, Phalin, SuperTech,rico, 
+Serial Killa, pompey, ViperRogue, Rapid, ClickerClicker,
+MrSsscream, Arach, forager, Darth Plato, esdxc37, Htown,
+Jim, Mailman, DiscoStu, LSD, nocool, Ashthos, MatrixMillion,
+Serious Son of Sam, DarkReaper, Reddog, Proton, Hoard, Tessai,
+TiltedBrian, Jwh, Chimera, AntiSnipe, IdleWild, Naythn, Divx, 
+DanTheDamnMonkeyMan, Zip, the lone crouton, HolyMcGiblets,
+MegamanTC, Scudz, Shrinker, Synthetic2, TiTaN, novice, addman,
+Vagabond, GeeBee20, Dr Cogent, krobnick, Armern, catscratch,
+Kooky Novad, Budda, borgzilla, Synthetix, WIDOWMAKER99, 
+EricCartman, Lacutis, Planerunner, Arachnoid, TheHappyHomo, 
+Nod TuGud, 2Drunk, Carnivorous Duck, Furious Fish, Dante, 
+StoneWolf, chrono, DEATHLRD, synthetic, sh0dan, Lancelot du lac,
+Espontaneo, mr riss, TMinus10, Cromoly, BoneDaddy, ThisIsMe, 
+Vlad Harkonnen, SSJ Egg, RiZlA, KissMyAxe, Bigboomer2001, 
+Rhinozombiac, Castle, cHaRcOaL, Aphextwin, forgotten child, 
+HELRazorDV, SeriousGranpa, Fluff Daddy, chrisk, Instetus
+
+i svim ostalim Serious Sam Forum veteranima. Hvala na podršci.
+
+
+PRIJEVOD NAPRAVIO
+Juraj "YukiXXL"

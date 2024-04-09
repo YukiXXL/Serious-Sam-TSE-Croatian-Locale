@@ -1,0 +1,20 @@
+SUBJECT
+SBC Top
+IMAGE
+model
+cannon
+TEXT
+
+ORUŽJE:     SBC Top
+MUNICIJA:   HP topovske kugle punjene uranom
+BP:         varira
+
+OPIS:
+
+Ovo je najmoænije pješadijsko oružje dostupno federacijskim snagama. Mehanizam za okidanje i cijevi nisu dizajnirali ljudski inženjeri veæ se do dizajna došlo reverznim inženjeringom iz moænih Mentalovih tehnomagiènih oružja. Dizajn oružja omoguæava ispucavanje velikih kugli velikim brzinama što daje izvrsni probojni efekt.
+Napunjen sa visokoprobojnim uranijskim topovskim kuglama, može probušiti nekoliko neprijatelja zaredom.
+
+BILJEŠKE:
+
+- Vojni struènjaci tvrde da olovo kojim je obložen uran u potpunosti eliminira potencijalnu prijetnju za rukovatelja oružjem
+- Djelovanje urana na žrtve ne smatra se bitnim, pogotovo ako se u obzir uzme svrha ovog ureðaja

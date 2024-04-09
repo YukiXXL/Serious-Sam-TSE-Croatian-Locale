@@ -1,8 +1,0 @@
-SUBJECT
-Zigurat - Jedan put prema gore
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Ziggurrat\OneWayUp.tex
-TEXT
-
-Postoji samo jedan put odavde... prema gore!  Pazi gdje staješ Sam ili æemo vidjeti prerani kraj Serious Sam: Drugog Susreta (TM).

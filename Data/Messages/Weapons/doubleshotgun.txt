@@ -1,0 +1,20 @@
+SUBJECT
+Dvocijevka - saèmarica
+IMAGE
+model
+doubleshotgun
+TEXT
+
+ORUŽJE:    Dvocijevka
+MUNICIJA:  patrone vel. 12
+BP:        2 patrone, ruèno punjenje
+CIJEV:     50,8 cm
+
+OPIS:
+
+Standardna dvocijevna saèmarica sa patronama velièine 12. Efikasna za bliske susrete i eliminaciju srednje velikih neprijatelja no previše rasipa municiju da bi bila efikasna na daljinu.
+
+BILJEŠKE:
+
+- Poprilièno spora zbog ruènog punjenja
+- Nije efikasna na daljinu

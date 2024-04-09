@@ -1,9 +1,0 @@
-SUBJECT
-Zmijsko Pregrađe - Jako Zatvorena Vrata
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Teotihuacan2\ClosedHeadDoors.tex
-TEXT
-
-Ova vrata su zatvorena i nemam ideju kako bi se mogla otvoriti!
-Uvijek se možemo vratiti kasnije i pokušati ponovno ako želiš.

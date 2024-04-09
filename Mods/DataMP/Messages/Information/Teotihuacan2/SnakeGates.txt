@@ -1,8 +1,0 @@
-SUBJECT
-Zmijsko Pregraðe - Zmijska vrata
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Teotihuacan2\Snakegates.tex
-TEXT
-
-Treba nam Ix Chel maska da bi otvorili ova vrata.  Maska je postavljena na podnožju Piramide Mjeseca. 

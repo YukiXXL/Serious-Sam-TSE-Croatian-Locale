@@ -1,0 +1,8 @@
+SUBJECT
+Zigurat - Zapeèaæena Vrata
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Ziggurrat\EnemyRoomDoors.tex
+TEXT
+
+Vrata... zapeèaæena... kakvog li iznenaðenja! Okreni se i nastavi s "èišæenjem", èujem ih kako dolaze!

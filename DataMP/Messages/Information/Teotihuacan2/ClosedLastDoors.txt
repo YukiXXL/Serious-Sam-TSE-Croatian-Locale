@@ -1,0 +1,8 @@
+SUBJECT
+Zmijsko Pregraðe - Zatvorena Vrata
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Teotihuacan2\ClosedLastDoors.tex
+TEXT
+
+Vrata su zatvorena, ali mehanizam za otvaranje bi trebao biti negdje u blizini. Pokušaj prouèiti dvije male graðevine pokraj kojih si prošao na putu do ovdje.

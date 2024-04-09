@@ -1,8 +1,0 @@
-SUBJECT
-Valley of the Jaguar - Svjetlosni Put
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Palenque2\LightPath.tex
-TEXT
-
-Ova svjetla prave nekakav put prema kipiæu jaguara.  Preporuèam da ostanemo na stazi.  Vjerojatno tisuæe krvožednih demona nas èekaju u mraku da zalutamo, spremni da nam oderu kožu dok nas budu polako probavljali... U redu, to je dosta.  Sad je i mene strah!

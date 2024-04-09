@@ -1,0 +1,446 @@
+84
+
+\0\<
+Unknown image type!
+\0\>
+Nepoznat tip slike!
+\0\<
+Unknown model '%s'
+\0\>
+Nepoznat model '%s'
+\0\<
+NETRICSA v2.01 - personal version for: %s
+\0\>
+NETRICSA v2.01 - osobna verzija za igraèa: %s
+\0\<
+Exit
+\0\>
+Izlaz
+\0\<
+no messages
+\0\>
+nema poruka
+\0\<
+tactical data
+\0\>
+taktièki podaci
+\0\<
+strategic data
+\0\>
+strateški podaci
+\0\<
+weapons
+\0\>
+oružja
+\0\<
+enemies
+\0\>
+neprijatelji
+\0\<
+statistics
+\0\>
+statistika
+\0\<
+say: 
+\0\>
+reci: 
+
+\0\<
+\n
+Fragments report disabled.\n
+
+\0\>
+\n
+Prijavljivanje fragmenata iskljuèeno.\n
+
+\0\<
+\n
+Not enough recorded frames to make fragments report.\n
+
+\0\>
+\n
+Nema dovoljno snimljenih frame-ova da kreiram prijavu fragmenata.\n
+
+\0\<
+\n
+Demo performance results (fragment time = %d seconds):\n
+
+\0\>
+\n
+Rezultati izvoðenja demoa (vrijeme fragmenta = %d sekundi):\n
+
+\0\<
+   #   average FPS     average FPS (W/O peaks)\n
+
+\0\>
+   #   prosjeèan FPS     prosjeèan FPS (bez ekstrema)\n
+
+\0\<
+\n
+Not enough recorded frames to analyze.\n
+
+\0\>
+\n
+Nema dovoljno snimljenih frame-ova za analizu.\n
+
+\0\<
+\n
+%.1f KB used for demo profile:\n
+
+\0\>
+\n
+%.1f KB iskorišteno za demo profil:\n
+
+\0\<
+    Originally recorded: %d frames in %.1f seconds => %5.1f FPS average.\n
+
+\0\>
+    Originalno snimljeno: %d frame-ova u %.1f sekundi => %5.1f FPS prosjek.\n
+
+\0\<
+Without excessive peaks: %d frames in %.1f seconds => %5.1f FPS average.\n
+
+\0\>
+Bez extrema: %d frame-ova u %.1f sekundi => %5.1f FPS prosjek.\n
+
+\0\<
+       High peak: %5.1f FPS\n
+
+\0\>
+       Maximum: %5.1f FPS\n
+
+\0\<
+        Low peak: %5.1f FPS\n
+
+\0\>
+        Minimum: %5.1f FPS\n
+
+\0\<
+  High sustained: %5.1f FPS (%d frames in %.1f seconds)\n
+
+\0\>
+  Najviše održano: %5.1f FPS (%d frame-ova u %.1f sekundi)\n
+
+\0\<
+   Low sustained: %5.1f FPS (%d frames in %.1f seconds)\n
+
+\0\>
+   Najmanje održano: %5.1f FPS (%d frame-ova u %.1f sekundi)\n
+
+\0\<
+Triangles per frame (with and without excessive peaks):\n
+
+\0\>
+Trokuta po frame-u (sa i bez extrema):\n
+
+\0\<
+      World: %7.1f / %.1f\n
+
+\0\>
+      Svijet: %7.1f / %.1f\n
+
+\0\<
+      Model: %7.1f / %.1f\n
+
+\0\>
+      Model: %7.1f / %.1f\n
+
+\0\<
+   Particle: %7.1f / %.1f\n
+
+\0\>
+   Èestica: %7.1f / %.1f\n
+
+\0\<
+  rest (2D): %7.1f / %.1f\n
+
+\0\>
+  ostalo (2D): %7.1f / %.1f\n
+
+\0\<
+      TOTAL: %7.1f / %.1f\n
+
+\0\>
+      UKUPNO: %7.1f / %.1f\n
+
+\0\<
+Unnamed session
+\0\>
+Bezimena igra
+\0\<
+serveraddress
+\0\>
+adresaposlužitelja
+\0\<
+move u/d
+\0\>
+micanje g/d
+\0\<
+move l/r
+\0\>
+micanje l/d
+\0\<
+move f/b
+\0\>
+micanje n/n
+\0\<
+look u/d
+\0\>
+gledanje g/d
+\0\<
+turn l/r
+\0\>
+okret l/d
+\0\<
+banking
+\0\>
+naginjanje
+\0\<
+view u/d
+\0\>
+gledanje g/d
+\0\<
+view l/r
+\0\>
+gledanje l/d
+\0\<
+view banking
+\0\>
+naginjanje pogleda
+\0\<
+Current player controls are invalid.
+\0\>
+Trenutne kontrole igraèa su pogrešne.
+\0\<
+Cannot load common controls: %s\n
+
+\0\>
+Ne mogu uèitati klasiène kontrole: %s\n
+
+\0\<
+Cannot load game settings:\n
+%s\n
+  Using defaults\n
+
+\0\>
+Ne mogu uèitati podešenja igre:\n
+%s\n
+  Koristim osnovna\n
+
+\0\<
+Demo profile data dumped to '%s'.\n
+
+\0\>
+Demo profil podaci snimljeni u '%s'.\n
+
+\0\<
+Cannot dump demo profile data: %s\n
+
+\0\>
+Ne mogu snimiti demo profil podatke: %s\n
+
+\0\<
+Cannot save console history:\n
+%s
+\0\>
+Ne mogu snimiti povijest konzole:\n
+%s
+\0\<
+Cannot start game:\n
+%s\n
+
+\0\>
+Ne mogu pokrenuti igru:\n
+%s\n
+
+\0\<
+Cannot join game:\n
+%s\n
+
+\0\>
+Ne mogu se prikljuèiti u igru:\n
+%s\n
+
+\0\<
+Loaded game: %s\n
+
+\0\>
+Uèitana igra: %s\n
+
+\0\<
+Cannot load game: %s\n
+
+\0\>
+Ne mogu uèitati igru: %s\n
+
+\0\<
+Started playing demo: %s\n
+
+\0\>
+Prikaz demoa zapoèeo: %s\n
+
+\0\<
+Cannot play demo: %s\n
+
+\0\>
+Ne mogu prikazati demo: %s\n
+
+\0\<
+Started recording demo: %s\n
+
+\0\>
+Zapoèeo snimati demo: %s\n
+
+\0\<
+Cannot start recording: %s\n
+
+\0\>
+Ne mogu zapoèeti snimanje demoa: %s\n
+
+\0\<
+Finished recording.\n
+
+\0\>
+Snimanje završeno.\n
+
+\0\<
+Won't save game when dead!\n
+
+\0\>
+Ne želim snimati dok si mrtav!\n
+
+\0\<
+Saved game: %s\n
+
+\0\>
+Snimljena igra: %s\n
+
+\0\<
+Cannot save game: %s\n
+
+\0\>
+Ne mogu snimiti igru: %s\n
+
+\0\<
+Can't start provider:\n
+%s\n
+
+\0\>
+Ne mogu startati poslužitelja:\n
+%s\n
+
+\0\<
+Invalid version of game shell.
+\0\>
+Kriva verzija ljuske igre.
+\0\<
+Cannot add player:\n
+%s\n
+
+\0\>
+Ne mogu dodati igraèa:\n
+%s\n
+
+\0\<
+Disconnected: %s\n
+Press F9 to reconnect
+\0\>
+Iskljuèen: %s\n
+Pritisni F9 za ponovno ukljuèenje
+\0\<
+Waiting for all players to connect
+\0\>
+Èekam da se svi igraèi prikljuèe
+\0\<
+Waiting for server to continue
+\0\>
+Èekam poslužitelj za nastavak igre
+\0\<
+Trying to stabilize connection...
+\0\>
+Pokušavam stabilizirati vezu...
+\0\<
+Game finished
+\0\>
+Igra završena
+\0\<
+Paused
+\0\>
+Pauzirano
+\0\<
+Use F6 for QuickSave during game!
+\0\>
+Pritisni F6 za brzo snimanje pozicije tokom igre!
+\0\<
+Recording
+\0\>
+Snimam
+\0\<
+screen shot: %s\n
+
+\0\>
+snimak ekrana: %s\n
+
+\0\<
+Cannot save screenshot:\n
+%s\n
+
+\0\>
+Ne mogu snimiti ekran:\n
+%s\n
+
+\0\<
+Profiling done.\n
+
+\0\>
+Profiliranje završeno.\n
+
+\0\<
+User break!
+\0\>
+Korisnièki prekid!
+\0\<
+PRESS ESC TO ABORT
+\0\>
+PRITISNI ESC ZA PREKID
+\0\<
+Cooperative
+\0\>
+Koalicija
+\0\<
+Flyover
+\0\>
+Flyover
+\0\<
+Scorematch
+\0\>
+Bodovski-meè
+\0\<
+Fragmatch
+\0\>
+Fragovski-meè
+\0\<
+Mental
+\0\>
+Mental
+\0\<
+Tourist
+\0\>
+Turist
+\0\<
+Easy
+\0\>
+Lagano
+\0\<
+Normal
+\0\>
+Normalno
+\0\<
+Hard
+\0\>
+Teško
+\0\<
+Serious
+\0\>
+Ozbiljno
+\0\$

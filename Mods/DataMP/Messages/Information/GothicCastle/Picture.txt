@@ -1,8 +1,0 @@
-SUBJECT
-Tvrðava - Èudnovata slika
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\GothicCastle\Picture.tex
-TEXT
-
-Ovo je neka èudna stara slika. Èini se kako vlasnik dvorca nije baš zano cijeniti pravu umjetnost. 

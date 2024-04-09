@@ -1,0 +1,19 @@
+SUBJECT
+Pumperica - saèmarica
+IMAGE
+model
+singleshotgun
+TEXT
+
+ORUŽJE:   Pumperica
+MUNICIJA: patrone vel. 12
+BP:       1 patrona, "pump" punjenje
+CIJEV:    45,7 cm
+
+OPIS:
+
+Jednocijevna pumperica, efikasna za kratke i srednje domete i eliminaciju slabijih neprijatelja.
+
+BILJEŠKE:
+
+- Nije jaka ali ima solidnu brzinu pucanja

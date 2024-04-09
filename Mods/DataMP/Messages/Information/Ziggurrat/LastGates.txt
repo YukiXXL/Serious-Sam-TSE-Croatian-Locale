@@ -1,8 +1,0 @@
-SUBJECT
-Zigurat - Glavna Vrata
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Ziggurrat\LastGates.tex
-TEXT
-
-Neæe se još otvoriti Sam, imaš još stvari za obaviti...

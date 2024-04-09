@@ -1,0 +1,8 @@
+SUBJECT
+Zigurat - Izlaz
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Ziggurrat\1st_Yard.tex
+TEXT
+
+Bravo Sam!  Napokon smo pronašli izlaz iz ovog jezivog mjesta!  Iz onog što vidim, morat æemo proæi kroz neka vrata na kraju ovog dvorišta.  Nešto mi govori da se neæe lako otvoriti, tako da budi oprezan.  Pokušaj uæi u male hramove na boènim stranama dvorišta, možda se tamo nalazi odgovor.

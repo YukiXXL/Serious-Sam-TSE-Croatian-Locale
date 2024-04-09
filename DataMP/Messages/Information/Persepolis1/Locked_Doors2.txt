@@ -1,0 +1,8 @@
+SUBJECT
+Atrij Slonova - Još jedna zakljuèana vrata
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Persepolis1\Locked_Doors2.tex
+TEXT
+
+Nešto se nalazi iza ovih vrata, osjeæam to... mojim IR2300-C.ALL unutrašnjim senzorom, naravno.

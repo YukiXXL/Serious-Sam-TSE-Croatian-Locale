@@ -1,8 +1,0 @@
-SUBJECT
-Tvrðava - Pronaði Kljuè
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\GothicCastle\Key.tex
-TEXT
-
-Vrata su zakljuèana, što nije ništa o èemu bi se trebali brinuti. Kljuè koji æe ih otvoriti je skirven negdje na seoskom groblju prema istoku. Pokušaj ga pronaæi (izgleda kao križ).

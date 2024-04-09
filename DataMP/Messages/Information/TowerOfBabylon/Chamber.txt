@@ -1,0 +1,8 @@
+SUBJECT
+Babilonska Kula - Odaja Kozmosa
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\TowerOfBabylon\Chamber.tex
+TEXT
+
+Izvanredno... Odaja Kozmosa... još jedan mit se pokazao istinitim.  Ova odaja dizajnirana je pomoæu svog znanja Babilonaca o astronomiji - svemiru i planetima i njihovim meðusobnim odnosima.  Koristeæi kompleksne matematièke i fizièke formule i aksiome, uspjeli su prenijeti kretanja nebeskih tijela u koordinate i izgraditi ovu prostoriju prateæi osnovna pravila Svemira.  Impresivno...

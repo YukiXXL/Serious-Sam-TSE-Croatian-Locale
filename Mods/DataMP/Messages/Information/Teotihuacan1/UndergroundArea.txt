@@ -1,8 +1,0 @@
-SUBJECT
-Grad Bogova - Podzmelje
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Teotihuacan1\Underground.tex
-TEXT
-
-Trebali bi se spustiti tamo dolje.  Podzemni niz tunela bi nas trebao odvesti do Piramide Mjeseca.

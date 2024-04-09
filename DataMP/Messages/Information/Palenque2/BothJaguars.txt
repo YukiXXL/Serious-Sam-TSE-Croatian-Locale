@@ -1,0 +1,8 @@
+SUBJECT
+Valley of the Jaguar - Oba Zlatna Jaguara
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Palenque2\BothJaguars.tex
+TEXT
+
+Odlièno!  Sada posjedujemo oba zlatna jaguara.  Preostaje nam još samo jedna stvar - vratit se natrag do ceremonijalnog platoa da vidimo što æe se dogoditi!

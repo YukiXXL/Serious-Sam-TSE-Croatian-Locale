@@ -1,0 +1,12 @@
+SUBJECT
+Dvorovi Gilgameša - Pogodi što... zakljuèana vrata
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Persepolis2\Locked_Doors4.tex
+TEXT
+
+Pogodi što... još jedna zakljuèana vrata.
+
+Postoje li vrata u Perzepolis koja nisu zakljuèana?! 
+
+Vidim nekakve bazene u ovom dvorištu. Sam, heroju moj, mislim da æemo morati zaroniti ovoga puta! Hvala ti Gospodine što sam vodootporna.

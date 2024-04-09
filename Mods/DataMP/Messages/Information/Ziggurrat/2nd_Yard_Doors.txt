@@ -1,8 +1,0 @@
-SUBJECT
-Zigurat - Zatvorena Vrata
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Ziggurrat\2nd_Yard_Doors.tex
-TEXT
-
-Ništa od toga, neæe se otvoriti... zasad. Možda ponajprije moramo nešto uèiniti? Provjeri uokolo...

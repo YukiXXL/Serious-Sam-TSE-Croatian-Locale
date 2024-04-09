@@ -1,0 +1,23 @@
+SUBJECT
+Shofield .45 sa TMAR
+IMAGE
+model
+colt
+TEXT
+
+ORUŽJE:     Shofield .45 sa TMAR
+MUNICIJA:   .45 Colt meci
+BP:         revolver, ruèno punjenje
+KAPACITET:  6 metaka + TMAR 
+TEŽINA:     1 kg
+DULJINA:    32,5 cm
+
+OPIS:
+
+Kopija originalnog 1875 Shofield modela dizajniranog za amerièku konjicu. Modificiran je za iznimnu preciznost, solidno i pouzdano oružje ali ne i previše efikasno zbog slabe BP (brzine pucanja).
+Tvoj model opremljen je sa Tehnomagiènim punjaèem municije (TMAR) zarobljenim od Mentalovih snaga koji ti omoguæava beskonaènu municiju.
+Oružje je nadasve upotrebljivo na velike daljine zbog iznimne preciznosti.
+
+BILJEŠKE:
+
+- Preporuèuje se korištenje u kombinaciji sa NETRICSINIM sistemom nišanjenja i detektiranja meta

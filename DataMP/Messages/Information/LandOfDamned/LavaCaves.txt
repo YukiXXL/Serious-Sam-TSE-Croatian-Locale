@@ -1,0 +1,10 @@
+SUBJECT
+Zemlja Prokletih - Peæine Lave
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\LandOfDamned\LavaCaves.tex
+TEXT
+
+Dakle to su te èuvene Peæine Lave, opasne i smrtonosne, pune èudovišta i strašnih stvorenja... da baš... Ne vjerujem u bajke - ako se mièe, može se ubiti! 
+
+Pripremi svoj lanser raketa Sam - zagrijmo stvari!

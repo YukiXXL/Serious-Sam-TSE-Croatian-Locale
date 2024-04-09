@@ -1,0 +1,1320 @@
+329
+
+\0\<
+Move Forward
+\0\>
+Idi Naprijed
+\0\<
+Move Backward
+\0\>
+Idi Nazad
+\0\<
+Strafe Left
+\0\>
+Postrance Lijevo
+\0\<
+Strafe Right
+\0\>
+Postrance Desno
+\0\<
+Up/Jump
+\0\>
+Gore/Skok
+\0\<
+Down/Duck
+\0\>
+Dolje/Èuèanj
+\0\<
+Turn Left
+\0\>
+Okretanje Lijevo
+\0\<
+Turn Right
+\0\>
+Okretanje Desno
+\0\<
+Look Up
+\0\>
+Pogled Gore
+\0\<
+Look Down
+\0\>
+Pogled Dolje
+\0\<
+Center View
+\0\>
+Centriranje Pogleda
+\0\<
+Walk
+\0\>
+Hodanje
+\0\<
+Walk/Run Toggle
+\0\>
+Hodanje/Trèanje Prekidaè
+\0\<
+Strafe
+\0\>
+Postrance
+\0\<
+Fire
+\0\>
+Pucanje
+\0\<
+Reload
+\0\>
+Punjenje oružja
+\0\<
+3rd Person View
+\0\>
+Pogled iz treæeg lica
+\0\<
+Use/Invoke NETRICSA/Sniper Zoom
+\0\>
+Upotreba/Aktiviranje NETRICSE/Ciljanje Snajperom
+\0\<
+Use/Sniper Zoom
+\0\>
+Upotreba/Ciljanje Snajperom
+\0\<
+Invoke NETRICSA
+\0\>
+Aktiviranje NETRICSE
+\0\<
+Talk
+\0\>
+Prièanje
+\0\<
+Previous Weapon
+\0\>
+Prethodno oružje
+\0\<
+Next Weapon
+\0\>
+Slijedeæe oružje
+\0\<
+Flip Weapon
+\0\>
+Prebaci oružje
+\0\<
+Knife/Chainsaw
+\0\>
+Nož/Motorna Pila
+\0\<
+Colt/Two Colts
+\0\>
+Colt/Dva Colta
+\0\<
+Single/Double Shotgun
+\0\>
+Pumperica/Dvocijevka
+\0\<
+Tommygun/Minigun
+\0\>
+Strojnica/Minigun
+\0\<
+Rocket Launcher/Grenade Launcher
+\0\>
+Lanser raketa/Lanser granata
+\0\<
+Flamethrower/Sniper
+\0\>
+Plamenobacaè/Snajper
+\0\<
+Laser
+\0\>
+Laser
+\0\<
+Cannon
+\0\>
+Top
+\0\<
+Serious Bomb
+\0\>
+Ozbiljna Bomba
+\0\<
+Sniper Zoom +
+\0\>
+Približavanje ciljanjem Snajperom
+\0\<
+Sniper Zoom -
+\0\>
+Udaljivanje ciljanjem Snajperom
+\0\<
+Texture settings
+\0\>
+Podešenja tekstura
+
+\0\<
+Normal size
+\0\>
+Normalna velièina
+\0\<
+set size for single-frame textures
+\0\>
+odaberi velièinu za teksture u jednom frame-u
+\0\<
+(tiny)
+\0\>
+(majušno)
+\0\<
+(small)
+\0\>
+(malo)
+\0\<
+(normal)
+\0\>
+(normalno)
+\0\<
+(large)
+\0\>
+(veliko)
+\0\<
+Animation size
+\0\>
+Velièina animacija
+\0\<
+set size for animation textures
+\0\>
+odaberi velièinu za animirane teksture
+\0\<
+Effect size
+\0\>
+Velièina efekata
+\0\<
+set size for procedural textures
+\0\>
+odaberi velièinu za proceduralne teksture
+\0\<
+(tiny)  
+\0\>
+(majušno)  
+\0\<
+(small) 
+\0\>
+(malo) 
+\0\<
+(large) 
+\0\>
+(veliko) 
+\0\<
+Normal quality
+\0\>
+Normalna kvaliteta
+\0\<
+set quality for textures (opaque / transparent)
+\0\>
+odaberi kvalitetu tekstura (opaque / transparentne)
+\0\<
+Optimal
+\0\>
+Optimalno
+\0\<
+16-bit / Optimal
+\0\>
+16-bit / Optimalno
+\0\<
+32-bit / Optimal
+\0\>
+32-bit / Optimalno
+\0\<
+Compressed / Optimal
+\0\>
+Kompresirano / Optimalno
+\0\<
+Optimal / 16-bit
+\0\>
+Optimalno / 16-bit
+\0\<
+16-bit
+\0\>
+16-bit
+\0\<
+32-bit / 16-bit
+\0\>
+32-bit / 16-bit
+\0\<
+Compressed / 16-bit
+\0\>
+Kompresirano / 16-bit
+\0\<
+Optimal / 32-bit
+\0\>
+Optimalno / 32-bit
+\0\<
+16-bit / 32-bit
+\0\>
+16-bit / 32-bit
+\0\<
+32-bit
+\0\>
+32-bit
+\0\<
+Compressed / 32-bit
+\0\>
+Kompresirano / 32-bit
+\0\<
+Optimal / Compressed
+\0\>
+Optimalno / Kompresirano
+\0\<
+16-bit / Compressed
+\0\>
+16-bit / Kompresirano
+\0\<
+32-bit / Compressed
+\0\>
+32-bit / Kompresirano
+\0\<
+Compressed
+\0\>
+Kompresirano
+\0\<
+Effect quality
+\0\>
+Kvaliteta efekata
+\0\<
+set quality for procedural textures
+\0\>
+odaberi kvalitetu proceduralnih tekstura
+\0\<
+Filtering method
+\0\>
+Metoda filteriranja
+\0\<
+specify filtering for standard textures
+\0\>
+odaberi filtriranje standardnih tekstura
+\0\<
+(blur)
+\0\>
+(zamuti)
+\0\<
+(none)
+\0\>
+(ništa)
+\0\<
+(sharpen)
+\0\>
+(izoštri)
+\0\<
+Effect filtering method
+\0\>
+Metoda filtriranja efekata
+\0\<
+specify filtering for procedural textures
+\0\>
+odaberi filtriranje proceduralnih tekstura
+\0\<
+(minimum)
+\0\>
+(minimalno)
+\0\<
+(low)
+\0\>
+(malo)
+\0\<
+(medium)
+\0\>
+(srednje)
+\0\<
+(high)
+\0\>
+(veliko)
+\0\<
+(maximum)
+\0\>
+(maksimalno)
+\0\<
+Filtering booster
+\0\>
+Pojaèivaæ filtriranja
+\0\<
+increase filtering strength
+\0\>
+poveæaj jaèinu filtriranja
+\0\<
+Disabled
+\0\>
+Iskljuèeno
+\0\<
+Enabled
+\0\>
+Ukljuèeno
+\0\<
+Dithering method
+\0\>
+Metoda ditheriranja
+\0\<
+specify dithering for 16-bit textures
+\0\>
+odaberi ditheriranje 16-bitnih tekstura
+\0\<
+None
+\0\>
+Ništa
+\0\<
+Low
+\0\>
+Nisko
+\0\<
+Low ordered
+\0\>
+Nisko uredno
+\0\<
+Low diffusion
+\0\>
+Nisko difuzno
+\0\<
+Medium
+\0\>
+Srednje
+\0\<
+Medium ordered (default)
+\0\>
+Srednje uredno (osnovno)
+\0\<
+Medium enhanced
+\0\>
+Srednje pojaèano
+\0\<
+Medium diffusion
+\0\>
+Srednje difuzno
+\0\<
+High ordered
+\0\>
+Visoko uredno
+\0\<
+High enhanced
+\0\>
+Visoko pojaèano
+\0\<
+High diffusion
+\0\>
+Visoko difuzno
+\0\<
+Shadow map settings
+\0\>
+Podešenja mape sjena
+\0\<
+Size
+\0\>
+Velièina
+\0\<
+set memory usage of shadowmaps
+\0\>
+odaberi korištenje memorije za mape sjena
+\0\<
+Quality
+\0\>
+Kvalitetno
+\0\<
+set shadowmaps texture quality
+\0\>
+odaberi kvalitetu tekstura mape sjena
+\0\<
+specify filtering for shadowmaps
+\0\>
+odaberi filtriranje za mape sjena
+\0\<
+specify dithering for 16-bit shadowmaps
+\0\>
+odaberi ditheriranje za 16-bitne mape sjena
+\0\<
+(standard)
+\0\>
+(standardno)
+\0\<
+Cache size
+\0\>
+Velièina prièuvne memorije
+\0\<
+size of temporary cache memory for shadowmaps
+\0\>
+velièina privremene prièuvne memorije za mape sjena
+\0\<
+(huge)
+\0\>
+(ogromno)
+\0\<
+Precache shadowmaps
+\0\>
+Prièuvaj mape sjena
+\0\<
+cache all shadowmaps at level load time
+\0\>
+prièuvaj sve mape sjena za vrijeme uèitavanja nivoa
+\0\<
+No
+\0\>
+Ne
+\0\<
+Yes
+\0\>
+Da
+\0\<
+Model settings
+\0\>
+Podešenja modela
+\0\<
+LOD quality
+\0\>
+LOD kvaliteta
+\0\<
+set model level-of-detail quality
+\0\>
+odaberi kvalitetu razine detaljnosti modela
+\0\<
+(coarse)
+\0\>
+(grubo)
+\0\<
+(supreme)
+\0\>
+(izvrsno)
+\0\<
+Shadow type
+\0\>
+Tip sjena
+\0\<
+set model shadow quality
+\0\>
+odaberi kvalitetu sjena modela
+\0\<
+Simple (default)
+\0\>
+Jednostavno (osnovno)
+\0\<
+Complex (one light)
+\0\>
+Kompleksno (jedno svjetlo)
+\0\<
+Complex (multiple lights)
+\0\>
+Kompleksno (višestruka svjetla)
+\0\<
+Precision
+\0\>
+Preciznost
+\0\<
+set model memory usage
+\0\>
+odaberi korištenje memorije za modele
+\0\<
+Normal
+\0\>
+Normalno
+\0\<
+Detail textures
+\0\>
+Detaljne teksture
+\0\<
+toggle rendering of detail texture layer
+\0\>
+ukljuèi renderiranje sloja detaljne teksture
+\0\<
+Specularity
+\0\>
+Sjajnost
+\0\<
+toggle rendering of specular lights
+\0\>
+ukljuèi renderiranje sjajnih svjetala
+\0\<
+Reflection mapping
+\0\>
+Mapiranje refleksije
+\0\<
+toggle rendering of reflection maps
+\0\>
+ukljuèi renderiranje refleksnih mapa
+\0\<
+Rendering control
+\0\>
+Kontrola renderiranja
+\0\<
+Multi-texturing mode
+\0\>
+Multi-teksturiranje
+\0\<
+how much texture units to use
+\0\>
+koliko tekstura je u upotrebi
+\0\<
+Dual
+\0\>
+Dvije
+\0\<
+Triple
+\0\>
+Tri
+\0\<
+Quad
+\0\>
+Èetiri
+\0\<
+Texture rendering method
+\0\>
+Metoda renderiranja tekstura
+\0\<
+set rendering filter (texture / mipmap)
+\0\>
+odaberi filter za renderiranje (teksture / mipmape)
+\0\<
+Nearest-neighbour
+\0\>
+Najbliži susjed
+\0\<
+Bilinear (default)
+\0\>
+Bilinearno (osnovno)
+\0\<
+Trilinear
+\0\>
+Trilinearno
+\0\<
+Trilinear (sharpen)
+\0\>
+Trilinearno (izoštri)
+\0\<
+Texture anisotropy
+\0\>
+Anizotropija tekstura
+\0\<
+set degree of anisotropy for textures
+\0\>
+odaberi stupanj anizotropije za teksture
+\0\<
+Texture LOD bias
+\0\>
+LOD pomak na teksturama
+\0\<
+set biasing of mipmap switch distance
+\0\>
+postavi pomal promjene mipmapa
+\0\<
+16-bit color dithering
+\0\>
+16-bitno ditheriranje boja
+\0\<
+set dithering strength for 16-bit display modes
+\0\>
+odaberi snagu ditheriranja za 16-bitni prikazni naèin
+\0\<
+High (default)
+\0\>
+Veliki (osnovni)
+\0\<
+Truform/N-Patches
+\0\>
+Truform/N-Zakrpe
+\0\<
+set Truform tesselation level
+\0\>
+odaberi razinu Trueform teselacije
+\0\<
+Maximum
+\0\>
+Maksimalno
+\0\<
+Use Truform/N-Patches
+\0\>
+Koristi Truform/N-Zakrpe
+\0\<
+set Truform tesselation usage
+\0\>
+odaberi korištenje Trueform teselacije
+\0\<
+only for truform-ready models
+\0\>
+samo za trueform-gotove modele
+\0\<
+for all models
+\0\>
+za sve modele
+\0\<
+OpenGL settings
+\0\>
+OpenGL podešenja
+\0\<
+Texture compression system
+\0\>
+Sistem kompresije tekstura
+\0\<
+specify which texture compression system to use
+\0\>
+odaberi sistem kompresije za korištenje
+\0\<
+OpenGL wrapper (default)
+\0\>
+OpenGL omotaè (osnovno)
+\0\<
+S3TC
+\0\>
+S3TC
+\0\<
+FXT1
+\0\>
+FXT1
+\0\<
+S3TC (legacy)
+\0\>
+S3TC (staro)
+\0\<
+Optimize rendering
+\0\>
+Optimiziranje renderiranja
+\0\<
+enable/disable usage of 'Compiled Vertex Arrays' extension
+\0\>
+ukljuèi/iskljuèi korištenje 'Compiled Vertex Arrays' ekstenzije
+\0\<
+Models only
+\0\>
+Samo modeli
+\0\<
+World only
+\0\>
+Samo svijet
+\0\<
+Particles only
+\0\>
+Samo èestice
+\0\<
+Models and World
+\0\>
+Modeli i Svijet
+\0\<
+Models and Particles
+\0\>
+Modeli i Èestice
+\0\<
+World and Particles
+\0\>
+Svijet i Èestice
+\0\<
+Enabled for everything
+\0\>
+Ukljuèeno za sve
+\0\<
+Access mode
+\0\>
+Naèin pristupa
+\0\<
+exclusive mode for full-screen
+\0\>
+ekskluzivni naèin za cijeli ekran
+\0\<
+Compatibility
+\0\>
+Kompatibilnost
+\0\<
+Performance
+\0\>
+Performanse
+\0\<
+Direct3D settings
+\0\>
+Direct3D podešenja
+\0\<
+T&L usage
+\0\>
+korištenje T&L
+\0\<
+select hardware or software T&L
+\0\>
+odaberi hardverski ili softverski T&L
+\0\<
+Software
+\0\>
+Softverski
+\0\<
+Hardware
+\0\>
+Hardverski
+\0\<
+T&L buffer size
+\0\>
+Velièina T&L buffera
+\0\<
+set size of vertex buffer
+\0\>
+postavi velièinu vertex buffera
+\0\<
+Faster Lens Flares
+\0\>
+Brži Odbljesci Leæa
+\0\<
+speed-up rendering when lens-flares are in scene
+\0\>
+ubrzaj renderiranje kad su odbljesci leæa u prizoru
+\0\<
+HUD settings
+\0\>
+HUD podešenja
+\0\<
+set size of HUD boxes
+\0\>
+odaberi velièinu HUD kuæica
+\0\<
+Opacity
+\0\>
+Prozirnost
+\0\<
+set opacity factor of HUD boxes
+\0\>
+odaberi postotak prozirnosti HUD kuæica
+\0\<
+90% (default)
+\0\>
+90% (osnovno)
+\0\<
+Crosshair opacity
+\0\>
+Prozirnost nišana
+\0\<
+set opacity factor of crosshair
+\0\>
+odaberi nivo prozirnosti za nišan
+\0\<
+Display settings
+\0\>
+Podešenja prikaza
+\0\<
+Saturation
+\0\>
+Zasiæenost
+\0\<
+specify more or less color for display
+\0\>
+odaberi veæi ili manju zasiæenost boja
+\0\<
+Grayscale
+\0\>
+Crno-bijelo
+\0\<
+Gray 75%
+\0\>
+Sivo 75%
+\0\<
+Gray 50%
+\0\>
+Sivo 50%
+\0\<
+Gray 25%
+\0\>
+Sivo 25%
+\0\<
+Color 25%
+\0\>
+Boja 25%
+\0\<
+Color 50%
+\0\>
+Boja 50%
+\0\<
+Color 75%
+\0\>
+Boja 75%
+\0\<
+Colorful
+\0\>
+Životno
+\0\<
+Twisted
+\0\>
+Uvrnuto
+\0\<
+Weirdo
+\0\>
+Opièeno
+\0\<
+Psychedelic
+\0\>
+Psihodelièno
+\0\<
+Brightness
+\0\>
+Svjetlina
+\0\<
+specify brightness value
+\0\>
+odaberi velièinu svjetline
+\0\<
+(dark)
+\0\>
+(mraèno)
+\0\<
+(bright)
+\0\>
+(bistro)
+\0\<
+Contrast
+\0\>
+Kontrast
+\0\<
+specify contrast value
+\0\>
+odaberi velièinu kontrasta
+\0\<
+Gamma
+\0\>
+Gama
+\0\<
+specify gamma correction value
+\0\>
+odaberi velièinu korekcije game
+\0\<
+Red bias
+\0\>
+Crveni pomal
+\0\<
+set biasing for red color component
+\0\>
+postavi pomal za crvenu boju
+\0\<
+Green bias
+\0\>
+Zeleni pomal
+\0\<
+set biasing for green color component
+\0\>
+postavi pomal za zelenu boju
+\0\<
+Blue bias
+\0\>
+Plavi pomal
+\0\<
+set biasing for blue color component
+\0\>
+postavi pomal za plavu boju
+\0\<
+Levels
+\0\>
+Razine
+\0\<
+number of color levels (posterization)
+\0\>
+broj razina boja (posterizacija)
+\0\<
+Stereoscopic View
+\0\>
+Stereoskopski Pogled
+\0\<
+select type of stereoscopy
+\0\>
+odaberi tip stereoskopa
+\0\<
+Red/Cyan
+\0\>
+Crveno/Svijetlo-plavo
+\0\<
+Inverted
+\0\>
+Obrnuto
+\0\<
+switch left & right eye masks
+\0\>
+zamijeni lijevu i desnu masku za oko
+\0\<
+Stereoscopic Separation
+\0\>
+Stereoskopsko Razdvajanje
+\0\<
+virtual distance between eyes
+\0\>
+virtualna udaljenost izmeðu oèiju
+\0\<
+(minimal)
+\0\>
+(minimalno)
+\0\<
+(extra)
+\0\>
+(dodatno)
+\0\<
+(weirdo)
+\0\>
+(opièeno)
+\0\<
+(headache)
+\0\>
+(glavobolno)
+\0\<
+Stereoscopic Offset
+\0\>
+Stereoskopski Pomak
+\0\<
+separation booster
+\0\>
+pojaèano razdvajanje
+\0\<
+Additional settings
+\0\>
+Dodatna podešenja
+\0\<
+Environment particles density
+\0\>
+Gustoæa okolnih èestica
+\0\<
+adjust density of grass
+\0\>
+odaberi gustoæu trave
+\0\<
+Environment particles range
+\0\>
+Domet okolnih èestica
+\0\<
+adjust view radius of grass
+\0\>
+odaberi daljinu prikaza trave
+\0\<
+Lens flare rendering
+\0\>
+Renderiranje odbljeska leæa
+\0\<
+select type of rendering for lens flares
+\0\>
+odaberi tip renderiranja za odbljesak leæa
+\0\<
+Corona
+\0\>
+Korona
+\0\<
+Reflections
+\0\>
+Refleksije
+\0\<
+Complete (default)
+\0\>
+Potpuno (osnovno)
+\0\<
+Screen refresh rate
+\0\>
+Frekvencija osvježavanja ekrana
+\0\<
+set refresh rate of any resolution, if supported (careful!)
+\0\>
+podesi frekvenciju osvježavanja za bilo koju rezoluciju (oprez!)
+\0\<
+Default
+\0\>
+Osnovno
+\0\<
+Grab z-buffer
+\0\>
+Dohvati z-buffer
+\0\<
+put z-buffer to alpha channel of a screenshot
+\0\>
+Stavlja z-buffer u alfa kanal slika iz igre
+\0\<
+Pretouch memory
+\0\>
+Doticanje memorije
+\0\<
+pretouch all memory at level load time
+\0\>
+dotakni svu memoriju kod uèitavanja razine
+\0\<
+Predict local players
+\0\>
+Predvidi lokalne igraèe
+\0\<
+predict your own movements (highly recommended)
+\0\>
+predvidi vlastite pokrete (preporuèeno)
+\0\<
+Off
+\0\>
+Iskljuèeno
+\0\<
+On
+\0\>
+Ukljuèeno
+\0\<
+Predict remote players
+\0\>
+Predvidi udaljene igraèe
+\0\<
+predict all other players always (slow)
+\0\>
+predviðaj sve druge igraèe cijelo vrijeme (sporo)
+\0\<
+Max. predicting by range
+\0\>
+Max. predviðanje po udaljenosti
+\0\<
+upper limit for predicting entities by their range
+\0\>
+gornji limit predviðanja entitija po njihovoj udaljenosti
+\0\<
+Never
+\0\>
+Nikad
+\0\<
+Multiplayer options
+\0\>
+Opcije za Više-igraèa
+\0\<
+Extra enemies
+\0\>
+Dodatni neprijatelji
+\0\<
+use extra multiplayer enemies
+\0\>
+koristi dodatne neprijatelje za više-igraèa
+\0\<
+Deathmatch options
+\0\>
+Deathmatch opcije
+\0\<
+Time limit
+\0\>
+Vremenski limit
+\0\<
+game length (minutes)
+\0\>
+vrijeme trajanja igre (minute)
+\0\<
+Frag limit
+\0\>
+Fragova do pobjede
+\0\<
+for Fragmatch only
+\0\>
+samo za Fragmatch
+\0\<
+Score limit
+\0\>
+Bodova do pobjede
+\0\<
+for Scorematch only
+\0\>
+samo za Scorematch
+\0\<
+Allow health
+\0\>
+Skupljanje energije
+\0\<
+enable/disable health items
+\0\>
+ukljuèi/iskljuèi skupljanje dodatne energije
+\0\<
+Allow armor
+\0\>
+Skupljanje oklopa
+\0\<
+enable/disable armor items
+\0\>
+ukljuèi/iskljuèi skupljanje dodatnog oklopa
+\0\<
+Cooperative options
+\0\>
+Podešenja za koaliciju
+\0\<
+Weapons stay
+\0\>
+Oružja ostaju
+\0\<
+whether weapons disappear after picking
+\0\>
+ostaju li oružja nakon skupljanja
+\0\<
+Ammo stays
+\0\>
+Municija ostaje
+\0\<
+whether ammo disappears after picking
+\0\>
+ostaje li municija nakon skupljanja
+\0\<
+Health/armor stays
+\0\>
+Energija/oklop ostaju
+\0\<
+whether health and armor disappears after picking
+\0\>
+ostaju li energija i oklopi nakon skupljanja
+\0\<
+Respawn credits
+\0\>
+Broj žetona
+\0\<
+shared number of allowed respawning in Coop
+\0\>
+broj žetona dijeli se na sve igraèe koalicije
+\0\<
+Infinite
+\0\>
+Beskonaèno
+\0\<
+No respawn
+\0\>
+Nema dodatnih života
+\0\<
+Friendly fire
+\0\>
+Ozlijedi suigraèe
+\0\<
+enable/disable damaging of other players
+\0\>
+ukljuèuje/iskljuèuje ozlijeðivanje suigraèa
+\0\<
+Extra enemy strength
+\0\>
+Dodatna jaèina neprijatelja
+\0\<
+make enemies tougher by given percentage
+\0\>
+uèini neprijatelje jaèima za odreðeni postotak
+\0\<
+Enemy strength per player
+\0\>
+Jaèina neprijatelja po suigraèu
+\0\<
+make enemies tougher as new players join
+\0\>
+uèini neprijatelje jaèima po svakom aktivnom igraèu
+\0\<
+Play entire game
+\0\>
+Igraj cijelu igru
+\0\<
+continue from level to level
+\0\>
+nivoi se nastavljaju po redu
+\0\<
+Respawn in-place
+\0\>
+Pojavljivanje na mjestu
+\0\<
+makes players reborn where they were killed
+\0\>
+vraæa igraèe na mjestu gdje su usmræeni
+\0\<
+Common options
+\0\>
+Zajednièka podešenja
+\0\<
+Invulnerable after spawning (sec)
+\0\>
+Besmrtnost nakon pojavljivanja (sec)
+\0\<
+protect players from being killed immediately after appearing
+\0\>
+èuva igraèe od smrti odmah nakon pojavljivanja
+\0\<
+Infinite ammo
+\0\>
+Beskonaèna municija
+\0\<
+if on, you don't need ammo to use weapons
+\0\>
+ako je ukljuèeno, skupljanje municije postaje nepotrebno
+\0\<
+Clients may pause
+\0\>
+Klijenti mogu pauzirati
+\0\<
+if off, only server may pause the game
+\0\>
+ukoliko je iskljuèeno, samo server može pauzirati igru
+\0\<
+Violence options
+\0\>
+Podešenja nasilnosti
+\0\<
+Blood and gore
+\0\>
+Krv i ranjavanje
+\0\<
+choose appearance of blood and gore
+\0\>
+odaberi boju krvi
+\0\<
+Green
+\0\>
+Zelena
+\0\<
+Red
+\0\>
+Crvena
+\0\<
+Hippie
+\0\>
+Hippie
+\0\<
+Gibs
+\0\>
+Komadi
+\0\<
+enable/disable gibbing of enemies and players
+\0\>
+ukljuèi/iskljuèi komadanje neprijatelja i igraèa
+\0\<
+Texture size
+\0\>
+Velièina tekstura
+\0\<
+set size for textures
+\0\>
+podesi velièinu tekstura
+\0\<
+Texture quality
+\0\>
+Kvaliteta tekstura
+\0\<
+set quality for textures
+\0\>
+podesi kvalitetu tekstura
+\0\<
+enable/disable rendering of detail textures in world
+\0\>
+ukljuèi/iskljuèi iscrtavanje detaljnih tekstura na svijetu
+\0\<
+Shadowmap size
+\0\>
+Velièina mapa sjena
+\0\<
+set size of shadowmap textures in level
+\0\>
+podesi velièinu tekstura za mape sjena na razini
+\0\<
+Lens flares
+\0\>
+Odbljesci leæa
+\0\<
+Simple
+\0\>
+Jednostavni
+\0\<
+Standard
+\0\>
+Uobièajeni
+\0\<
+Gamma correction
+\0\>
+Korekcija game
+\0\<
+specify display gamma
+\0\>
+odaberi prikaz game
+\0\<
+Wait vertical retrace
+\0\>
+Èekaj vertikalno osvježavanje
+\0\<
+synchronize frame change with monitor refresh rate
+\0\>
+sinhroniziraj izmjenu slièica sa brzinom osvježenja zaslona
+\0\<
+Wide screen
+\0\>
+Široki zaslon
+\0\<
+enable/disable wide screen mode (4:3 or 16:9 ratio)
+\0\>
+ukljuæi/iskljuæi naèin širokog zaslona (4:3 ili 16:9 omjer)
+\0\$

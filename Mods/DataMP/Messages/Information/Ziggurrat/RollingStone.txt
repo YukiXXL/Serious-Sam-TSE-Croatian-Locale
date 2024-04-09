@@ -1,8 +1,0 @@
-SUBJECT
-Zigurat - Kamen
-IMAGE
-picture
-TFNM TexturesMP\Computer\Messages\Ziggurrat\RollingStone.tex
-TEXT
-
-Pogledaj Sam, kamen! Kameni Sam... Sam KAMENJAK!!! Buahahahaha... U svakom sluèaju, zanima me èemu služi...

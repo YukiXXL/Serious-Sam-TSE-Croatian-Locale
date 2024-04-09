@@ -1,0 +1,8 @@
+SUBJECT
+Zigurat - Pomièni blokovi
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\Ziggurrat\MovableBlocks.tex
+TEXT
+
+Hmmm.... ovi teški blokovi zasigurno ne izgledaju kao da su dio arhitekture.  Pokušaj pronaæi nekakav prekidaè, možda se mogu pomaknuti.

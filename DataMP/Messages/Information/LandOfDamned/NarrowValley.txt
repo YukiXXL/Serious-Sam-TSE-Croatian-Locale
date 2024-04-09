@@ -1,0 +1,12 @@
+SUBJECT
+Zemlja Prokletih - Naoružani Kamikazei?!
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\LandOfDamned\NarrowValley.tex
+TEXT
+
+Peæine Lave o kojima sam ti prièala... èini se da to mjesto postoji!  Ova cijela knjiga... je dnevnik jednog od Magisa, koji je sakrio Gral, napisan tijekom njihovog pohoda!  Ako pratimo upute prema ovoj knjizi, trebali bi moæi pronaæi Sveti Gral!
+
+Moji termalni senzori su podivljali - izgleda da postoji jako zraèenje topline iz smjera u kojem idemo, èini mi se da smo na pravom putu. 
+
+Pazi, ovi vrišteæi bedaci nose sa sobom nekakvo oružje!

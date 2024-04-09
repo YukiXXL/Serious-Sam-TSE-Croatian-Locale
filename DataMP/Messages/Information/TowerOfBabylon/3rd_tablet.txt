@@ -1,0 +1,10 @@
+SUBJECT
+Babilonska Kula - Treæa Ploèa Mudrosti
+IMAGE
+picture
+TFNM TexturesMP\Computer\Messages\TowerOfBabylon\Tablet.tex
+TEXT
+
+Da sam bomba, sada bih eksplodirala!  To je to, uspjeli smo!  Možemo uæi u jednu jedinu Babilonsku Kulu i susresti se s tim èudovištem koje živi unutra.
+
+Pretpostavljam da bih ti trebala zahvaljivati pošto si me poveo na ovo prekrasno putovanje do egzotiènih mjesta i zemalja!
